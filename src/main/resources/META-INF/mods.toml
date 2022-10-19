@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+issueTrackerURL="https://github.com/Mrthomas20121/TFC-Decoration/issues"
+
+[[mods]]
+modId="tfc_metallum"
+version="1.1.2"
+displayName="TFC Metallum"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tfc_metallum"
+authors="Mrthomas20121"
+description='''
+Add new Metals to TFC.
+'''
+
+[[dependencies.tfc_metallum]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[39,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    side="BOTH"
