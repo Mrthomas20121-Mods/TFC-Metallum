@@ -1,4 +1,4 @@
-package tfc_metallum.blocks;
+package tfc_metallum.common;
 
 import net.dries007.tfc.common.TFCTags;
 import net.dries007.tfc.common.TFCTiers;
