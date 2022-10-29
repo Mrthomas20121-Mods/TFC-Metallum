@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/graphite",
+  "melt_temperature": 500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/graphite"
+  },
+  "sheets": {
+    "tag": "forge:sheets/graphite"
+  }
+}

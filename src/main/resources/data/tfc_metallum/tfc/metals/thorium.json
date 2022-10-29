@@ -1,0 +1,12 @@
+{
+  "tier": 6,
+  "fluid": "tfc_metallum:metal/thorium",
+  "melt_temperature": 1750,
+  "specific_heat_capacity": 0.01,
+  "ingots": {
+    "tag": "forge:ingots/thorium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/thorium"
+  }
+}

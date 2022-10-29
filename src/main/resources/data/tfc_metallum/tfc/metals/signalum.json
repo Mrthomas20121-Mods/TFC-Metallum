@@ -1,0 +1,12 @@
+{
+  "tier": 4,
+  "fluid": "tfc_metallum:metal/signalum",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/signalum"
+  },
+  "sheets": {
+    "tag": "forge:sheets/signalum"
+  }
+}

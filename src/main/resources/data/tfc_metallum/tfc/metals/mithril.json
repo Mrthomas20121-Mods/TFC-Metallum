@@ -1,0 +1,12 @@
+{
+  "tier": 2,
+  "fluid": "tfc_metallum:metal/mithril",
+  "melt_temperature": 940,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/mithril"
+  },
+  "sheets": {
+    "tag": "forge:sheets/mithril"
+  }
+}

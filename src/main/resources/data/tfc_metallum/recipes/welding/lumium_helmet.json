@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_helmet/lumium"
+  },
+  "second_input": {
+    "tag": "forge:sheet/lumium"
+  },
+  "tier": 3,
+  "result": {
+    "item": "tfc_metallum:metal/helmet/lumium"
+  }
+}

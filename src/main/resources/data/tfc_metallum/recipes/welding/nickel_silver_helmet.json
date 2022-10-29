@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_helmet/nickel_silver"
+  },
+  "second_input": {
+    "tag": "forge:sheet/nickel_silver"
+  },
+  "tier": 1,
+  "result": {
+    "item": "tfc_metallum:metal/helmet/nickel_silver"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingot/signalum"
+  },
+  "second_input": {
+    "tag": "forge:ingot/signalum"
+  },
+  "tier": 3,
+  "result": {
+    "item": "tfc_metallum:metal/double_ingot/signalum"
+  }
+}

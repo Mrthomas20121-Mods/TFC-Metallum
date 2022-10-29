@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/compressed_iron",
+  "melt_temperature": 1535,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/compressed_iron"
+  },
+  "sheets": {
+    "tag": "forge:sheets/compressed_iron"
+  }
+}

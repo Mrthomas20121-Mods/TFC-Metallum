@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/uranium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/tuyere/uranium"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_last",
+    "bend_second_last"
+  ]
+}

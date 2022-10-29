@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/osmium",
+  "melt_temperature": 1450,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/osmium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/osmium"
+  }
+}

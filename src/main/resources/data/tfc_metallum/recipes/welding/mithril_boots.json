@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_boots/mithril"
+  },
+  "second_input": {
+    "tag": "forge:sheet/mithril"
+  },
+  "tier": 1,
+  "result": {
+    "item": "tfc_metallum:metal/boots/mithril"
+  }
+}

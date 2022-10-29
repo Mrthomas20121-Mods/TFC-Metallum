@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/boron",
+  "melt_temperature": 2070,
+  "specific_heat_capacity": 0.01,
+  "ingots": {
+    "tag": "forge:ingots/boron"
+  },
+  "sheets": {
+    "tag": "forge:sheets/boron"
+  }
+}

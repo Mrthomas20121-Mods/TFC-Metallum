@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/knife_blade/enderium"
+  },
+  "second_input": {
+    "item": "tfc_metallum:metal/knife_blade/enderium"
+  },
+  "tier": 4,
+  "result": {
+    "item": "tfc_metallum:metal/shears/enderium"
+  }
+}

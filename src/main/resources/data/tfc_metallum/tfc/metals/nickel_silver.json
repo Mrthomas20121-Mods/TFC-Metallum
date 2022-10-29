@@ -1,0 +1,12 @@
+{
+  "tier": 2,
+  "fluid": "tfc_metallum:metal/nickel_silver",
+  "melt_temperature": 1450,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/nickel_silver"
+  },
+  "sheets": {
+    "tag": "forge:sheets/nickel_silver"
+  }
+}

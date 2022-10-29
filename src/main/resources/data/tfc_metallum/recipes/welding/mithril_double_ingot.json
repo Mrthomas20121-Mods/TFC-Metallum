@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingot/mithril"
+  },
+  "second_input": {
+    "tag": "forge:ingot/mithril"
+  },
+  "tier": 1,
+  "result": {
+    "item": "tfc_metallum:metal/double_ingot/mithril"
+  }
+}

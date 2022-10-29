@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/knife_blade/uranium"
+  },
+  "second_input": {
+    "item": "tfc_metallum:metal/knife_blade/uranium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/shears/uranium"
+  }
+}

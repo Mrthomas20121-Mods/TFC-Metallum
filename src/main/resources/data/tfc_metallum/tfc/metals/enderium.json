@@ -1,0 +1,12 @@
+{
+  "tier": 5,
+  "fluid": "tfc_metallum:metal/enderium",
+  "melt_temperature": 1700,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/enderium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/enderium"
+  }
+}

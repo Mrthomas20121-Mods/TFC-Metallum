@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/refined_glowstone"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/shovel_head/refined_glowstone"
+  },
+  "tier": 4,
+  "rules": [
+    "punch_last",
+    "hit_not_last"
+  ],
+  "apply_forging_bonus": true
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:sheet/boron"
+  },
+  "second_input": {
+    "tag": "forge:sheet/boron"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/double_sheet/boron"
+  }
+}

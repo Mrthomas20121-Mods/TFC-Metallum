@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_boots/uranium"
+  },
+  "second_input": {
+    "tag": "forge:sheet/uranium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/boots/uranium"
+  }
+}

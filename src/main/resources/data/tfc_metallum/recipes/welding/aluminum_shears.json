@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/knife_blade/aluminum"
+  },
+  "second_input": {
+    "item": "tfc_metallum:metal/knife_blade/aluminum"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/shears/aluminum"
+  }
+}

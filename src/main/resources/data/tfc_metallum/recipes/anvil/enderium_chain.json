@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/enderium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chain/enderium",
+    "count": 16
+  },
+  "tier": 5,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}

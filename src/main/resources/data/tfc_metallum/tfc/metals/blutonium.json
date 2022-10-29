@@ -1,0 +1,12 @@
+{
+  "tier": 6,
+  "fluid": "tfc_metallum:metal/blutonium",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/blutonium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/blutonium"
+  }
+}

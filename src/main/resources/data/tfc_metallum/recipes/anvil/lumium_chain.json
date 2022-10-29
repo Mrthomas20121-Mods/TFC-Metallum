@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/lumium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chain/lumium",
+    "count": 16
+  },
+  "tier": 4,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}

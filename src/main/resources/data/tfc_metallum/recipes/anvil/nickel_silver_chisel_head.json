@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/nickel_silver"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chisel_head/nickel_silver"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_last",
+    "hit_not_last",
+    "draw_not_last"
+  ],
+  "apply_forging_bonus": true
+}

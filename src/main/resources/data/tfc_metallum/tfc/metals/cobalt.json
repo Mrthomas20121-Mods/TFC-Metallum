@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/cobalt",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.012,
+  "ingots": {
+    "tag": "forge:ingots/cobalt"
+  },
+  "sheets": {
+    "tag": "forge:sheets/cobalt"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/mithril"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/hammer_head/mithril"
+  },
+  "tier": 2,
+  "rules": [
+    "punch_last",
+    "shrink_not_last"
+  ],
+  "apply_forging_bonus": true
+}

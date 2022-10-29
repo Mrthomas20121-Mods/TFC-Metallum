@@ -1,0 +1,12 @@
+{
+  "tier": 4,
+  "fluid": "tfc_metallum:metal/refined_glowstone",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/refined_glowstone"
+  },
+  "sheets": {
+    "tag": "forge:sheets/refined_glowstone"
+  }
+}

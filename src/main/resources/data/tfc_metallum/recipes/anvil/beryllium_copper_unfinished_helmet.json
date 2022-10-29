@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/beryllium_copper"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_helmet/beryllium_copper"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "bend_second_last",
+    "bend_third_last"
+  ]
+}

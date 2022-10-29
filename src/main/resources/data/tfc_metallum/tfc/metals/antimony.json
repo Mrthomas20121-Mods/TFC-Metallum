@@ -1,0 +1,12 @@
+{
+  "tier": 1,
+  "fluid": "tfc_metallum:metal/antimony",
+  "melt_temperature": 630,
+  "specific_heat_capacity": 0.012,
+  "ingots": {
+    "tag": "forge:ingots/antimony"
+  },
+  "sheets": {
+    "tag": "forge:sheets/antimony"
+  }
+}

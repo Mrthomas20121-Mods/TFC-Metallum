@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/tungsten"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_greaves/tungsten"
+  },
+  "tier": 6,
+  "rules": [
+    "bend_any",
+    "draw_any",
+    "hit_any"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tier": 6,
+  "fluid": "tfc_metallum:metal/tungsten",
+  "melt_temperature": 3400,
+  "specific_heat_capacity": 0.015,
+  "ingots": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "sheets": {
+    "tag": "forge:sheets/tungsten"
+  }
+}

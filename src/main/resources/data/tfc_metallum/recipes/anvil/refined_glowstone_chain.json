@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/refined_glowstone"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chain/refined_glowstone",
+    "count": 16
+  },
+  "tier": 4,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}
