@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/marble",
+    "particle": "tfc:block/raw/marble",
+    "overlay": "tfc_metallum:block/ore/poor_uraninite"
+  }
+}

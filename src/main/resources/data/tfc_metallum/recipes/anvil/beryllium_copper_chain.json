@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/beryllium_copper"
   },
   "result": {
-    "item": "tfc_metallum:metal/chain/beryllium_copper",
-    "count": 16
+    "item": "tfc_metallum:metal/chain/beryllium_copper"
   },
   "tier": 3,
   "rules": [

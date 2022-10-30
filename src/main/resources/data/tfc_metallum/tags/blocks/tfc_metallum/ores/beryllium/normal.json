@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/normal_bertrandite/granite",
+    "tfc_metallum:ore/normal_bertrandite/diorite",
+    "tfc_metallum:ore/normal_bertrandite/gabbro",
+    "tfc_metallum:ore/normal_bertrandite/shale",
+    "tfc_metallum:ore/normal_bertrandite/claystone",
+    "tfc_metallum:ore/normal_bertrandite/limestone",
+    "tfc_metallum:ore/normal_bertrandite/conglomerate",
+    "tfc_metallum:ore/normal_bertrandite/dolomite",
+    "tfc_metallum:ore/normal_bertrandite/chert",
+    "tfc_metallum:ore/normal_bertrandite/chalk",
+    "tfc_metallum:ore/normal_bertrandite/rhyolite",
+    "tfc_metallum:ore/normal_bertrandite/basalt",
+    "tfc_metallum:ore/normal_bertrandite/andesite",
+    "tfc_metallum:ore/normal_bertrandite/dacite",
+    "tfc_metallum:ore/normal_bertrandite/quartzite",
+    "tfc_metallum:ore/normal_bertrandite/slate",
+    "tfc_metallum:ore/normal_bertrandite/phyllite",
+    "tfc_metallum:ore/normal_bertrandite/schist",
+    "tfc_metallum:ore/normal_bertrandite/gneiss",
+    "tfc_metallum:ore/normal_bertrandite/marble"
+  ]
+}

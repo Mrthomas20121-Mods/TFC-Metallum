@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/lamp_hanging",
+  "textures": {
+    "metal": "tfc_metallum:block/metal/full/beryllium_copper",
+    "chain": "tfc_metallum:block/metal/chain/beryllium_copper",
+    "lamp": "tfc:block/lamp_off"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/andesite",
+    "particle": "tfc:block/raw/andesite",
+    "overlay": "tfc_metallum:block/ore/normal_bertrandite"
+  }
+}

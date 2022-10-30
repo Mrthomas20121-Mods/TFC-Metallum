@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/electrum"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/electrum",
-    "count": 2
+    "item": "tfc_metallum:metal/rod/electrum"
   },
   "tier": 2,
   "rules": [

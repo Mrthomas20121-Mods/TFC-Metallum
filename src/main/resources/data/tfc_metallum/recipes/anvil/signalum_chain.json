@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/signalum"
   },
   "result": {
-    "item": "tfc_metallum:metal/chain/signalum",
-    "count": 16
+    "item": "tfc_metallum:metal/chain/signalum"
   },
   "tier": 4,
   "rules": [

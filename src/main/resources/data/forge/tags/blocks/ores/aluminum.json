@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc_metallum:ores/aluminum/poor",
+    "#tfc_metallum:ores/aluminum/normal",
+    "#tfc_metallum:ores/aluminum/rich"
+  ]
+}

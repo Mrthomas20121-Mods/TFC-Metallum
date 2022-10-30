@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/gneiss",
+    "particle": "tfc:block/raw/gneiss",
+    "overlay": "tfc_metallum:block/ore/normal_rutile"
+  }
+}

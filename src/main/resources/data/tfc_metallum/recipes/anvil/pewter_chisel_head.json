@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chisel_head/pewter"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "hit_not_last",
+    "draw_not_last"
+  ],
+  "apply_forging_bonus": true
+}

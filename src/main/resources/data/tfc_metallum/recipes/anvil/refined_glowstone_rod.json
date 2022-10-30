@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/refined_glowstone"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/refined_glowstone",
-    "count": 2
+    "item": "tfc_metallum:metal/rod/refined_glowstone"
   },
   "tier": 4,
   "rules": [

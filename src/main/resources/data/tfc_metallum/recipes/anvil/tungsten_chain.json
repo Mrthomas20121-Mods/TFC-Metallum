@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/tungsten"
   },
   "result": {
-    "item": "tfc_metallum:metal/chain/tungsten",
-    "count": 16
+    "item": "tfc_metallum:metal/chain/tungsten"
   },
   "tier": 6,
   "rules": [

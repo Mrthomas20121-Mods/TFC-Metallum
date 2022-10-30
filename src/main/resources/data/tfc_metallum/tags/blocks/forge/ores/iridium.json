@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc_metallum:ores/iridium/poor",
+    "#tfc_metallum:ores/iridium/normal",
+    "#tfc_metallum:ores/iridium/rich"
+  ]
+}

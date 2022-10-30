@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/basalt",
+    "particle": "tfc:block/raw/basalt",
+    "overlay": "tfc_metallum:block/ore/raw_bertrandite"
+  }
+}

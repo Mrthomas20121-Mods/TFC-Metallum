@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_greaves/pewter"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_any",
+    "draw_any",
+    "hit_any"
+  ]
+}

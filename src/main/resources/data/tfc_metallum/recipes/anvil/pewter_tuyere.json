@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/tuyere/pewter"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_last",
+    "bend_second_last"
+  ]
+}

@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/boron"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/boron",
-    "count": 2
+    "item": "tfc_metallum:metal/rod/boron"
   },
   "tier": 3,
   "rules": [

@@ -15,6 +15,7 @@ public enum MetallumOre {
     GALENA(true),
     MONAZITE(true),
     NATIVE_OSMIUM(true),
+    NATIVE_IRIDIUM(true),
     RUTILE(true),
     STIBNITE(true),
     URANINITE(true),

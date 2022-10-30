@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/rich_galena/granite",
+    "tfc_metallum:ore/rich_galena/diorite",
+    "tfc_metallum:ore/rich_galena/gabbro",
+    "tfc_metallum:ore/rich_galena/shale",
+    "tfc_metallum:ore/rich_galena/claystone",
+    "tfc_metallum:ore/rich_galena/limestone",
+    "tfc_metallum:ore/rich_galena/conglomerate",
+    "tfc_metallum:ore/rich_galena/dolomite",
+    "tfc_metallum:ore/rich_galena/chert",
+    "tfc_metallum:ore/rich_galena/chalk",
+    "tfc_metallum:ore/rich_galena/rhyolite",
+    "tfc_metallum:ore/rich_galena/basalt",
+    "tfc_metallum:ore/rich_galena/andesite",
+    "tfc_metallum:ore/rich_galena/dacite",
+    "tfc_metallum:ore/rich_galena/quartzite",
+    "tfc_metallum:ore/rich_galena/slate",
+    "tfc_metallum:ore/rich_galena/phyllite",
+    "tfc_metallum:ore/rich_galena/schist",
+    "tfc_metallum:ore/rich_galena/gneiss",
+    "tfc_metallum:ore/rich_galena/marble"
+  ]
+}

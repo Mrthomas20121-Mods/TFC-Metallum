@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/osmiridium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/lamp/osmiridium"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "draw_third_last"
+  ]
+}

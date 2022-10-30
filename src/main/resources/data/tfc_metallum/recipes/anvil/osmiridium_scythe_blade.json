@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/osmiridium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/scythe_blade/osmiridium"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "draw_second_last",
+    "bend_third_last"
+  ],
+  "apply_forging_bonus": true
+}

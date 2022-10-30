@@ -1,0 +1,16 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:mithril",
+  "contents": [
+    {
+      "metal": "tfc:copper",
+      "min": 0.88,
+      "max": 0.92
+    },
+    {
+      "metal": "tfc_metallum:antimony",
+      "min": 0.08,
+      "max": 0.12
+    }
+  ]
+}

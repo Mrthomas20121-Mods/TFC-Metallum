@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/lead"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/lead",
-    "count": 2
+    "item": "tfc_metallum:metal/rod/lead"
   },
   "tier": 1,
   "rules": [

@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/dacite",
+    "particle": "tfc:block/raw/dacite",
+    "overlay": "tfc_metallum:block/ore/raw_cobaltite"
+  }
+}

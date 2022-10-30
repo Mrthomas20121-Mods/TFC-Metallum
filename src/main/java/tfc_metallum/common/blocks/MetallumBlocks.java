@@ -1,14 +1,17 @@
 package tfc_metallum.common.blocks;
 
 import net.dries007.tfc.common.blocks.GroundcoverBlock;
+import net.dries007.tfc.common.blocks.TFCMaterials;
 import net.dries007.tfc.common.blocks.rock.Ore;
 import net.dries007.tfc.common.blocks.rock.Rock;
+import net.dries007.tfc.common.fluids.TFCFluids;
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.registry.RegistrationHelpers;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.LiquidBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
@@ -18,6 +21,7 @@ import net.minecraftforge.registries.RegistryObject;
 import tfc_metallum.TFCMetallum;
 import tfc_metallum.common.MetallumItemGroup;
 import tfc_metallum.common.blocks.rock.MetallumOre;
+import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.common.items.MetallumItems;
 import tfc_metallum.util.MetallumMetal;
 
@@ -47,6 +51,15 @@ public class MetallumBlocks {
                     register(("metal/" + type.name() + "/" + metal.name()), type.create(metal), type.createBlockItem(new Item.Properties().tab(MetallumItemGroup.METAL)))
             )
     );
+
+    public static final Map<MetallumMetal, RegistryObject<LiquidBlock>> METAL_FLUIDS = Helpers.mapOfKeys(MetallumMetal.class, metal ->
+            register("fluid/metal/" + metal.name(), () -> new LiquidBlock(MetallumFluids.METALS.get(metal).source(), BlockBehaviour.Properties.of(TFCMaterials.MOLTEN_METAL).noCollission().strength(100f).lightLevel(state -> 15).noDrops()))
+    );
+
+    private static <T extends Block> RegistryObject<T> register(String name, Supplier<T> blockSupplier)
+    {
+        return register(name, blockSupplier, (Function<T, ? extends BlockItem>) null);
+    }
 
     private static <T extends Block> RegistryObject<T> register(String name, Supplier<T> blockSupplier, CreativeModeTab group)
     {

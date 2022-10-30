@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/claystone",
+    "particle": "tfc:block/raw/claystone",
+    "overlay": "tfc_metallum:block/ore/raw_wolframite"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc_metallum:ores/uranium/poor",
+    "#tfc_metallum:ores/uranium/normal",
+    "#tfc_metallum:ores/uranium/rich"
+  ]
+}

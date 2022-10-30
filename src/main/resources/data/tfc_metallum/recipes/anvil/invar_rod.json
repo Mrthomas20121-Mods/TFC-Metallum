@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/invar"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/invar",
-    "count": 2
+    "item": "tfc_metallum:metal/rod/invar"
   },
   "tier": 3,
   "rules": [

@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/lamp",
+  "textures": {
+    "metal": "tfc_metallum:block/metal/full/mithril",
+    "lamp": "tfc:block/lamp"
+  }
+}

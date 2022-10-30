@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "hanging=false,lit=false": {
+      "model": "tfc_metallum:block/metal/lamp/tungsten_steel_off"
+    },
+    "hanging=true,lit=false": {
+      "model": "tfc_metallum:block/metal/lamp/tungsten_steel_hanging_off"
+    },
+    "hanging=false,lit=true": {
+      "model": "tfc_metallum:block/metal/lamp/tungsten_steel_on"
+    },
+    "hanging=true,lit=true": {
+      "model": "tfc_metallum:block/metal/lamp/tungsten_steel_hanging_on"
+    }
+  }
+}

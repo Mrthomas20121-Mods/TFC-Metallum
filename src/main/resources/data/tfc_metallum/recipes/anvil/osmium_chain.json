@@ -1,12 +1,10 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:anvil",
   "input": {
     "tag": "forge:ingots/osmium"
   },
   "result": {
-    "item": "tfc_metallum:metal/chain/osmium",
-    "count": 16
+    "item": "tfc_metallum:metal/chain/osmium"
   },
   "tier": 3,
   "rules": [

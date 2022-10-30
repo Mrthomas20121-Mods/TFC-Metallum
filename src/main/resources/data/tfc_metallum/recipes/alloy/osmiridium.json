@@ -1,0 +1,16 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:osmiridium",
+  "contents": [
+    {
+      "metal": "tfc_metallum:osmium",
+      "min": 0.6,
+      "max": 0.8
+    },
+    {
+      "metal": "tfc_metallum:iridium",
+      "min": 0.2,
+      "max": 0.4
+    }
+  ]
+}

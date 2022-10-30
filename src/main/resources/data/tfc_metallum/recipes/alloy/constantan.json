@@ -1,0 +1,16 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:constantan",
+  "contents": [
+    {
+      "metal": "tfc:copper",
+      "min": 0.4,
+      "max": 0.6
+    },
+    {
+      "metal": "tfc:nickel",
+      "min": 0.4,
+      "max": 0.6
+    }
+  ]
+}

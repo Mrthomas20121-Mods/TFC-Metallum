@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:sheets/osmiridium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_boots/osmiridium"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "shrink_third_last"
+  ]
+}

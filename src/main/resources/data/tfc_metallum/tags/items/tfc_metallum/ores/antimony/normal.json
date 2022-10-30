@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/normal_stibnite/granite",
+    "tfc_metallum:ore/normal_stibnite/diorite",
+    "tfc_metallum:ore/normal_stibnite/gabbro",
+    "tfc_metallum:ore/normal_stibnite/shale",
+    "tfc_metallum:ore/normal_stibnite/claystone",
+    "tfc_metallum:ore/normal_stibnite/limestone",
+    "tfc_metallum:ore/normal_stibnite/conglomerate",
+    "tfc_metallum:ore/normal_stibnite/dolomite",
+    "tfc_metallum:ore/normal_stibnite/chert",
+    "tfc_metallum:ore/normal_stibnite/chalk",
+    "tfc_metallum:ore/normal_stibnite/rhyolite",
+    "tfc_metallum:ore/normal_stibnite/basalt",
+    "tfc_metallum:ore/normal_stibnite/andesite",
+    "tfc_metallum:ore/normal_stibnite/dacite",
+    "tfc_metallum:ore/normal_stibnite/quartzite",
+    "tfc_metallum:ore/normal_stibnite/slate",
+    "tfc_metallum:ore/normal_stibnite/phyllite",
+    "tfc_metallum:ore/normal_stibnite/schist",
+    "tfc_metallum:ore/normal_stibnite/gneiss",
+    "tfc_metallum:ore/normal_stibnite/marble"
+  ]
+}

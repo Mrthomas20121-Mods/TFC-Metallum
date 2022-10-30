@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/raw/schist",
+    "particle": "tfc:block/raw/schist",
+    "overlay": "tfc_metallum:block/ore/normal_native_iridium"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:nickel_silver",
+  "contents": [
+    {
+      "metal": "tfc:copper",
+      "min": 0.5,
+      "max": 0.65
+    },
+    {
+      "metal": "tfc:zinc",
+      "min": 0.1,
+      "max": 0.3
+    },
+    {
+      "metal": "tfc:nickel",
+      "min": 0.1,
+      "max": 0.3
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chain/pewter"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}

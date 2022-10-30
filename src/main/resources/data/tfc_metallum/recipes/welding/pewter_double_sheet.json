@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:sheet/pewter"
+  },
+  "second_input": {
+    "tag": "forge:sheet/pewter"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/double_sheet/pewter"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/rich_kernite/granite",
+    "tfc_metallum:ore/rich_kernite/diorite",
+    "tfc_metallum:ore/rich_kernite/gabbro",
+    "tfc_metallum:ore/rich_kernite/shale",
+    "tfc_metallum:ore/rich_kernite/claystone",
+    "tfc_metallum:ore/rich_kernite/limestone",
+    "tfc_metallum:ore/rich_kernite/conglomerate",
+    "tfc_metallum:ore/rich_kernite/dolomite",
+    "tfc_metallum:ore/rich_kernite/chert",
+    "tfc_metallum:ore/rich_kernite/chalk",
+    "tfc_metallum:ore/rich_kernite/rhyolite",
+    "tfc_metallum:ore/rich_kernite/basalt",
+    "tfc_metallum:ore/rich_kernite/andesite",
+    "tfc_metallum:ore/rich_kernite/dacite",
+    "tfc_metallum:ore/rich_kernite/quartzite",
+    "tfc_metallum:ore/rich_kernite/slate",
+    "tfc_metallum:ore/rich_kernite/phyllite",
+    "tfc_metallum:ore/rich_kernite/schist",
+    "tfc_metallum:ore/rich_kernite/gneiss",
+    "tfc_metallum:ore/rich_kernite/marble"
+  ]
+}

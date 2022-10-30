@@ -2,17 +2,22 @@ package tfc_metallum.common.items;
 
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.Metal;
+import net.minecraft.world.item.BucketItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Items;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import tfc_metallum.TFCMetallum;
+import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.util.MetallumMetal;
 
 import java.util.Locale;
 import java.util.Map;
 import java.util.function.Supplier;
+
+import static net.dries007.tfc.common.TFCItemGroup.MISC;
 
 public class MetallumItems {
 
@@ -22,6 +27,10 @@ public class MetallumItems {
             Helpers.mapOfKeys(MetallumMetal.ItemType.class, type -> type.has(metal), type ->
                     register("metal/" + type.name() + "/" + metal.name(), () -> type.create(metal))
             )
+    );
+
+    public static final Map<MetallumMetal, RegistryObject<BucketItem>> METAL_FLUID_BUCKETS = Helpers.mapOfKeys(MetallumMetal.class, metal ->
+            register("bucket/metal/" + metal.name(), () -> new BucketItem(MetallumFluids.METALS.get(metal).source(), new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1).tab(MISC)))
     );
 
     private static RegistryObject<Item> register(String name, CreativeModeTab group)

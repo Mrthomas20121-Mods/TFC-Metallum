@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_ingots/osmiridium"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/mace_head/osmiridium"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "shrink_not_last",
+    "bend_not_last"
+  ],
+  "apply_forging_bonus": true
+}

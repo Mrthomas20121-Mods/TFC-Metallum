@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/knife_blade/osmiridium"
+  },
+  "second_input": {
+    "item": "tfc_metallum:metal/knife_blade/osmiridium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/shears/osmiridium"
+  }
+}

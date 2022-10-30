@@ -4,6 +4,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import tfc_metallum.common.blocks.MetallumBlocks;
+import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.common.items.MetallumItems;
 
 @Mod(TFCMetallum.mod_id)
@@ -15,5 +16,6 @@ public class TFCMetallum {
 		final IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MetallumBlocks.BLOCKS.register(bus);
 		MetallumItems.ITEMS.register(bus);
+		MetallumFluids.FLUIDS.register(bus);
 	}
 }

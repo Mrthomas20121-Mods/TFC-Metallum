@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/anvil",
+  "textures": {
+    "all": "tfc_metallum:block/metal/full/ferroboron",
+    "particle": "tfc_metallum:block/metal/full/ferroboron"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "tfc_metallum:block/metal/chain/compressed_iron",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "tfc_metallum:block/metal/chain/compressed_iron"
+    },
+    "axis=z": {
+      "model": "tfc_metallum:block/metal/chain/compressed_iron",
+      "x": 90
+    }
+  }
+}

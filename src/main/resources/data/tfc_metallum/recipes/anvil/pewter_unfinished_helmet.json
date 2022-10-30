@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_helmet/pewter"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "bend_second_last",
+    "bend_third_last"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tfc_metallum:block/metal/anvil/cobalt",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "tfc_metallum:block/metal/anvil/cobalt",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "tfc_metallum:block/metal/anvil/cobalt",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "tfc_metallum:block/metal/anvil/cobalt"
+    }
+  }
+}

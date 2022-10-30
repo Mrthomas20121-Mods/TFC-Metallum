@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_chestplate/osmiridium"
+  },
+  "second_input": {
+    "tag": "forge:sheet/osmiridium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/chestplate/osmiridium"
+  }
+}
