@@ -5,12 +5,12 @@ issueTrackerURL="https://github.com/Mrthomas20121/TFC-Decoration/issues"
 
 [[mods]]
 modId="tfc_metallum"
-version="1.1.2"
+version="0.0.1"
 displayName="TFC Metallum"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/tfc_metallum"
 authors="Mrthomas20121"
 description='''
-Add new Metals to TFC.
+Add metals and ores from other mods to TFC.
 '''
 
 [[dependencies.tfc_metallum]] #optional
@@ -19,4 +19,10 @@ Add new Metals to TFC.
     versionRange="[39,)" #mandatory
     # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
+    side="BOTH"
+[[dependencies.tfc_metallum]]
+    modId="tfc"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="AFTER"
     side="BOTH"

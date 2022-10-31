@@ -9,6 +9,7 @@ import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.crafting.Ingredient;
 import tfc_metallum.TFCMetallum;
 
+import javax.annotation.Nonnull;
 import java.util.Locale;
 
 public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.Multiplier {
@@ -123,6 +124,7 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
         return enchantability;
     }
 
+    @Nonnull
     @Override
     public SoundEvent getEquipSound()
     {
@@ -132,6 +134,7 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     /**
      * Use {@link #getId()} because it doesn't have weird namespaced side effects.
      */
+    @Nonnull
     @Override
     @Deprecated
     public String getName()
@@ -158,6 +161,7 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
         return knockbackResistance;
     }
 
+    @Nonnull
     @Override
     public Ingredient getRepairIngredient()
     {
