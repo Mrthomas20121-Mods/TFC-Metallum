@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/boron/poor",
-    "#tfc_metallum:ores/boron/normal",
-    "#tfc_metallum:ores/boron/rich"
-  ]
-}

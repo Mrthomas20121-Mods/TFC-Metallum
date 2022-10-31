@@ -324,26 +324,22 @@ public enum MetallumMetal implements RegistryMetal {
         private final BiFunction<Block, Item.Properties, ? extends BlockItem> blockItemFactory;
         private final Type type;
 
-        private BlockType(Type type, Function<RegistryMetal, Block> blockFactory, BiFunction<Block, Item.Properties, ? extends BlockItem> blockItemFactory) {
+        BlockType(Type type, Function<RegistryMetal, Block> blockFactory, BiFunction<Block, Item.Properties, ? extends BlockItem> blockItemFactory) {
             this.type = type;
             this.blockFactory = blockFactory;
             this.blockItemFactory = blockItemFactory;
         }
 
-        private BlockType(Type type, Function<RegistryMetal, Block> blockFactory) {
+        BlockType(Type type, Function<RegistryMetal, Block> blockFactory) {
             this(type, blockFactory, BlockItem::new);
         }
 
         public Supplier<Block> create(RegistryMetal metal) {
-            return () -> {
-                return (Block)this.blockFactory.apply(metal);
-            };
+            return () -> (Block)this.blockFactory.apply(metal);
         }
 
         public Function<Block, BlockItem> createBlockItem(Item.Properties properties) {
-            return (block) -> {
-                return (BlockItem)this.blockItemFactory.apply(block, properties);
-            };
+            return (block) -> (BlockItem)this.blockItemFactory.apply(block, properties);
         }
 
         public boolean has(MetallumMetal metal) {

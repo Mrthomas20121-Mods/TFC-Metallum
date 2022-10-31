@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/graphite"
+    "tag": "forge:sheets/graphite"
   },
   "second_input": {
-    "tag": "forge:sheet/graphite"
+    "tag": "forge:sheets/graphite"
   },
   "tier": 2,
   "result": {

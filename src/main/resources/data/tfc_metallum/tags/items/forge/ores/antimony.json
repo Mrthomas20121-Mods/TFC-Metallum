@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/antimony/poor",
-    "#tfc_metallum:ores/antimony/normal",
-    "#tfc_metallum:ores/antimony/rich"
-  ]
-}

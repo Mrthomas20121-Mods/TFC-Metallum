@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sword_blade/thorium"
+  },
+  "temperature": 1750,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/thorium",
+    "amount": 200
+  }
+}

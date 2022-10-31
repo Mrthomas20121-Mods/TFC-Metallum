@@ -53,7 +53,7 @@ public class MetallumBlocks {
     );
 
     public static final Map<MetallumMetal, RegistryObject<LiquidBlock>> METAL_FLUIDS = Helpers.mapOfKeys(MetallumMetal.class, metal ->
-            register("fluid/metal/" + metal.name(), () -> new LiquidBlock(MetallumFluids.METALS.get(metal).source(), BlockBehaviour.Properties.of(TFCMaterials.MOLTEN_METAL).noCollission().strength(100f).lightLevel(state -> 15).noDrops()))
+            register("metal/fluid/" + metal.name(), () -> new LiquidBlock(MetallumFluids.METALS.get(metal).source(), BlockBehaviour.Properties.of(TFCMaterials.MOLTEN_METAL).noCollission().strength(100f).lightLevel(state -> 15).noDrops()))
     );
 
     private static <T extends Block> RegistryObject<T> register(String name, Supplier<T> blockSupplier)

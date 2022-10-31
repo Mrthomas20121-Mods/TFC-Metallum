@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/tuyere/tungsten"
+  },
+  "heat_capacity": 2,
+  "forging_tempererature": 2040,
+  "welding_tempererature": 2720
+}

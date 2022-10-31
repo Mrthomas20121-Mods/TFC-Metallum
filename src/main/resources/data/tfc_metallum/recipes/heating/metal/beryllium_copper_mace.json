@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/mace/beryllium_copper"
+  },
+  "temperature": 1500,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/beryllium_copper",
+    "amount": 200
+  },
+  "useDurability": true
+}

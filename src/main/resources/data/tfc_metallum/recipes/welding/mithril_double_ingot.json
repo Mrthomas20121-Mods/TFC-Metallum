@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/mithril"
+    "tag": "forge:ingots/mithril"
   },
   "second_input": {
-    "tag": "forge:ingot/mithril"
+    "tag": "forge:ingots/mithril"
   },
   "tier": 1,
   "result": {

@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/refined_obsidian"
+    "tag": "forge:sheets/refined_obsidian"
   },
   "second_input": {
-    "tag": "forge:sheet/refined_obsidian"
+    "tag": "forge:sheets/refined_obsidian"
   },
   "tier": 3,
   "result": {

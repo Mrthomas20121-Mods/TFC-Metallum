@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/chisel_head/compressed_iron"
+  },
+  "heat_capacity": 1.143,
+  "forging_tempererature": 921,
+  "welding_tempererature": 1228
+}

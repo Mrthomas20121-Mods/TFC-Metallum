@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/pickaxe/mithril"
+  },
+  "temperature": 940,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/mithril",
+    "amount": 100
+  },
+  "useDurability": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/boots/invar"
+  },
+  "temperature": 1450,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 400
+  },
+  "useDurability": true
+}

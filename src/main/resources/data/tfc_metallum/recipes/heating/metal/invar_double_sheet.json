@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/invar"
+  },
+  "temperature": 1450,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 400
+  }
+}

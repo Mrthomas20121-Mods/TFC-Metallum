@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/hoe/ferroboron"
+  },
+  "temperature": 3000,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/ferroboron",
+    "amount": 100
+  },
+  "useDurability": true
+}

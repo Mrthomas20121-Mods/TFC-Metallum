@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/lead"
+    "tag": "forge:ingots/lead"
   },
   "second_input": {
-    "tag": "forge:ingot/lead"
+    "tag": "forge:ingots/lead"
   },
   "tier": 0,
   "result": {

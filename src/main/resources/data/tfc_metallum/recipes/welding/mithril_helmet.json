@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_helmet/mithril"
   },
   "second_input": {
-    "tag": "forge:sheet/mithril"
+    "tag": "forge:sheets/mithril"
   },
   "tier": 1,
   "result": {

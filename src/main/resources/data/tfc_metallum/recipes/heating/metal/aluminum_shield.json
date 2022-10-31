@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/shield/aluminum"
+  },
+  "temperature": 660,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/aluminum",
+    "amount": 400
+  },
+  "useDurability": true
+}

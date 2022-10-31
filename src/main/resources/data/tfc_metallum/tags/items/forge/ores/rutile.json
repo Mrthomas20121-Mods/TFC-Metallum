@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/rutile/poor",
-    "#tfc_metallum:ores/rutile/normal",
-    "#tfc_metallum:ores/rutile/rich"
-  ]
-}

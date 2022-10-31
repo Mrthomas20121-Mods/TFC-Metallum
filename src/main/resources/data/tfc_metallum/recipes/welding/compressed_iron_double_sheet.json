@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/compressed_iron"
+    "tag": "forge:sheets/compressed_iron"
   },
   "second_input": {
-    "tag": "forge:sheet/compressed_iron"
+    "tag": "forge:sheets/compressed_iron"
   },
   "tier": 2,
   "result": {

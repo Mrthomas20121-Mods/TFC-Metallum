@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/shears/pewter"
+  },
+  "temperature": 1500,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/pewter",
+    "amount": 200
+  },
+  "useDurability": true
+}

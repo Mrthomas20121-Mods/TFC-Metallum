@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/electrum"
+    "tag": "forge:ingots/electrum"
   },
   "second_input": {
-    "tag": "forge:ingot/electrum"
+    "tag": "forge:ingots/electrum"
   },
   "tier": 1,
   "result": {

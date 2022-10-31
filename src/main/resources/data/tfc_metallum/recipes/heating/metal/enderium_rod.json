@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:sheets/enderium"
+  },
+  "temperature": 1700,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/enderium",
+    "amount": 200
+  }
+}

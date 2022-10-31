@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/chisel/aluminum"
+  },
+  "temperature": 660,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/aluminum",
+    "amount": 100
+  },
+  "useDurability": true
+}

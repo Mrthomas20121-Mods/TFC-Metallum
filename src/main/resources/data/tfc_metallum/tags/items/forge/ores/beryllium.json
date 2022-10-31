@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/beryllium/poor",
-    "#tfc_metallum:ores/beryllium/normal",
-    "#tfc_metallum:ores/beryllium/rich"
-  ]
-}

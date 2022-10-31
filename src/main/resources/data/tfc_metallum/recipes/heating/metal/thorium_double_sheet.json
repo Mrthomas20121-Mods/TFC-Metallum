@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/thorium"
+  },
+  "temperature": 1750,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/thorium",
+    "amount": 400
+  }
+}

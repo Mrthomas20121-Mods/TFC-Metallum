@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:sheets/osmium"
+  },
+  "temperature": 3025,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 200
+  }
+}

@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_chestplate/cobalt"
   },
   "second_input": {
-    "tag": "forge:sheet/cobalt"
+    "tag": "forge:sheets/cobalt"
   },
   "tier": 2,
   "result": {

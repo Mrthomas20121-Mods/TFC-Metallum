@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/tuyere/signalum"
+  },
+  "temperature": 1500,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/signalum",
+    "amount": 400
+  },
+  "useDurability": true
+}

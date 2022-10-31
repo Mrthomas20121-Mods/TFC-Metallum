@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/constantan"
+  },
+  "temperature": 1200,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/constantan",
+    "amount": 400
+  }
+}

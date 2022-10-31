@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/mace_head/invar"
+  },
+  "temperature": 1450,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 200
+  }
+}

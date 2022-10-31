@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/javelin_head/osmium"
+  },
+  "temperature": 3025,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 100
+  }
+}

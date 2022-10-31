@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/aluminum"
+    "tag": "forge:ingots/aluminum"
   },
   "second_input": {
-    "tag": "forge:ingot/aluminum"
+    "tag": "forge:ingots/aluminum"
   },
   "tier": 2,
   "result": {

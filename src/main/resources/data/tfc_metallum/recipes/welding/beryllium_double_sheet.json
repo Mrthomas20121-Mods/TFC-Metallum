@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/beryllium"
+    "tag": "forge:sheets/beryllium"
   },
   "second_input": {
-    "tag": "forge:sheet/beryllium"
+    "tag": "forge:sheets/beryllium"
   },
   "tier": 2,
   "result": {

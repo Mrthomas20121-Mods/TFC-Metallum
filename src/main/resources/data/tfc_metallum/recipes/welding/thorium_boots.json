@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_boots/thorium"
   },
   "second_input": {
-    "tag": "forge:sheet/thorium"
+    "tag": "forge:sheets/thorium"
   },
   "tier": 5,
   "result": {

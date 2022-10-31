@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/shield/refined_glowstone"
+  },
+  "temperature": 1500,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/refined_glowstone",
+    "amount": 400
+  },
+  "useDurability": true
+}

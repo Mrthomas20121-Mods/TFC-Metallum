@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/lamp/uranium"
+  },
+  "heat_capacity": 1.143,
+  "forging_tempererature": 660,
+  "welding_tempererature": 880
+}

@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/osmiridium"
+    "tag": "forge:ingots/osmiridium"
   },
   "second_input": {
-    "tag": "forge:ingot/osmiridium"
+    "tag": "forge:ingots/osmiridium"
   },
   "tier": 2,
   "result": {

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sword/mithril"
+  },
+  "temperature": 940,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/mithril",
+    "amount": 200
+  },
+  "useDurability": true
+}

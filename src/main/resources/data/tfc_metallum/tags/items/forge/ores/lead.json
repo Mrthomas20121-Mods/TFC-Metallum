@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/lead/poor",
-    "#tfc_metallum:ores/lead/normal",
-    "#tfc_metallum:ores/lead/rich"
-  ]
-}

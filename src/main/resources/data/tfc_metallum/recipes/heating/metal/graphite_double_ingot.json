@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_ingots/graphite"
+  },
+  "temperature": 500,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/graphite",
+    "amount": 200
+  }
+}

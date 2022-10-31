@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sword_blade/osmium"
+  },
+  "temperature": 3025,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 200
+  }
+}

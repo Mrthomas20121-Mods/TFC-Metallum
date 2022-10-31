@@ -1,5 +1,7 @@
 package tfc_metallum.common.items;
 
+import net.dries007.tfc.common.TFCItemGroup;
+import net.dries007.tfc.common.blocks.rock.Ore;
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.Metal;
 import net.minecraft.world.item.BucketItem;
@@ -10,6 +12,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import tfc_metallum.TFCMetallum;
+import tfc_metallum.common.blocks.rock.MetallumOre;
 import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.util.MetallumMetal;
 
@@ -26,6 +29,12 @@ public class MetallumItems {
     public static final Map<MetallumMetal, Map<MetallumMetal.ItemType, RegistryObject<Item>>> METAL_ITEMS = Helpers.mapOfKeys(MetallumMetal.class, metal ->
             Helpers.mapOfKeys(MetallumMetal.ItemType.class, type -> type.has(metal), type ->
                     register("metal/" + type.name() + "/" + metal.name(), () -> type.create(metal))
+            )
+    );
+
+    public static final Map<MetallumOre, Map<Ore.Grade, RegistryObject<Item>>> GRADED_ORES = Helpers.mapOfKeys(MetallumOre.class, MetallumOre::isGraded, ore ->
+            Helpers.mapOfKeys(Ore.Grade.class, grade ->
+                    register("ore/" + grade.name() + '_' + ore.name(), TFCItemGroup.ORES)
             )
     );
 

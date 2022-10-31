@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/tungsten/poor",
-    "#tfc_metallum:ores/tungsten/normal",
-    "#tfc_metallum:ores/tungsten/rich"
-  ]
-}

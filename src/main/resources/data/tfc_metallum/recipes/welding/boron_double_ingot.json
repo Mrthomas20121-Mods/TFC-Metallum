@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/boron"
+    "tag": "forge:ingots/boron"
   },
   "second_input": {
-    "tag": "forge:ingot/boron"
+    "tag": "forge:ingots/boron"
   },
   "tier": 2,
   "result": {

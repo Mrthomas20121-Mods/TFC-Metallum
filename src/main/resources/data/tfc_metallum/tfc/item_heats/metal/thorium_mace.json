@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/mace/thorium"
+  },
+  "heat_capacity": 1.333,
+  "forging_tempererature": 1050,
+  "welding_tempererature": 1400
+}

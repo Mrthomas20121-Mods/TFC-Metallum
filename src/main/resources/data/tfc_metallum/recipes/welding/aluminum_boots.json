@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_boots/aluminum"
   },
   "second_input": {
-    "tag": "forge:sheet/aluminum"
+    "tag": "forge:sheets/aluminum"
   },
   "tier": 2,
   "result": {

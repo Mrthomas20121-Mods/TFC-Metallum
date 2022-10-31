@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_chestplate/nickel_silver"
   },
   "second_input": {
-    "tag": "forge:sheet/nickel_silver"
+    "tag": "forge:sheets/nickel_silver"
   },
   "tier": 1,
   "result": {

@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/lumium"
+    "tag": "forge:ingots/lumium"
   },
   "second_input": {
-    "tag": "forge:ingot/lumium"
+    "tag": "forge:ingots/lumium"
   },
   "tier": 3,
   "result": {

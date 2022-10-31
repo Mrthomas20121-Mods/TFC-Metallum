@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/refined_obsidian"
+    "tag": "forge:ingots/refined_obsidian"
   },
   "second_input": {
-    "tag": "forge:ingot/refined_obsidian"
+    "tag": "forge:ingots/refined_obsidian"
   },
   "tier": 3,
   "result": {

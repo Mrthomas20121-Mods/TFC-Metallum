@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/invar"
+    "tag": "forge:ingots/invar"
   },
   "second_input": {
-    "tag": "forge:ingot/invar"
+    "tag": "forge:ingots/invar"
   },
   "tier": 2,
   "result": {

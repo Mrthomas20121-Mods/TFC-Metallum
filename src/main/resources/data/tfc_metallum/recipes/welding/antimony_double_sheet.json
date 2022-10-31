@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/antimony"
+    "tag": "forge:sheets/antimony"
   },
   "second_input": {
-    "tag": "forge:sheet/antimony"
+    "tag": "forge:sheets/antimony"
   },
   "tier": 0,
   "result": {

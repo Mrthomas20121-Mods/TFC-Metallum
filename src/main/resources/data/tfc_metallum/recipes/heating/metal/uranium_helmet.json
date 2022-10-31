@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/helmet/uranium"
+  },
+  "temperature": 1100,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/uranium",
+    "amount": 600
+  },
+  "useDurability": true
+}

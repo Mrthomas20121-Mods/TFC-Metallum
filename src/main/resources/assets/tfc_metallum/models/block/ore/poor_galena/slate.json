@@ -1,8 +1,8 @@
 {
   "parent": "tfc:block/ore",
   "textures": {
-    "all": "tfc:block/raw/slate",
-    "particle": "tfc:block/raw/slate",
+    "all": "tfc:block/rock/raw/slate",
+    "particle": "tfc:block/rock/raw/slate",
     "overlay": "tfc_metallum:block/ore/poor_galena"
   }
 }

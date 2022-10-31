@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_chestplate/boron"
   },
   "second_input": {
-    "tag": "forge:sheet/boron"
+    "tag": "forge:sheets/boron"
   },
   "tier": 2,
   "result": {

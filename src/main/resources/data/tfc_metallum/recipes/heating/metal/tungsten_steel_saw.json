@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/saw/tungsten_steel"
+  },
+  "temperature": 3690,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/tungsten_steel",
+    "amount": 100
+  },
+  "useDurability": true
+}

@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/tungsten"
+    "tag": "forge:sheets/tungsten"
   },
   "second_input": {
-    "tag": "forge:sheet/tungsten"
+    "tag": "forge:sheets/tungsten"
   },
   "tier": 5,
   "result": {

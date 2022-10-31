@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/titanium"
+    "tag": "forge:ingots/titanium"
   },
   "second_input": {
-    "tag": "forge:ingot/titanium"
+    "tag": "forge:ingots/titanium"
   },
   "tier": 5,
   "result": {

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:ingots/beryllium"
+  },
+  "heat_capacity": 1.143,
+  "forging_tempererature": 720,
+  "welding_tempererature": 960
+}

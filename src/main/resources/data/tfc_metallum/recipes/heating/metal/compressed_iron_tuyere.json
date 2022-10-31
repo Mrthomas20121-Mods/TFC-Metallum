@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/tuyere/compressed_iron"
+  },
+  "temperature": 1535,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/compressed_iron",
+    "amount": 400
+  },
+  "useDurability": true
+}

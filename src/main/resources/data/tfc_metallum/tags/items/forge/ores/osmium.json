@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#tfc_metallum:ores/osmium/poor",
-    "#tfc_metallum:ores/osmium/normal",
-    "#tfc_metallum:ores/osmium/rich"
-  ]
-}

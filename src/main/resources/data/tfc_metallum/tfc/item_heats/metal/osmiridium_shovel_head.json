@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/shovel_head/osmiridium"
+  },
+  "heat_capacity": 1.143,
+  "forging_tempererature": 900,
+  "welding_tempererature": 1200
+}

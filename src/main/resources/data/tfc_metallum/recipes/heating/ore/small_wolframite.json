@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:ore/small_wolframite"
+  },
+  "temperature": 3400,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/tungsten",
+    "amount": 10
+  }
+}

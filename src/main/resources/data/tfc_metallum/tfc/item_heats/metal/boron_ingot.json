@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:ingots/boron"
+  },
+  "heat_capacity": 1.333,
+  "forging_tempererature": 1242,
+  "welding_tempererature": 1656
+}

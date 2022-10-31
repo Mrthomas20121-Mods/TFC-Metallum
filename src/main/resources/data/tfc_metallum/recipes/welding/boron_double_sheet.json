@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/boron"
+    "tag": "forge:sheets/boron"
   },
   "second_input": {
-    "tag": "forge:sheet/boron"
+    "tag": "forge:sheets/boron"
   },
   "tier": 2,
   "result": {

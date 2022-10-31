@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/unfinished_chestplate/weak_tungsten_steel"
+  },
+  "heat_capacity": 2,
+  "forging_tempererature": 2214,
+  "welding_tempererature": 2952
+}

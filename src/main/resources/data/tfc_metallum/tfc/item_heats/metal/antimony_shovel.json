@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/shovel/antimony"
+  },
+  "heat_capacity": 1.6,
+  "forging_tempererature": 378,
+  "welding_tempererature": 504
+}

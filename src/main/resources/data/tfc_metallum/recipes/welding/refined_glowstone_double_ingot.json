@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/refined_glowstone"
+    "tag": "forge:ingots/refined_glowstone"
   },
   "second_input": {
-    "tag": "forge:ingot/refined_glowstone"
+    "tag": "forge:ingots/refined_glowstone"
   },
   "tier": 3,
   "result": {

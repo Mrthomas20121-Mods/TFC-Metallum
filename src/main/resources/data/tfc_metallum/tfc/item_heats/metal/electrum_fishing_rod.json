@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/fishing_rod/electrum"
+  },
+  "heat_capacity": 0.8,
+  "forging_tempererature": 720,
+  "welding_tempererature": 960
+}

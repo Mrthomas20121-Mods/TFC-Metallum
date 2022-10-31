@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/chestplate/titanium"
+  },
+  "temperature": 1700,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/titanium",
+    "amount": 800
+  },
+  "useDurability": true
+}

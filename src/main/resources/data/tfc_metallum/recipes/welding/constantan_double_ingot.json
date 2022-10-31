@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/constantan"
+    "tag": "forge:ingots/constantan"
   },
   "second_input": {
-    "tag": "forge:ingot/constantan"
+    "tag": "forge:ingots/constantan"
   },
   "tier": 1,
   "result": {

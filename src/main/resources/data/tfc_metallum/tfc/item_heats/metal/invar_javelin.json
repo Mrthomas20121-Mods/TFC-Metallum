@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/javelin/invar"
+  },
+  "heat_capacity": 1.143,
+  "forging_tempererature": 870,
+  "welding_tempererature": 1160
+}

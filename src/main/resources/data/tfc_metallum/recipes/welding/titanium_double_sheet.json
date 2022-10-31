@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/titanium"
+    "tag": "forge:sheets/titanium"
   },
   "second_input": {
-    "tag": "forge:sheet/titanium"
+    "tag": "forge:sheets/titanium"
   },
   "tier": 5,
   "result": {

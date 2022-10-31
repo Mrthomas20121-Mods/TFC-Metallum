@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/pewter"
+    "tag": "forge:sheets/pewter"
   },
   "second_input": {
-    "tag": "forge:sheet/pewter"
+    "tag": "forge:sheets/pewter"
   },
   "tier": 2,
   "result": {

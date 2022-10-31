@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/helmet/boron"
+  },
+  "temperature": 2070,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/boron",
+    "amount": 600
+  },
+  "useDurability": true
+}

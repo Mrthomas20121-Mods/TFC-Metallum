@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/graphite"
+    "tag": "forge:ingots/graphite"
   },
   "second_input": {
-    "tag": "forge:ingot/graphite"
+    "tag": "forge:ingots/graphite"
   },
   "tier": 2,
   "result": {

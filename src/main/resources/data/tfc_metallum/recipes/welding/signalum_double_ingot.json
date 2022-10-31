@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:ingot/signalum"
+    "tag": "forge:ingots/signalum"
   },
   "second_input": {
-    "tag": "forge:ingot/signalum"
+    "tag": "forge:ingots/signalum"
   },
   "tier": 3,
   "result": {

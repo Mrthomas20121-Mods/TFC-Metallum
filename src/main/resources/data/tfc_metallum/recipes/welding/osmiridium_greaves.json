@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_greaves/osmiridium"
   },
   "second_input": {
-    "tag": "forge:sheet/osmiridium"
+    "tag": "forge:sheets/osmiridium"
   },
   "tier": 2,
   "result": {

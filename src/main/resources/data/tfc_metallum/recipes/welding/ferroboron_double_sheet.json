@@ -1,10 +1,10 @@
 {
   "type": "tfc:welding",
   "first_input": {
-    "tag": "forge:sheet/ferroboron"
+    "tag": "forge:sheets/ferroboron"
   },
   "second_input": {
-    "tag": "forge:sheet/ferroboron"
+    "tag": "forge:sheets/ferroboron"
   },
   "tier": 5,
   "result": {

@@ -4,7 +4,7 @@
     "item": "tfc_metallum:metal/unfinished_chestplate/osmium"
   },
   "second_input": {
-    "tag": "forge:sheet/osmium"
+    "tag": "forge:sheets/osmium"
   },
   "tier": 2,
   "result": {

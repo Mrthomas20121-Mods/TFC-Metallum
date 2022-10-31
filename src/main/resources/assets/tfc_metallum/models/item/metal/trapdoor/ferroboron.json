@@ -1,6 +1,3 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tfc_metallum:block/metal/trapdoor/ferroboron_bottom"
-  }
+  "parent": "tfc_metallum:block/metal/trapdoor/ferroboron_bottom"
 }

@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/unfinished_helmet/thorium"
+  },
+  "temperature": 1750,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/thorium",
+    "amount": 400
+  }
+}

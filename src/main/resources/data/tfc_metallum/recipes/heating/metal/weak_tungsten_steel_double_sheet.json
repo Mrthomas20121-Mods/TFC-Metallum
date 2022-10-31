@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/weak_tungsten_steel"
+  },
+  "temperature": 3690,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/weak_tungsten_steel",
+    "amount": 400
+  }
+}
