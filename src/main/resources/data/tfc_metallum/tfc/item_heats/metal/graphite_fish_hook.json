@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/fish_hook/graphite"
-  },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 300,
-  "welding_tempererature": 400
-}

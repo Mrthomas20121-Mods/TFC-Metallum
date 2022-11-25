@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/hammer_head/antimony"
-  },
-  "heat_capacity": 1.6,
-  "forging_tempererature": 378,
-  "welding_tempererature": 504
-}

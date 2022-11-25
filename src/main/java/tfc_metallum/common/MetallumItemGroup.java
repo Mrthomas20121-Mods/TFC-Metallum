@@ -25,7 +25,7 @@ public class MetallumItemGroup extends CreativeModeTab {
     private final Lazy<ItemStack> iconStack;
 
     private MetallumItemGroup(String label, Supplier<ItemStack> iconSupplier) {
-        super("tfc." + label);
+        super("tfc_metallum." + label);
         this.iconStack = Lazy.of(() -> FoodCapability.setStackNonDecaying(iconSupplier.get()));
     }
 

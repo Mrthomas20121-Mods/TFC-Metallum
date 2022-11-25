@@ -1,0 +1,139 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 60,
+    "min_y": {
+      "absolute": 50
+    },
+    "max_y": {
+      "absolute": 100
+    },
+    "size": 20,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/quartzite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/quartzite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/slate"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/slate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/phyllite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/phyllite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/schist"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/schist"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/gneiss"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/gneiss"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/marble"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/marble"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/marble"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_uraninite"
+        }
+      ]
+    },
+    "random_name": "normal_uraninite"
+  }
+}

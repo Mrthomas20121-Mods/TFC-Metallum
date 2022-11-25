@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/normal_monazite/granite",
+    "tfc_metallum:ore/normal_monazite/diorite",
+    "tfc_metallum:ore/normal_monazite/gabbro",
+    "tfc_metallum:ore/normal_monazite/shale",
+    "tfc_metallum:ore/normal_monazite/claystone",
+    "tfc_metallum:ore/normal_monazite/limestone",
+    "tfc_metallum:ore/normal_monazite/conglomerate",
+    "tfc_metallum:ore/normal_monazite/dolomite",
+    "tfc_metallum:ore/normal_monazite/chert",
+    "tfc_metallum:ore/normal_monazite/chalk",
+    "tfc_metallum:ore/normal_monazite/rhyolite",
+    "tfc_metallum:ore/normal_monazite/basalt",
+    "tfc_metallum:ore/normal_monazite/andesite",
+    "tfc_metallum:ore/normal_monazite/dacite",
+    "tfc_metallum:ore/normal_monazite/quartzite",
+    "tfc_metallum:ore/normal_monazite/slate",
+    "tfc_metallum:ore/normal_monazite/phyllite",
+    "tfc_metallum:ore/normal_monazite/schist",
+    "tfc_metallum:ore/normal_monazite/gneiss",
+    "tfc_metallum:ore/normal_monazite/marble"
+  ]
+}

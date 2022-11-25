@@ -12,6 +12,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import tfc_metallum.TFCMetallum;
+import tfc_metallum.common.MetallumItemGroup;
 import tfc_metallum.common.blocks.rock.MetallumOre;
 import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.util.MetallumMetal;
@@ -34,7 +35,7 @@ public class MetallumItems {
 
     public static final Map<MetallumOre, Map<Ore.Grade, RegistryObject<Item>>> GRADED_ORES = Helpers.mapOfKeys(MetallumOre.class, MetallumOre::isGraded, ore ->
             Helpers.mapOfKeys(Ore.Grade.class, grade ->
-                    register("ore/" + grade.name() + '_' + ore.name(), TFCItemGroup.ORES)
+                    register("ore/" + grade.name() + '_' + ore.name(), MetallumItemGroup.ORES)
             )
     );
 

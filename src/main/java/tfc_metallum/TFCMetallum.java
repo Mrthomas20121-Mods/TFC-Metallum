@@ -1,10 +1,13 @@
 package tfc_metallum;
 
 import com.mojang.logging.LogUtils;
+import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.fml.loading.FMLEnvironment;
 import org.slf4j.Logger;
+import tfc_metallum.common.ClientEvents;
 import tfc_metallum.common.blocks.MetallumBlocks;
 import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metallum.common.items.MetallumItems;
@@ -21,5 +24,9 @@ public class TFCMetallum {
 		MetallumBlocks.BLOCKS.register(bus);
 		MetallumItems.ITEMS.register(bus);
 		MetallumFluids.FLUIDS.register(bus);
+
+		if (FMLEnvironment.dist == Dist.CLIENT) {
+			ClientEvents.init();
+		}
 	}
 }

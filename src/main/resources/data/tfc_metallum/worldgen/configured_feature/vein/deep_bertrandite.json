@@ -1,0 +1,82 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 50,
+    "min_y": {
+      "absolute": -64
+    },
+    "max_y": {
+      "absolute": 0
+    },
+    "size": 40,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/granite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/granite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/diorite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/diorite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/diorite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gabbro"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/gabbro"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/gabbro"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/gabbro"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_bertrandite"
+        }
+      ]
+    },
+    "random_name": "normal_bertrandite"
+  }
+}

@@ -1,6 +1,5 @@
 package tfc_metallum;
 
-import net.dries007.tfc.util.Helpers;
 import net.minecraft.core.Registry;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.TagKey;

@@ -1,0 +1,101 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 80,
+    "min_y": {
+      "absolute": -64
+    },
+    "max_y": {
+      "absolute": -10
+    },
+    "size": 15,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_stibnite/rhyolite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_stibnite/rhyolite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_stibnite/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_stibnite/basalt"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_stibnite/basalt"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_stibnite/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_stibnite/andesite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_stibnite/andesite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_stibnite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_stibnite/dacite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_stibnite/dacite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_stibnite/dacite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_stibnite"
+        }
+      ]
+    },
+    "random_name": "normal_stibnite"
+  }
+}

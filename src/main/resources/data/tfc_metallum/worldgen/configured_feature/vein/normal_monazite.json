@@ -1,0 +1,139 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 50,
+    "min_y": {
+      "absolute": -10
+    },
+    "max_y": {
+      "absolute": 60
+    },
+    "size": 40,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/rhyolite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/rhyolite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/basalt"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/basalt"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/andesite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/andesite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/dacite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/dacite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/dacite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/claystone"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/claystone"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/claystone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/claystone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/limestone"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/limestone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/limestone"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_monazite"
+        }
+      ]
+    },
+    "random_name": "normal_monazite"
+  }
+}

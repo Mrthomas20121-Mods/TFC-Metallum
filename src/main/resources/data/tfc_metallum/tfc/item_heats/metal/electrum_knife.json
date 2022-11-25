@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/knife/electrum"
-  },
-  "heat_capacity": 0.8,
-  "forging_tempererature": 720,
-  "welding_tempererature": 960
-}

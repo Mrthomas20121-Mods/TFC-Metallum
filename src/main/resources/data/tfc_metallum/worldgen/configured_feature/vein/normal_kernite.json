@@ -1,0 +1,163 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 60,
+    "min_y": {
+      "absolute": 20
+    },
+    "max_y": {
+      "absolute": 100
+    },
+    "size": 20,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/shale"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/shale"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/shale"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/shale"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/shale"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/claystone"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/claystone"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/claystone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/claystone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/claystone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/limestone"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/limestone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/limestone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/limestone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/conglomerate"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/conglomerate"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/conglomerate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/conglomerate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/conglomerate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dolomite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/dolomite"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/dolomite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/dolomite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/dolomite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chert"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/poor_kernite/chert"
+          },
+          {
+            "weight": 35,
+            "block": "tfc_metallum:ore/normal_kernite/chert"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_kernite/chert"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/kaolinite/chert"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_kernite"
+        }
+      ]
+    },
+    "random_name": "normal_kernite"
+  }
+}

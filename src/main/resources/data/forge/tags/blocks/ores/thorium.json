@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc_metallum:ores/thorium/poor",
+    "#tfc_metallum:ores/thorium/normal",
+    "#tfc_metallum:ores/thorium/rich"
+  ]
+}
