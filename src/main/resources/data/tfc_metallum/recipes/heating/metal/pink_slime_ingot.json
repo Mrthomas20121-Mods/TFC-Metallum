@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:ingots/pink_slime"
+  },
+  "temperature": 1000,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/pink_slime",
+    "amount": 100
+  }
+}

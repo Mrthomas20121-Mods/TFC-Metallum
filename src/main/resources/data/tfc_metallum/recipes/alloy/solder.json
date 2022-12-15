@@ -1,0 +1,21 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:solder",
+  "contents": [
+    {
+      "metal": "tfc_metallum:antimony",
+      "min": 0.4,
+      "max": 0.6
+    },
+    {
+      "metal": "tfc:bismuth",
+      "min": 0.2,
+      "max": 0.4
+    },
+    {
+      "metal": "tfc:tin",
+      "min": 0.2,
+      "max": 0.4
+    }
+  ]
+}

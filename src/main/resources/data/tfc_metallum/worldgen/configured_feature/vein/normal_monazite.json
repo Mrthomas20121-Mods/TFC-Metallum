@@ -8,8 +8,8 @@
     "max_y": {
       "absolute": 60
     },
-    "size": 40,
-    "density": 0.6,
+    "size": 20,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -127,7 +127,7 @@
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_monazite"

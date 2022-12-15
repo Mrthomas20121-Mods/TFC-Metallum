@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:sheets/andesite_alloy"
+  },
+  "second_input": {
+    "tag": "forge:sheets/andesite_alloy"
+  },
+  "tier": 1,
+  "result": {
+    "item": "tfc_metallum:metal/double_sheet/andesite_alloy"
+  }
+}

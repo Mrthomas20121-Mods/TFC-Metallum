@@ -1,0 +1,21 @@
+{
+  "type": "tfc:alloy",
+  "result": "tfc_metallum:alnico",
+  "contents": [
+    {
+      "metal": "tfc_metallum:aluminum",
+      "min": 0.4,
+      "max": 0.6
+    },
+    {
+      "metal": "tfc_metallum:cobalt",
+      "min": 0.2,
+      "max": 0.4
+    },
+    {
+      "metal": "tfc:nickel",
+      "min": 0.2,
+      "max": 0.4
+    }
+  ]
+}

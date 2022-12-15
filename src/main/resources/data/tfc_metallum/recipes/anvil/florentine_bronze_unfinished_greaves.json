@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/florentine_bronze"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/unfinished_greaves/florentine_bronze"
+  },
+  "tier": 3,
+  "rules": [
+    "bend_any",
+    "draw_any",
+    "hit_any"
+  ]
+}

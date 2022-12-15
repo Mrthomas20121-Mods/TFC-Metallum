@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/unfinished_greaves/florentine_bronze"
+  },
+  "second_input": {
+    "tag": "forge:sheets/florentine_bronze"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/greaves/florentine_bronze"
+  }
+}

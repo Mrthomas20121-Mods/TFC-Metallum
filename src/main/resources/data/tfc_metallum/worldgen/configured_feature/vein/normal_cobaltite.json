@@ -1,152 +1,133 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 90,
+    "rarity": 70,
     "min_y": {
-      "absolute": 0
+      "absolute": -64
     },
     "max_y": {
-      "absolute": 60
+      "absolute": 30
     },
     "size": 20,
-    "density": 0.6,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
-          "tfc:rock/raw/granite"
+          "tfc:rock/raw/quartzite"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/granite"
+            "block": "tfc_metallum:ore/poor_cobaltite/quartzite"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/granite"
+            "block": "tfc_metallum:ore/normal_cobaltite/quartzite"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/granite"
+            "block": "tfc_metallum:ore/rich_cobaltite/quartzite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/diorite"
+          "tfc:rock/raw/slate"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/diorite"
+            "block": "tfc_metallum:ore/poor_cobaltite/slate"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/diorite"
+            "block": "tfc_metallum:ore/normal_cobaltite/slate"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/diorite"
+            "block": "tfc_metallum:ore/rich_cobaltite/slate"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/gabbro"
+          "tfc:rock/raw/phyllite"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/gabbro"
+            "block": "tfc_metallum:ore/poor_cobaltite/phyllite"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/gabbro"
+            "block": "tfc_metallum:ore/normal_cobaltite/phyllite"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/gabbro"
+            "block": "tfc_metallum:ore/rich_cobaltite/phyllite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/rhyolite"
+          "tfc:rock/raw/schist"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/rhyolite"
+            "block": "tfc_metallum:ore/poor_cobaltite/schist"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/rhyolite"
+            "block": "tfc_metallum:ore/normal_cobaltite/schist"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/rhyolite"
+            "block": "tfc_metallum:ore/rich_cobaltite/schist"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/basalt"
+          "tfc:rock/raw/gneiss"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/basalt"
+            "block": "tfc_metallum:ore/poor_cobaltite/gneiss"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/basalt"
+            "block": "tfc_metallum:ore/normal_cobaltite/gneiss"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/basalt"
+            "block": "tfc_metallum:ore/rich_cobaltite/gneiss"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/andesite"
+          "tfc:rock/raw/marble"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/andesite"
+            "block": "tfc_metallum:ore/poor_cobaltite/marble"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/andesite"
+            "block": "tfc_metallum:ore/normal_cobaltite/marble"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/andesite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/dacite"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_cobaltite/dacite"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_cobaltite/dacite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_cobaltite/dacite"
+            "block": "tfc_metallum:ore/rich_cobaltite/marble"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_cobaltite"

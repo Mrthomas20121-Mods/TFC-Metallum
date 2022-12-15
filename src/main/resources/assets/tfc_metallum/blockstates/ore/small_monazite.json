@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum:block/groundcover/monazite",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/monazite"
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/monazite",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/monazite",
+        "y": 270
+      }
+    ]
+  }
+}

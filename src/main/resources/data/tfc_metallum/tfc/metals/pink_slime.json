@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/pink_slime",
+  "melt_temperature": 1000,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/pink_slime"
+  },
+  "sheets": {
+    "tag": "forge:sheets/pink_slime"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum:metal/knife_blade/florentine_bronze"
+  },
+  "second_input": {
+    "item": "tfc_metallum:metal/knife_blade/florentine_bronze"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/shears/florentine_bronze"
+  }
+}

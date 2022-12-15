@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tfc_metallum:item/metal/shield/refined_glowstone_front"
+    "layer0": "tfc_metallum:item/metal/shield/refined_glowstone"
   }
 }

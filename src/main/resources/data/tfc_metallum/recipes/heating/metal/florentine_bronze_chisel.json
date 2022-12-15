@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/chisel/florentine_bronze"
+  },
+  "temperature": 400,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/florentine_bronze",
+    "amount": 100
+  },
+  "useDurability": true
+}

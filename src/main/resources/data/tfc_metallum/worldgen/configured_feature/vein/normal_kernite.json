@@ -9,7 +9,7 @@
       "absolute": 100
     },
     "size": 20,
-    "density": 0.6,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -17,19 +17,19 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/shale"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/shale"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/shale"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/shale"
           }
         ]
@@ -40,19 +40,19 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/claystone"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/claystone"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/claystone"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/claystone"
           }
         ]
@@ -63,19 +63,19 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/limestone"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/limestone"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/limestone"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/limestone"
           }
         ]
@@ -86,19 +86,19 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/conglomerate"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/conglomerate"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/conglomerate"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/conglomerate"
           }
         ]
@@ -109,19 +109,19 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/dolomite"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/dolomite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/dolomite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/dolomite"
           }
         ]
@@ -132,29 +132,32 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/chert"
           },
           {
-            "weight": 35,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_kernite/chert"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_kernite/chert"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc:ore/kaolinite/chert"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_kernite"
+        },
+        {
+          "block": "tfc_metallum:ore/small_kaolinite"
         }
       ]
     },

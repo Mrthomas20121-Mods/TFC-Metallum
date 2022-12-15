@@ -1,158 +1,139 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 100,
+    "rarity": 40,
     "min_y": {
       "absolute": -64
     },
     "max_y": {
-      "absolute": 35
+      "absolute": 0
     },
     "size": 20,
-    "density": 0.6,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
-          "tfc:rock/raw/granite"
+          "tfc:rock/raw/quartzite"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/granite"
+            "block": "tfc_metallum:ore/poor_uraninite/quartzite"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/granite"
+            "block": "tfc_metallum:ore/normal_uraninite/quartzite"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/granite"
+            "block": "tfc_metallum:ore/rich_uraninite/quartzite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/diorite"
+          "tfc:rock/raw/slate"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/diorite"
+            "block": "tfc_metallum:ore/poor_uraninite/slate"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/diorite"
+            "block": "tfc_metallum:ore/normal_uraninite/slate"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/diorite"
+            "block": "tfc_metallum:ore/rich_uraninite/slate"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/gabbro"
+          "tfc:rock/raw/phyllite"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/gabbro"
+            "block": "tfc_metallum:ore/poor_uraninite/phyllite"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/gabbro"
+            "block": "tfc_metallum:ore/normal_uraninite/phyllite"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/gabbro"
+            "block": "tfc_metallum:ore/rich_uraninite/phyllite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/rhyolite"
+          "tfc:rock/raw/schist"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/rhyolite"
+            "block": "tfc_metallum:ore/poor_uraninite/schist"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/rhyolite"
+            "block": "tfc_metallum:ore/normal_uraninite/schist"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/rhyolite"
+            "block": "tfc_metallum:ore/rich_uraninite/schist"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/basalt"
+          "tfc:rock/raw/gneiss"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/basalt"
+            "block": "tfc_metallum:ore/poor_uraninite/gneiss"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/basalt"
+            "block": "tfc_metallum:ore/normal_uraninite/gneiss"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/basalt"
+            "block": "tfc_metallum:ore/rich_uraninite/gneiss"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/andesite"
+          "tfc:rock/raw/marble"
         ],
         "with": [
           {
             "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/andesite"
+            "block": "tfc_metallum:ore/poor_uraninite/marble"
           },
           {
             "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/andesite"
+            "block": "tfc_metallum:ore/normal_uraninite/marble"
           },
           {
             "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/andesite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/dacite"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_uraninite/dacite"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_uraninite/dacite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_uraninite/dacite"
+            "block": "tfc_metallum:ore/rich_uraninite/marble"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_uraninite"
         }
       ]
     },
-    "random_name": "normal_uraninite"
+    "random_name": "deep_uraninite"
   }
 }

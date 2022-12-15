@@ -8,8 +8,8 @@
     "max_y": {
       "absolute": 30
     },
-    "size": 20,
-    "density": 0.6,
+    "size": 15,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -127,13 +127,13 @@
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_native_osmium"
         }
       ]
     },
-    "random_name": "normal_native_osmium"
+    "random_name": "deep_native_osmium"
   }
 }

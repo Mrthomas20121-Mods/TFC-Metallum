@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:sheets/florentine_bronze"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/fish_hook/florentine_bronze"
+  },
+  "tier": 3,
+  "rules": [
+    "draw_not_last",
+    "bend_any",
+    "hit_any"
+  ],
+  "apply_forging_bonus": true
+}

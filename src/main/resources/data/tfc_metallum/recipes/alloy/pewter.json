@@ -3,7 +3,7 @@
   "result": "tfc_metallum:pewter",
   "contents": [
     {
-      "metal": "tfc:wrought_iron",
+      "metal": "tfc_metallum:antimony",
       "min": 0.6,
       "max": 0.8
     },

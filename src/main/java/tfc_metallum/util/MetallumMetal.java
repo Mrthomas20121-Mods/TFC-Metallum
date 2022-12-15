@@ -32,7 +32,9 @@ import java.util.function.Supplier;
 
 public enum MetallumMetal implements RegistryMetal {
 
+    ANDESITE_ALLOY(0xC9CABA, Rarity.COMMON, Metal.Tier.TIER_II, true, false, false),
     ANTIMONY(0xf4f4f, Rarity.COMMON, Metal.Tier.TIER_I, true, false, false),
+    ALNICO(0xD87F36, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
     ALUMINUM(0xe3f7f, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.ALUMINUM, MetallumArmorMaterials.ALUMINUM, true, true, true),
     BORON(0x5c545, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.BORON, MetallumArmorMaterials.BORON, true, true, true),
     BERYLLIUM(0xf6ffc, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
@@ -44,6 +46,7 @@ public enum MetallumMetal implements RegistryMetal {
     ELECTRUM(0xfbfbb, Rarity.COMMON, Metal.Tier.TIER_II, true, false, false),
     ENDERIUM(0x76f0e, Rarity.RARE, Metal.Tier.TIER_V, MetallumTiers.ENDERIUM, MetallumArmorMaterials.ENDERIUM, true, true, true),
     FERROBORON(0x6f737, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.FERROBORON, MetallumArmorMaterials.FERROBORON, true, true, true),
+    FLORENTINE_BRONZE(0xAA924C, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.FLORENTINE_BRONZE, MetallumArmorMaterials.FLORENTINE_BRONZE, true, true, true),
     GRAPHITE(0x81808, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
     INVAR(0xdbdcc, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.INVAR, MetallumArmorMaterials.INVAR, true, true, true),
     IRIDIUM(0xe8f9f, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
@@ -54,9 +57,11 @@ public enum MetallumMetal implements RegistryMetal {
     OSMIUM(0xddeff, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.OSMIUM, MetallumArmorMaterials.OSMIUM, true, true, true),
     OSMIRIDIUM(0xb2c1c, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.OSMIRIDIUM, MetallumArmorMaterials.OSMIRIDIUM, true, true, true),
     PEWTER(0xb0aba, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.PEWTER, MetallumArmorMaterials.PEWTER, true, true, true),
+    PINK_SLIME(0xC279B6, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
     REFINED_GLOWSTONE(0xfffdc, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_GLOWSTONE, MetallumArmorMaterials.REFINED_GLOWSTONE, true, true, true),
     REFINED_OBSIDIAN(0xbc92d, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_OBSIDIAN, MetallumArmorMaterials.REFINED_OBSIDIAN, true, true, true),
     SIGNALUM(0xffc78, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.SIGNALUM, MetallumArmorMaterials.SIGNALUM, true, true, true),
+    SOLDER(0x888888, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
     THORIUM(0x787b7, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.THORIUM, MetallumArmorMaterials.THORIUM, true, true, true),
     TITANIUM(0xd8dae, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.TITANIUM, MetallumArmorMaterials.TITANIUM, true, true, true),
     TUNGSTEN(0x97a3b, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.TUNGSTEN, MetallumArmorMaterials.TUNGSTEN, true, true, true),

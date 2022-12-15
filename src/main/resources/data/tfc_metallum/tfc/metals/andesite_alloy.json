@@ -1,0 +1,12 @@
+{
+  "tier": 2,
+  "fluid": "tfc_metallum:metal/andesite_alloy",
+  "melt_temperature": 520,
+  "specific_heat_capacity": 0.012,
+  "ingots": {
+    "tag": "forge:ingots/andesite_alloy"
+  },
+  "sheets": {
+    "tag": "forge:sheets/andesite_alloy"
+  }
+}

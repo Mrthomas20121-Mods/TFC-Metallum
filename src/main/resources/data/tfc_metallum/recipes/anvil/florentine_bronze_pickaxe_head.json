@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/florentine_bronze"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/pickaxe_head/florentine_bronze"
+  },
+  "tier": 3,
+  "rules": [
+    "punch_last",
+    "bend_not_last",
+    "draw_not_last"
+  ],
+  "apply_forging_bonus": true
+}

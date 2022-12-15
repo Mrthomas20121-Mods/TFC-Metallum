@@ -21,7 +21,8 @@ import static net.dries007.tfc.common.TFCTiers.*;
 
 public final class MetallumTiers {
 
-    public static final Tier ALUMINUM = register("aluminum", Tiers.IRON, Tiers.DIAMOND, MetallumTags.Blocks.NEEDS_ALUMINUM_TOOLS, 2, 880, 8f, 4f, 32);
+    public static final Tier FLORENTINE_BRONZE = register("florentine_bronze", Tiers.IRON, Tiers.DIAMOND, TFCTags.Blocks.NEEDS_BRONZE_TOOL, 2, 1300, 7.3F, 4.0F, 13);
+    public static final Tier ALUMINUM = register("aluminum", Tiers.STONE, Tiers.IRON, MetallumTags.Blocks.NEEDS_ALUMINUM_TOOLS, 2, 880, 8f, 4f, 32);
     public static final Tier MITHRIL = register("mithril", Tiers.IRON, Tiers.DIAMOND, MetallumTags.Blocks.NEEDS_MITHRIL_TOOLS, 2, 1600, 10f, 4.25f, 12);
     public static final Tier NICKEL_SILVER = register("nickel_silver", Tiers.IRON, Tiers.DIAMOND, MetallumTags.Blocks.NEEDS_NICKEL_SILVER_TOOLS, 2, 4490, 11.9f, 5.3f, 19);
     public static final Tier INVAR = register("invar", Tiers.IRON, Tiers.DIAMOND, MetallumTags.Blocks.NEEDS_INVAR_TOOLS, 2, 4500, 12f, 5.25f, 14);

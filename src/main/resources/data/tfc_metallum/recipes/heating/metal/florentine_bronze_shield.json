@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/shield/florentine_bronze"
+  },
+  "temperature": 400,
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/florentine_bronze",
+    "amount": 400
+  },
+  "useDurability": true
+}

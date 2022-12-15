@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum:block/groundcover/cobaltite",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/cobaltite"
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/cobaltite",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/cobaltite",
+        "y": 270
+      }
+    ]
+  }
+}

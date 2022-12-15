@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:sheets/alnico"
+  },
+  "second_input": {
+    "tag": "forge:sheets/alnico"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/double_sheet/alnico"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 55,
+    "rarity": 30,
     "min_y": {
       "absolute": 0
     },
     "max_y": {
       "absolute": 55
     },
-    "size": 20,
-    "density": 0.6,
+    "size": 18,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -127,7 +127,7 @@
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_rutile"

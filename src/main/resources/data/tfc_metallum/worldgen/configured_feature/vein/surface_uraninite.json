@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 60,
+    "rarity": 40,
     "min_y": {
       "absolute": 50
     },
     "max_y": {
-      "absolute": 100
+      "absolute": 120
     },
-    "size": 20,
-    "density": 0.6,
+    "size": 10,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -124,16 +124,130 @@
             "block": "tfc_metallum:ore/rich_uraninite/marble"
           }
         ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/shale"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/shale"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/shale"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/shale"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/claystone"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/claystone"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/claystone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/claystone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/limestone"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/limestone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/limestone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/conglomerate"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/conglomerate"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/conglomerate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/conglomerate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dolomite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/dolomite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/dolomite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/dolomite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chert"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_uraninite/chert"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_uraninite/chert"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_uraninite/chert"
+          }
+        ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_uraninite"
         }
       ]
     },
-    "random_name": "normal_uraninite"
+    "random_name": "surface_uraninite"
   }
 }

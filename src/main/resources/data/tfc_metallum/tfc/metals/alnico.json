@@ -1,0 +1,12 @@
+{
+  "tier": 3,
+  "fluid": "tfc_metallum:metal/alnico",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/alnico"
+  },
+  "sheets": {
+    "tag": "forge:sheets/alnico"
+  }
+}

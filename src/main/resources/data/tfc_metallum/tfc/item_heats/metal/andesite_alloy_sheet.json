@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:sheets/andesite_alloy"
+  },
+  "heat_capacity": 1.6,
+  "forging_tempererature": 312,
+  "welding_tempererature": 416
+}

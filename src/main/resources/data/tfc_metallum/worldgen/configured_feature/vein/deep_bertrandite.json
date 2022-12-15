@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 50,
+    "rarity": 40,
     "min_y": {
       "absolute": -64
     },
     "max_y": {
       "absolute": 0
     },
-    "size": 40,
-    "density": 0.6,
+    "size": 25,
+    "density": 0.5,
     "blocks": [
       {
         "replace": [
@@ -67,16 +67,92 @@
             "block": "tfc_metallum:ore/rich_bertrandite/gabbro"
           }
         ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/rhyolite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/rhyolite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/basalt"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/basalt"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/andesite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/andesite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bertrandite/dacite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bertrandite/dacite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bertrandite/dacite"
+          }
+        ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 10,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_bertrandite"
         }
       ]
     },
-    "random_name": "normal_bertrandite"
+    "random_name": "deep_bertrandite"
   }
 }

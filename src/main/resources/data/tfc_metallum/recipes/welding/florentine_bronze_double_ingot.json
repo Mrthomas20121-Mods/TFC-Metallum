@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/florentine_bronze"
+  },
+  "second_input": {
+    "tag": "forge:ingots/florentine_bronze"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum:metal/double_ingot/florentine_bronze"
+  }
+}

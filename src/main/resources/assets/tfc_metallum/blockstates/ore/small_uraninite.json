@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum:block/groundcover/uraninite",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/uraninite"
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/uraninite",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/uraninite",
+        "y": 270
+      }
+    ]
+  }
+}

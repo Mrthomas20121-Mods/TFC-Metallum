@@ -1,0 +1,158 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 70,
+    "min_y": {
+      "absolute": 0
+    },
+    "max_y": {
+      "absolute": 60
+    },
+    "size": 23,
+    "density": 0.5,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/granite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/granite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/diorite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/diorite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/diorite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gabbro"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/gabbro"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/gabbro"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/gabbro"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/rhyolite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/rhyolite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/basalt"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/basalt"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/andesite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/andesite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_cobaltite/dacite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_cobaltite/dacite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_cobaltite/dacite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 10,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_cobaltite"
+        }
+      ]
+    },
+    "random_name": "deep_cobaltite"
+  }
+}

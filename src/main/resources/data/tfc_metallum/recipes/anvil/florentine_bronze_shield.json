@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/florentine_bronze"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/shield/florentine_bronze"
+  },
+  "tier": 3,
+  "rules": [
+    "upset_last",
+    "bend_second_last",
+    "bend_third_last"
+  ],
+  "apply_forging_bonus": true
+}

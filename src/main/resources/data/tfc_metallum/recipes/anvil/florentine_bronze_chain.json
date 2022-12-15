@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/florentine_bronze"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/chain/florentine_bronze"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}

@@ -14,6 +14,7 @@ import java.util.Locale;
 
 public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.Multiplier {
 
+    FLORENTINE_BRONZE(275, 320, 329, 257, 1, 4, 4, 1, 9, 0.0F, 0.0F, 12.5F, 12.5F, 8.25F),
     ALUMINUM(300, 350, 315, 290, 1, 5, 6, 1, 32, 0f, 0f, 15, 15, 8.25f),
     MITHRIL(320, 370, 335, 310, 1, 6, 6, 1, 12, 0f, 0.5f, 10, 15, 10f),
     NICKEL_SILVER(290, 390, 265, 240, 1, 4, 5, 1, 19, 0f, 0.2f, 12, 10, 8.25f),
