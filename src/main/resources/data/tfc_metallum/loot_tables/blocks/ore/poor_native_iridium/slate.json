@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_native_iridium/slate"
+          "name": "tfc_metallum:ore/poor_native_iridium"
         }
       ],
       "conditions": [

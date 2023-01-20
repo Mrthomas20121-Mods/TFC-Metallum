@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/anvil",
   "textures": {
-    "all": "tfc_metallum:block/metal/full/invar",
-    "particle": "tfc_metallum:block/metal/full/invar"
+    "all": "tfc_metallum:block/full/invar",
+    "particle": "tfc_metallum:block/full/invar"
   }
 }

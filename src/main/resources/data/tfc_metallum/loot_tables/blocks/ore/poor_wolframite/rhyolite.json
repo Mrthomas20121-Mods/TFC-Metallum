@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_wolframite/rhyolite"
+          "name": "tfc_metallum:ore/poor_wolframite"
         }
       ],
       "conditions": [

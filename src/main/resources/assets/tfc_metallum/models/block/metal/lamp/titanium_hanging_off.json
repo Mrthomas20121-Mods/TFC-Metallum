@@ -1,8 +1,8 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallum:block/metal/full/titanium",
-    "chain": "tfc_metallum:block/metal/chain/titanium",
+    "metal": "tfc_metallum:block/full/titanium",
+    "chain": "tfc_metallum:block/chain/titanium",
     "lamp": "tfc:block/lamp_off"
   }
 }

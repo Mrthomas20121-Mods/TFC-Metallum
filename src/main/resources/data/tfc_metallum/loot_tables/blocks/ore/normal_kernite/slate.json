@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_kernite/slate"
+          "name": "tfc_metallum:ore/normal_kernite"
         }
       ],
       "conditions": [

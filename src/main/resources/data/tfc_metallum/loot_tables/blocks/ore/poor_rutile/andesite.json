@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_rutile/andesite"
+          "name": "tfc_metallum:ore/poor_rutile"
         }
       ],
       "conditions": [

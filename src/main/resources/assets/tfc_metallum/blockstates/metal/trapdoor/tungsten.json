@@ -1,4 +1,5 @@
 {
+  "__comment__": "This file was automatically created by mcresources",
   "variants": {
     "facing=north,half=bottom,open=false": {
       "model": "tfc_metallum:block/metal/trapdoor/tungsten_bottom"

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_native_osmium/rhyolite"
+          "name": "tfc_metallum:ore/rich_native_osmium"
         }
       ],
       "conditions": [

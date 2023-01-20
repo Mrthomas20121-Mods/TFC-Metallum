@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_native_osmium/basalt"
+          "name": "tfc_metallum:ore/rich_native_osmium"
         }
       ],
       "conditions": [

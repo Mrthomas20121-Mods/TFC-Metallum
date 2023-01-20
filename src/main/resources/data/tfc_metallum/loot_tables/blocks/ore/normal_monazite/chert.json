@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_monazite/chert"
+          "name": "tfc_metallum:ore/normal_monazite"
         }
       ],
       "conditions": [

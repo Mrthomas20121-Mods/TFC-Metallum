@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp",
   "textures": {
-    "metal": "tfc_metallum:block/metal/full/invar",
+    "metal": "tfc_metallum:block/full/invar",
     "lamp": "tfc:block/lamp_off"
   }
 }

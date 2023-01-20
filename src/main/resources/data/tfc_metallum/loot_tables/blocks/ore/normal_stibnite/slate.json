@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_stibnite/slate"
+          "name": "tfc_metallum:ore/normal_stibnite"
         }
       ],
       "conditions": [

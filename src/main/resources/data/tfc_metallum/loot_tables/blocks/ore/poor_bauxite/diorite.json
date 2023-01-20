@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_bauxite/diorite"
+          "name": "tfc_metallum:ore/poor_bauxite"
         }
       ],
       "conditions": [

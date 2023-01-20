@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_cobaltite/gabbro"
+          "name": "tfc_metallum:ore/normal_cobaltite"
         }
       ],
       "conditions": [

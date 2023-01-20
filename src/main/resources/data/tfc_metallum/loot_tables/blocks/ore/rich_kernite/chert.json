@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_kernite/chert"
+          "name": "tfc_metallum:ore/rich_kernite"
         }
       ],
       "conditions": [

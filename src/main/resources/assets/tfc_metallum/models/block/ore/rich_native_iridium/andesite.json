@@ -1,8 +1,6 @@
 {
-  "parent": "tfc:block/ore",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "tfc:block/rock/raw/andesite",
-    "particle": "tfc:block/rock/raw/andesite",
-    "overlay": "tfc_metallum:block/ore/rich_native_iridium"
+    "all": "tfc_metallum:block/ore/rich_native_iridium/andesite"
   }
 }

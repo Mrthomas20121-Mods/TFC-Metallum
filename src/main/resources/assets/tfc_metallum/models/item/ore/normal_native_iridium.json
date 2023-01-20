@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tfc_metallum:ore/poor_native_iridium"
+    "layer0": "tfc_metallum:item/ore/normal_native_iridium"
   }
 }

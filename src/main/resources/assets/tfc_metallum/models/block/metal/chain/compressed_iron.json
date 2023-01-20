@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallum:block/metal/chain/compressed_iron",
-    "particle": "tfc_metallum:block/metal/chain/compressed_iron"
+    "particle": "tfc_metallum:block/full/compressed_iron"
   }
 }

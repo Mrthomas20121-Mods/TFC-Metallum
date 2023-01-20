@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_stibnite/shale"
+          "name": "tfc_metallum:ore/rich_stibnite"
         }
       ],
       "conditions": [

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_native_osmium/marble"
+          "name": "tfc_metallum:ore/poor_native_osmium"
         }
       ],
       "conditions": [

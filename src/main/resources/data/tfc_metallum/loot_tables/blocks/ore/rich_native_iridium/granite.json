@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_native_iridium/granite"
+          "name": "tfc_metallum:ore/rich_native_iridium"
         }
       ],
       "conditions": [

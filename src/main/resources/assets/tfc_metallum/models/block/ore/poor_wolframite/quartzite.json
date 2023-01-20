@@ -1,8 +1,6 @@
 {
-  "parent": "tfc:block/ore",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "tfc:block/rock/raw/quartzite",
-    "particle": "tfc:block/rock/raw/quartzite",
-    "overlay": "tfc_metallum:block/ore/poor_wolframite"
+    "all": "tfc_metallum:block/ore/poor_wolframite/quartzite"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tfc_metallum:block/ore/normal_certus_quazrtz/claystone"
+  }
+}

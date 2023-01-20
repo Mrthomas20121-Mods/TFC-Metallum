@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_certus_quazrtz/chert"
+          "name": "tfc_metallum:ore/normal_certus_quazrtz"
         }
       ],
       "conditions": [

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_certus_quazrtz/gabbro"
+          "name": "tfc_metallum:ore/rich_certus_quazrtz"
         }
       ],
       "conditions": [

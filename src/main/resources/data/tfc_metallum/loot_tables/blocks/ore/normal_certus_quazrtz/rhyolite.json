@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_certus_quazrtz/rhyolite"
+          "name": "tfc_metallum:ore/normal_certus_quazrtz"
         }
       ],
       "conditions": [

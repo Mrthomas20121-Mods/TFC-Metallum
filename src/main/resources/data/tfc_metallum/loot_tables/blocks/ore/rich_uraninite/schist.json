@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_uraninite/schist"
+          "name": "tfc_metallum:ore/rich_uraninite"
         }
       ],
       "conditions": [

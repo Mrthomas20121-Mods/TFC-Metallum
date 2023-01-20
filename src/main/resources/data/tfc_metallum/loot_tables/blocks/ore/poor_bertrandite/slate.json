@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_bertrandite/slate"
+          "name": "tfc_metallum:ore/poor_bertrandite"
         }
       ],
       "conditions": [

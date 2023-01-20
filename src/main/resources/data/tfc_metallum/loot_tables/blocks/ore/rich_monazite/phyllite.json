@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_monazite/phyllite"
+          "name": "tfc_metallum:ore/rich_monazite"
         }
       ],
       "conditions": [

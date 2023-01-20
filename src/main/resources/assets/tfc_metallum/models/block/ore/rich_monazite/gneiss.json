@@ -1,8 +1,6 @@
 {
-  "parent": "tfc:block/ore",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "tfc:block/rock/raw/gneiss",
-    "particle": "tfc:block/rock/raw/gneiss",
-    "overlay": "tfc_metallum:block/ore/rich_monazite"
+    "all": "tfc_metallum:block/ore/rich_monazite/gneiss"
   }
 }

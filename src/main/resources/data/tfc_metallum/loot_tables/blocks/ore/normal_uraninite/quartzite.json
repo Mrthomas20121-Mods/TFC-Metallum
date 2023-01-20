@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_uraninite/quartzite"
+          "name": "tfc_metallum:ore/normal_uraninite"
         }
       ],
       "conditions": [

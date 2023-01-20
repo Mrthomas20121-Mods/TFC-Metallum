@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/poor_certus_quazrtz/andesite"
+          "name": "tfc_metallum:ore/poor_certus_quazrtz"
         }
       ],
       "conditions": [

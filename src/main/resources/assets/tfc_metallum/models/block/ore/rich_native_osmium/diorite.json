@@ -1,8 +1,6 @@
 {
-  "parent": "tfc:block/ore",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "tfc:block/rock/raw/diorite",
-    "particle": "tfc:block/rock/raw/diorite",
-    "overlay": "tfc_metallum:block/ore/rich_native_osmium"
+    "all": "tfc_metallum:block/ore/rich_native_osmium/diorite"
   }
 }

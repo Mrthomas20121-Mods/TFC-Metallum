@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp",
   "textures": {
-    "metal": "tfc_metallum:block/metal/full/osmiridium",
+    "metal": "tfc_metallum:block/full/osmiridium",
     "lamp": "tfc:block/lamp_off"
   }
 }

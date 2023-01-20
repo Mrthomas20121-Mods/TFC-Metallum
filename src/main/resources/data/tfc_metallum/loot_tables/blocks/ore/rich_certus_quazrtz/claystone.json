@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_certus_quazrtz/claystone"
+          "name": "tfc_metallum:ore/rich_certus_quazrtz"
         }
       ],
       "conditions": [

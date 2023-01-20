@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_kernite/gneiss"
+          "name": "tfc_metallum:ore/normal_kernite"
         }
       ],
       "conditions": [

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/normal_rutile/quartzite"
+          "name": "tfc_metallum:ore/normal_rutile"
         }
       ],
       "conditions": [

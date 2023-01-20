@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tfc_metallum:ore/rich_wolframite/schist"
+          "name": "tfc_metallum:ore/rich_wolframite"
         }
       ],
       "conditions": [
