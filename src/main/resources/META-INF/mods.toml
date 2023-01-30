@@ -1,11 +1,11 @@
 modLoader="javafml"
 loaderVersion="[39,)"
 license="MIT"
-issueTrackerURL="https://github.com/Mrthomas20121/TFC-Decoration/issues"
+issueTrackerURL="https://github.com/Mrthomas20121/TFC-Metallum/issues"
 
 [[mods]]
 modId="tfc_metallum"
-version="0.0.1"
+version="0.0.2"
 displayName="TFC Metallum"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/tfc_metallum"
 authors="Mrthomas20121"
