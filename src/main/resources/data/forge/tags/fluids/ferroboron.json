@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/ferroboron",
+    "tfc_metallum:metal/flowing_ferroboron"
+  ]
+}

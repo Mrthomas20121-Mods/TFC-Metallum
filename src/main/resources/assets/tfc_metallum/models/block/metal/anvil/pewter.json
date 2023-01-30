@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/anvil",
   "textures": {
-    "all": "tfc_metallum:block/full/pewter",
-    "particle": "tfc_metallum:block/full/pewter"
+    "all": "tfc_metallum:block/metal/anvil/pewter",
+    "particle": "tfc_metallum:block/metal/anvil/pewter"
   }
 }

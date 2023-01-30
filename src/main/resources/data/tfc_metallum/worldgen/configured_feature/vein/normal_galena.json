@@ -9,7 +9,7 @@
       "absolute": 70
     },
     "size": 35,
-    "density": 0.5,
+    "density": 0.6,
     "blocks": [
       {
         "replace": [
@@ -17,20 +17,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/rhyolite"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/rhyolite"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/rhyolite"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/rhyolite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/rhyolite"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/rhyolite"
           }
         ]
       },
@@ -40,20 +48,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/basalt"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/basalt"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/basalt"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/basalt"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/basalt"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/basalt"
           }
         ]
       },
@@ -63,20 +79,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/andesite"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/andesite"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/andesite"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/andesite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/andesite"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/andesite"
           }
         ]
       },
@@ -86,20 +110,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/dacite"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/dacite"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/dacite"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/dacite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/dacite"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/dacite"
           }
         ]
       },
@@ -109,20 +141,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/shale"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/shale"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/shale"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/shale"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/shale"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/shale"
           }
         ]
       },
@@ -132,20 +172,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/claystone"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/claystone"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/claystone"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/claystone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/claystone"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/claystone"
           }
         ]
       },
@@ -155,20 +203,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/limestone"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/limestone"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/limestone"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/limestone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/limestone"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/limestone"
           }
         ]
       },
@@ -178,20 +234,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/conglomerate"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/conglomerate"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/conglomerate"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/conglomerate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/conglomerate"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/conglomerate"
           }
         ]
       },
@@ -201,20 +265,28 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/dolomite"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/dolomite"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/dolomite"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/dolomite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/dolomite"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/dolomite"
           }
         ]
       },
@@ -224,32 +296,68 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 10,
             "block": "tfc_metallum:ore/poor_galena/chert"
           },
           {
-            "weight": 50,
+            "weight": 25,
             "block": "tfc_metallum:ore/normal_galena/chert"
           },
           {
-            "weight": 30,
+            "weight": 15,
             "block": "tfc_metallum:ore/normal_galena/chert"
           },
           {
-            "weight": 30,
+            "weight": 10,
             "block": "tfc:ore/poor_native_silver/chert"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/chert"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/chert"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chalk"
+        ],
+        "with": [
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/poor_galena/chalk"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum:ore/normal_galena/chalk"
+          },
+          {
+            "weight": 15,
+            "block": "tfc_metallum:ore/normal_galena/chalk"
+          },
+          {
+            "weight": 10,
+            "block": "tfc:ore/poor_native_silver/chalk"
+          },
+          {
+            "weight": 25,
+            "block": "tfc:ore/normal_native_silver/chalk"
+          },
+          {
+            "weight": 15,
+            "block": "tfc:ore/normal_native_silver/chalk"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_galena"
-        },
-        {
-          "block": "tfc_metallum:ore/small_native_silver"
         }
       ]
     },

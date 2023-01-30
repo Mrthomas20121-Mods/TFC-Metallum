@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "tfc_metallum:block/metal/fluid/weak_tungsten_steel_still"
-  }
-}

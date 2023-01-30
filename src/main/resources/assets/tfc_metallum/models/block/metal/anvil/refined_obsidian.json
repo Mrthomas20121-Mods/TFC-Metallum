@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/anvil",
   "textures": {
-    "all": "tfc_metallum:block/full/refined_obsidian",
-    "particle": "tfc_metallum:block/full/refined_obsidian"
+    "all": "tfc_metallum:block/metal/anvil/refined_obsidian",
+    "particle": "tfc_metallum:block/metal/anvil/refined_obsidian"
   }
 }

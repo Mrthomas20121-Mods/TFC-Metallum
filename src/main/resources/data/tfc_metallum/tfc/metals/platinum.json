@@ -1,0 +1,12 @@
+{
+  "tier": 5,
+  "fluid": "tfc_metallum:metal/platinum",
+  "melt_temperature": 1730,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/platinum"
+  },
+  "sheets": {
+    "tag": "forge:sheets/platinum"
+  }
+}

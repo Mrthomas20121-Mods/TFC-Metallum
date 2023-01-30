@@ -1,6 +1,5 @@
 {
-  "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "tfc_metallum:block/metal/fluid/refined_obsidian_still"
+    "particle": "block/lava_still"
   }
 }

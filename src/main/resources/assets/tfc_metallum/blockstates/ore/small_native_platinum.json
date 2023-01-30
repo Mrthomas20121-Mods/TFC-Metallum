@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum:block/groundcover/native_platinum",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/native_platinum"
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/native_platinum",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum:block/groundcover/native_platinum",
+        "y": 270
+      }
+    ]
+  }
+}

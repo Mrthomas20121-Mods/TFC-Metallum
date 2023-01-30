@@ -1,0 +1,14 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/mace_head_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum:metal/tungsten_steel",
+    "amount": 200
+  },
+  "result": {
+    "item": "tfc_metallum:metal/mace_head/tungsten_steel"
+  },
+  "break_chance": 1
+}

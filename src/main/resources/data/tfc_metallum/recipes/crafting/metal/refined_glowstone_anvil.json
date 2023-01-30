@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " X ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "tfc_metallum:metal/double_ingot/refined_glowstone"
+    }
+  },
+  "result": {
+    "item": "tfc_metallum:metal/anvil/refined_glowstone"
+  }
+}

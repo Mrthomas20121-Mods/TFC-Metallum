@@ -3,10 +3,12 @@
   "values": [
     "#forge:ores/aluminum",
     "#forge:ores/beryllium",
+    "#forge:ores/certus_quartz",
     "#forge:ores/cobalt",
     "#forge:ores/lead",
     "#forge:ores/boron",
     "#forge:ores/iridium",
+    "#forge:ores/platinum",
     "#forge:ores/osmium",
     "#forge:ores/thorium",
     "#forge:ores/titanium",

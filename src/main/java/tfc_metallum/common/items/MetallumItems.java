@@ -39,6 +39,9 @@ public class MetallumItems {
             )
     );
 
+    public static final Map<MetallumOre, RegistryObject<Item>> ORES = Helpers.mapOfKeys(MetallumOre.class, ore -> !ore.isGraded(), ore ->
+            register("ore/"+ ore.name(), MetallumItemGroup.ORES)
+    );
     public static final Map<MetallumMetal, RegistryObject<BucketItem>> METAL_FLUID_BUCKETS = Helpers.mapOfKeys(MetallumMetal.class, metal ->
             register("bucket/metal/" + metal.name(), () -> new BucketItem(MetallumFluids.METALS.get(metal).source(), new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1).tab(MISC)))
     );

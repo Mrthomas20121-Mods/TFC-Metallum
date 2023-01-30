@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallum:block/metal/chain/beryllium_copper",
-    "particle": "tfc_metallum:block/full/beryllium_copper"
+    "particle": "tfc_metallum:block/metal/full/beryllium_copper"
   }
 }

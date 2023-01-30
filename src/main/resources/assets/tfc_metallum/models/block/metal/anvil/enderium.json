@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/anvil",
   "textures": {
-    "all": "tfc_metallum:block/full/enderium",
-    "particle": "tfc_metallum:block/full/enderium"
+    "all": "tfc_metallum:block/metal/anvil/enderium",
+    "particle": "tfc_metallum:block/metal/anvil/enderium"
   }
 }

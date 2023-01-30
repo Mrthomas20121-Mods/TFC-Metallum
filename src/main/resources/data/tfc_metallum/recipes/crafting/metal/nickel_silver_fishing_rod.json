@@ -1,0 +1,29 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "  X",
+    " XY",
+    "XZY"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:rods/wooden"
+    },
+    "Y": {
+      "tag": "forge:string"
+    },
+    "Z": {
+      "item": "tfc_metallum:metal/fish_hook/nickel_silver"
+    }
+  },
+  "result": {
+    "stack": {
+      "item": "tfc_metallum:metal/fishing_rod/nickel_silver"
+    },
+    "modifiers": [
+      "tfc:copy_forging_bonus"
+    ]
+  },
+  "input_row": 2,
+  "input_column": 1
+}

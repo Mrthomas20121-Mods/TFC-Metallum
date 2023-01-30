@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/hoe/aluminum",
+    "tfc_metallum:metal/hoe/boron",
+    "tfc_metallum:metal/hoe/beryllium_copper",
+    "tfc_metallum:metal/hoe/cobalt",
+    "tfc_metallum:metal/hoe/compressed_iron",
+    "tfc_metallum:metal/hoe/enderium",
+    "tfc_metallum:metal/hoe/ferroboron",
+    "tfc_metallum:metal/hoe/florentine_bronze",
+    "tfc_metallum:metal/hoe/invar",
+    "tfc_metallum:metal/hoe/lumium",
+    "tfc_metallum:metal/hoe/mithril",
+    "tfc_metallum:metal/hoe/nickel_silver",
+    "tfc_metallum:metal/hoe/osmium",
+    "tfc_metallum:metal/hoe/osmiridium",
+    "tfc_metallum:metal/hoe/pewter",
+    "tfc_metallum:metal/hoe/refined_glowstone",
+    "tfc_metallum:metal/hoe/refined_obsidian",
+    "tfc_metallum:metal/hoe/signalum",
+    "tfc_metallum:metal/hoe/thorium",
+    "tfc_metallum:metal/hoe/titanium",
+    "tfc_metallum:metal/hoe/tungsten",
+    "tfc_metallum:metal/hoe/tungsten_steel",
+    "tfc_metallum:metal/hoe/uranium"
+  ]
+}

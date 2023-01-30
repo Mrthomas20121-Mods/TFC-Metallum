@@ -1,0 +1,14 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/sword_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum:metal/mithril",
+    "amount": 200
+  },
+  "result": {
+    "item": "tfc_metallum:metal/sword_blade/mithril"
+  },
+  "break_chance": 1
+}

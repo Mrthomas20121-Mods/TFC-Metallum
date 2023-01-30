@@ -1,0 +1,14 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/scythe_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum:metal/tungsten_steel",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum:metal/scythe_blade/tungsten_steel"
+  },
+  "break_chance": 1
+}

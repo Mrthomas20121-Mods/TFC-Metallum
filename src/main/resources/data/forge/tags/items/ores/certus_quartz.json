@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/certus_quartz/granite",
+    "tfc_metallum:ore/certus_quartz/diorite",
+    "tfc_metallum:ore/certus_quartz/gabbro",
+    "tfc_metallum:ore/certus_quartz/shale",
+    "tfc_metallum:ore/certus_quartz/claystone",
+    "tfc_metallum:ore/certus_quartz/limestone",
+    "tfc_metallum:ore/certus_quartz/conglomerate",
+    "tfc_metallum:ore/certus_quartz/dolomite",
+    "tfc_metallum:ore/certus_quartz/chert",
+    "tfc_metallum:ore/certus_quartz/chalk",
+    "tfc_metallum:ore/certus_quartz/rhyolite",
+    "tfc_metallum:ore/certus_quartz/basalt",
+    "tfc_metallum:ore/certus_quartz/andesite",
+    "tfc_metallum:ore/certus_quartz/dacite",
+    "tfc_metallum:ore/certus_quartz/quartzite",
+    "tfc_metallum:ore/certus_quartz/slate",
+    "tfc_metallum:ore/certus_quartz/phyllite",
+    "tfc_metallum:ore/certus_quartz/schist",
+    "tfc_metallum:ore/certus_quartz/gneiss",
+    "tfc_metallum:ore/certus_quartz/marble"
+  ]
+}

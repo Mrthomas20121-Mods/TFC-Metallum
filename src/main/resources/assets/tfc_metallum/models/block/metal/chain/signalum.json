@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallum:block/metal/chain/signalum",
-    "particle": "tfc_metallum:block/full/signalum"
+    "particle": "tfc_metallum:block/metal/full/signalum"
   }
 }

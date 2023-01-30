@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "tfc_metallum:block/ore/rich_certus_quazrtz/phyllite"
-  }
-}

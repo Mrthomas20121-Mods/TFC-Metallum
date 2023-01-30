@@ -34,6 +34,12 @@ public class MetallumBlocks {
 
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, TFCMetallum.mod_id);
 
+    public static final Map<Rock, Map<MetallumOre, RegistryObject<Block>>> ORES = Helpers.mapOfKeys(Rock.class, rock ->
+            Helpers.mapOfKeys(MetallumOre.class, ore -> !ore.isGraded(),  ore ->
+                    register(("ore/" + ore.name() + "/" + rock.name()), () -> ore.create(rock), MetallumItemGroup.ORES)
+            )
+    );
+
     public static final Map<Rock, Map<MetallumOre, Map<Ore.Grade, RegistryObject<Block>>>> GRADED_ORES = Helpers.mapOfKeys(Rock.class, rock ->
             Helpers.mapOfKeys(MetallumOre.class, MetallumOre::isGraded, ore ->
                     Helpers.mapOfKeys(Ore.Grade.class, grade ->

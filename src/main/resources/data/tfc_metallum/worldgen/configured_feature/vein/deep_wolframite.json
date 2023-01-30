@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 30,
+    "rarity": 50,
     "min_y": {
       "absolute": -64
     },
     "max_y": {
       "absolute": 0
     },
-    "size": 10,
-    "density": 0.5,
+    "size": 20,
+    "density": 0.6,
     "blocks": [
       {
         "replace": [
@@ -238,16 +238,35 @@
             "block": "tfc_metallum:ore/rich_wolframite/chert"
           }
         ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chalk"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/chalk"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/chalk"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/chalk"
+          }
+        ]
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_wolframite"
         }
       ]
     },
-    "random_name": "deep_wolframite"
+    "random_name": "normal_wolframite"
   }
 }

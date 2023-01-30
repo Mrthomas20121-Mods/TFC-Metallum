@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/andesite_alloy",
+    "tfc_metallum:metal/flowing_andesite_alloy"
+  ]
+}

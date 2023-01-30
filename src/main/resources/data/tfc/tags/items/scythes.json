@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/scythe/aluminum",
+    "tfc_metallum:metal/scythe/boron",
+    "tfc_metallum:metal/scythe/beryllium_copper",
+    "tfc_metallum:metal/scythe/cobalt",
+    "tfc_metallum:metal/scythe/compressed_iron",
+    "tfc_metallum:metal/scythe/enderium",
+    "tfc_metallum:metal/scythe/ferroboron",
+    "tfc_metallum:metal/scythe/florentine_bronze",
+    "tfc_metallum:metal/scythe/invar",
+    "tfc_metallum:metal/scythe/lumium",
+    "tfc_metallum:metal/scythe/mithril",
+    "tfc_metallum:metal/scythe/nickel_silver",
+    "tfc_metallum:metal/scythe/osmium",
+    "tfc_metallum:metal/scythe/osmiridium",
+    "tfc_metallum:metal/scythe/pewter",
+    "tfc_metallum:metal/scythe/refined_glowstone",
+    "tfc_metallum:metal/scythe/refined_obsidian",
+    "tfc_metallum:metal/scythe/signalum",
+    "tfc_metallum:metal/scythe/thorium",
+    "tfc_metallum:metal/scythe/titanium",
+    "tfc_metallum:metal/scythe/tungsten",
+    "tfc_metallum:metal/scythe/tungsten_steel",
+    "tfc_metallum:metal/scythe/uranium"
+  ]
+}

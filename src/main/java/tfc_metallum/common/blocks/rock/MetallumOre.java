@@ -7,7 +7,6 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 
 public enum MetallumOre {
-
     BAUXITE(true),
     BERTRANDITE(true),
     COBALTITE(true),
@@ -16,10 +15,12 @@ public enum MetallumOre {
     MONAZITE(true),
     NATIVE_OSMIUM(true),
     NATIVE_IRIDIUM(true),
+    NATIVE_PLATINUM(true),
     RUTILE(true),
     STIBNITE(true),
     URANINITE(true),
-    WOLFRAMITE(true);
+    WOLFRAMITE(true),
+    CERTUS_QUARTZ(false);
 
     private final boolean grade;
 

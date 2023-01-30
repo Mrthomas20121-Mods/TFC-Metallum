@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "tfc:block/ore",
   "textures": {
-    "all": "tfc_metallum:block/ore/normal_kernite/granite"
+    "all": "tfc:block/rock/raw/granite",
+    "particle": "tfc:block/rock/raw/granite",
+    "overlay": "tfc_metallum:block/ore/normal_kernite"
   }
 }

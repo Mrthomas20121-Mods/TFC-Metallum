@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+	{
+      "item": "tfc_metallum:ore/small_wolframite"
+    },
+    {
+      "item": "tfc_metallum:ore/normal_wolframite"
+    },
+    {
+      "item": "tfc_metallum:ore/poor_wolframite"
+    },
+    {
+      "item": "tfc_metallum:ore/rich_wolframite"
+    }
+  ],
+  "heat_capacity": 2,
+  "forging_tempererature": 2040,
+  "welding_tempererature": 2720
+}

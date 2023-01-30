@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/anvil",
   "textures": {
-    "all": "tfc_metallum:block/full/thorium",
-    "particle": "tfc_metallum:block/full/thorium"
+    "all": "tfc_metallum:block/metal/anvil/thorium",
+    "particle": "tfc_metallum:block/metal/anvil/thorium"
   }
 }

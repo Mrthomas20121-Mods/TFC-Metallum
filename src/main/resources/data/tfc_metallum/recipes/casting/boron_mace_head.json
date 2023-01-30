@@ -1,0 +1,14 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/mace_head_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum:metal/boron",
+    "amount": 200
+  },
+  "result": {
+    "item": "tfc_metallum:metal/mace_head/boron"
+  },
+  "break_chance": 1
+}

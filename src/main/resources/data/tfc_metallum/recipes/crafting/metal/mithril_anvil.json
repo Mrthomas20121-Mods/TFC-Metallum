@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " X ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "tfc_metallum:metal/double_ingot/mithril"
+    }
+  },
+  "result": {
+    "item": "tfc_metallum:metal/anvil/mithril"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+	{
+      "item": "tfc_metallum:ore/small_bauxite"
+    },
+    {
+      "item": "tfc_metallum:ore/normal_bauxite"
+    },
+    {
+      "item": "tfc_metallum:ore/poor_bauxite"
+    },
+    {
+      "item": "tfc_metallum:ore/rich_bauxite"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_tempererature": 720,
+  "welding_tempererature": 960
+}

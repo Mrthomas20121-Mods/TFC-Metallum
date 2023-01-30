@@ -10,6 +10,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.common.util.Lazy;
 import net.minecraftforge.registries.RegistryObject;
+import tfc_metallum.common.blocks.rock.MetallumOre;
 import tfc_metallum.common.items.MetallumItems;
 import tfc_metallum.util.MetallumMetal;
 
@@ -20,7 +21,7 @@ import java.util.function.Supplier;
 public class MetallumItemGroup extends CreativeModeTab {
 
     public static final CreativeModeTab METAL = new MetallumItemGroup("metals", () -> new ItemStack((MetallumItems.METAL_ITEMS.get(MetallumMetal.ALUMINUM)).get(MetallumMetal.ItemType.INGOT).get()));
-    public static final CreativeModeTab ORES = new MetallumItemGroup("ores", () -> new ItemStack((TFCItems.GRADED_ORES.get(Ore.NATIVE_COPPER).get(Ore.Grade.NORMAL)).get()));
+    public static final CreativeModeTab ORES = new MetallumItemGroup("ores", () -> new ItemStack((MetallumItems.GRADED_ORES.get(MetallumOre.BAUXITE).get(Ore.Grade.NORMAL)).get()));
 
     private final Lazy<ItemStack> iconStack;
 

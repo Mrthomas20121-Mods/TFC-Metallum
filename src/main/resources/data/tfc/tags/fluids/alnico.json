@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/alnico",
+    "tfc_metallum:metal/flowing_alnico"
+  ]
+}

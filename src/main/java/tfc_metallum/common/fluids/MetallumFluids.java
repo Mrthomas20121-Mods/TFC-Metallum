@@ -32,9 +32,8 @@ public class MetallumFluids {
             "metal/" + metal.getSerializedName(),
             "metal/flowing_" + metal.getSerializedName(),
             properties -> properties.block(MetallumBlocks.METAL_FLUIDS.get(metal)).bucket(MetallumItems.METAL_FLUID_BUCKETS.get(metal)).explosionResistance(100),
-            FluidAttributes.builder(new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_still"), new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_flowing"))
+            FluidAttributes.builder(new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_still"), new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_flow"))
                     .translationKey("fluid.tfc_metallum.metal." + metal.getSerializedName())
-                    .color(ALPHA_MASK | metal.getColor())
                     .rarity(metal.getRarity())
                     .luminosity(15)
                     .density(3000)

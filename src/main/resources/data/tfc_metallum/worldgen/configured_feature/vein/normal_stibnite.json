@@ -1,7 +1,7 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 50,
+    "rarity": 60,
     "min_y": {
       "absolute": 0
     },
@@ -9,7 +9,7 @@
       "absolute": 75
     },
     "size": 20,
-    "density": 0.5,
+    "density": 0.6,
     "blocks": [
       {
         "replace": [
@@ -89,7 +89,7 @@
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_stibnite"

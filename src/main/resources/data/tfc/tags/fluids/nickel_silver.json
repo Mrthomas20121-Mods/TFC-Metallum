@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/nickel_silver",
+    "tfc_metallum:metal/flowing_nickel_silver"
+  ]
+}

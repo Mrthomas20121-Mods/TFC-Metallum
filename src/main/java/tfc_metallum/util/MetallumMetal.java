@@ -44,6 +44,7 @@ public enum MetallumMetal implements RegistryMetal {
     COBALT(0x59a6e, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.COBALT, MetallumArmorMaterials.COBALT, true, true, true),
     COMPRESSED_IRON(0xbdbdb, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.COMPRESSED_IRON, MetallumArmorMaterials.COMPRESSED_IRON, true, true, true),
     ELECTRUM(0xfbfbb, Rarity.COMMON, Metal.Tier.TIER_II, true, false, false),
+    PLATINUM(0x9CB8BF, Rarity.RARE, Metal.Tier.TIER_V, true, false, false),
     ENDERIUM(0x76f0e, Rarity.RARE, Metal.Tier.TIER_V, MetallumTiers.ENDERIUM, MetallumArmorMaterials.ENDERIUM, true, true, true),
     FERROBORON(0x6f737, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.FERROBORON, MetallumArmorMaterials.FERROBORON, true, true, true),
     FLORENTINE_BRONZE(0xAA924C, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.FLORENTINE_BRONZE, MetallumArmorMaterials.FLORENTINE_BRONZE, true, true, true),

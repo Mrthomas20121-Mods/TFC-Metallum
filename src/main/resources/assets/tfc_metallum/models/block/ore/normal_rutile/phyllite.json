@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "tfc:block/ore",
   "textures": {
-    "all": "tfc_metallum:block/ore/normal_rutile/phyllite"
+    "all": "tfc:block/rock/raw/phyllite",
+    "particle": "tfc:block/rock/raw/phyllite",
+    "overlay": "tfc_metallum:block/ore/normal_rutile"
   }
 }

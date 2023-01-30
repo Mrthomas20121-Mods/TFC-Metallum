@@ -3,10 +3,10 @@
   "config": {
     "rarity": 50,
     "min_y": {
-      "absolute": 70
+      "absolute": 80
     },
     "max_y": {
-      "absolute": 240
+      "absolute": 120
     },
     "size": 8,
     "density": 0.5,

@@ -1,0 +1,50 @@
+{
+  "type": "tfc:disc_vein",
+  "config": {
+    "rarity": 20,
+    "min_y": {
+      "absolute": 60
+    },
+    "max_y": {
+      "absolute": 50
+    },
+    "size": 8,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/certus_quartz/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/certus_quartz/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/certus_quartz/limestone"
+          }
+        ]
+      }
+    ],
+    "random_name": "certus_quartz"
+  }
+}

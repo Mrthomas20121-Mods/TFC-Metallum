@@ -8,8 +8,8 @@
     "max_y": {
       "absolute": 100
     },
-    "size": 15,
-    "density": 0.5,
+    "size": 20,
+    "density": 0.6,
     "blocks": [
       {
         "replace": [
@@ -17,16 +17,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/rhyolite"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/rhyolite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/rhyolite"
           }
         ]
       },
@@ -36,16 +32,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/basalt"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/basalt"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/basalt"
           }
         ]
       },
@@ -55,16 +47,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/andesite"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/andesite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/andesite"
           }
         ]
       },
@@ -74,16 +62,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/dacite"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/dacite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/dacite"
           }
         ]
       },
@@ -93,16 +77,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/quartzite"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/quartzite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/quartzite"
           }
         ]
       },
@@ -112,16 +92,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/slate"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/slate"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/slate"
           }
         ]
       },
@@ -131,16 +107,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/phyllite"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/phyllite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/phyllite"
           }
         ]
       },
@@ -150,16 +122,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/schist"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/schist"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/schist"
           }
         ]
       },
@@ -169,16 +137,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/gneiss"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/gneiss"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/gneiss"
           }
         ]
       },
@@ -188,28 +152,24 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 40,
             "block": "tfc_metallum:ore/poor_rutile/marble"
           },
           {
-            "weight": 50,
+            "weight": 5,
             "block": "tfc_metallum:ore/normal_rutile/marble"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_rutile/marble"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_rutile"
         }
       ]
     },
-    "random_name": "surface_rutile"
+    "random_name": "normal_rutile"
   }
 }
