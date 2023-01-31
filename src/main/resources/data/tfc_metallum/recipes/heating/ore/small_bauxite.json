@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/small_bauxite"
   },
-  "temperature": 660,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/aluminum",
     "amount": 10
-  }
+  },
+  "temperature": 660
 }

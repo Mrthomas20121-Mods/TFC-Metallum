@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 1450,
+  "use_durability": true
 }

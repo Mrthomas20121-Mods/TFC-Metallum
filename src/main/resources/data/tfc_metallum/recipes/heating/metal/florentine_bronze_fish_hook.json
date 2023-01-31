@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/fish_hook/florentine_bronze"
   },
-  "temperature": 400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",
     "amount": 200
-  }
+  },
+  "temperature": 400
 }

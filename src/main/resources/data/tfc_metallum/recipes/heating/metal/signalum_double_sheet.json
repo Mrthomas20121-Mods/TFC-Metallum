@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/signalum"
+    "item": "tfc_metallum:metal/double_sheet/signalum"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/signalum",
     "amount": 400
-  }
+  },
+  "temperature": 1500
 }

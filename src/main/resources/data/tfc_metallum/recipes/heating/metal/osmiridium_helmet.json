@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/helmet/osmiridium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmiridium",
     "amount": 600
   },
-  "useDurability": true
+  "temperature": 1500,
+  "use_durability": true
 }

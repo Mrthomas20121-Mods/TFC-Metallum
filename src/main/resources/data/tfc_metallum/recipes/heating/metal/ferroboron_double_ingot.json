@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_ingots/ferroboron"
+    "item": "tfc_metallum:metal/double_ingot/ferroboron"
   },
-  "temperature": 3000,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/ferroboron",
     "amount": 200
-  }
+  },
+  "temperature": 3000
 }

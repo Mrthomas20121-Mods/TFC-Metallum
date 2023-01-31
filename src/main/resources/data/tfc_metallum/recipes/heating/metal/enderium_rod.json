@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/enderium"
+    "item": "tfc_metallum:metal/rod/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1700
 }

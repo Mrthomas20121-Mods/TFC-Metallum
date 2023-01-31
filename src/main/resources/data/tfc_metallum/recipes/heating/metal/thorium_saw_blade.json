@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/saw_blade/thorium"
   },
-  "temperature": 1750,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
     "amount": 100
-  }
+  },
+  "temperature": 1750
 }

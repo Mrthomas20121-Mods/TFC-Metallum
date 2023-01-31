@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hoe_head/osmiridium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmiridium",
     "amount": 100
-  }
+  },
+  "temperature": 1500
 }

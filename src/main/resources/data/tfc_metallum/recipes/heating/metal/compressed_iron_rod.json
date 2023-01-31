@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/compressed_iron"
+    "item": "tfc_metallum:metal/rod/compressed_iron"
   },
-  "temperature": 1535,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1535
 }

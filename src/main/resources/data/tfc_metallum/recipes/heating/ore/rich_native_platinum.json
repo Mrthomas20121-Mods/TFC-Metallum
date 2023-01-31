@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:ore/rich_native_platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/platinum",
+    "amount": 35
+  },
+  "temperature": 1730
+}

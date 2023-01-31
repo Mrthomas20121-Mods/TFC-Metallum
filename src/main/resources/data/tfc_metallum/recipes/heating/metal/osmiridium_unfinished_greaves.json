@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_greaves/osmiridium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmiridium",
     "amount": 400
-  }
+  },
+  "temperature": 1500
 }

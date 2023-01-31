@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/shield/mithril"
   },
-  "temperature": 940,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 940,
+  "use_durability": true
 }

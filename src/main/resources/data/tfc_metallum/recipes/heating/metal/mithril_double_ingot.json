@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_ingots/mithril"
+    "item": "tfc_metallum:metal/double_ingot/mithril"
   },
-  "temperature": 940,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
     "amount": 200
-  }
+  },
+  "temperature": 940
 }

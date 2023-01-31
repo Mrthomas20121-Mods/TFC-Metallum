@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/greaves/nickel_silver"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",
     "amount": 600
   },
-  "useDurability": true
+  "temperature": 1450,
+  "use_durability": true
 }

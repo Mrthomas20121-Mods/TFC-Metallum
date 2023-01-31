@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_chestplate/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 400
-  }
+  },
+  "temperature": 1450
 }

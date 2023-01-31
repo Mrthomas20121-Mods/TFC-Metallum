@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife_blade/uranium"
   },
-  "temperature": 1100,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",
     "amount": 100
-  }
+  },
+  "temperature": 1100
 }

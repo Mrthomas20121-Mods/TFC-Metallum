@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/lead"
+    "item": "tfc_metallum:metal/double_sheet/lead"
   },
-  "temperature": 328,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lead",
     "amount": 400
-  }
+  },
+  "temperature": 328
 }

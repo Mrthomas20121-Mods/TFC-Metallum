@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/boron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/boron",
+    "amount": 200
+  },
+  "temperature": 2070
+}

@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/chisel_head/nickel_silver"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",
     "amount": 100
-  }
+  },
+  "temperature": 1450
 }

@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/mace/boron"
   },
-  "temperature": 2070,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
     "amount": 200
   },
-  "useDurability": true
+  "temperature": 2070,
+  "use_durability": true
 }

@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/mace_head/thorium"
   },
-  "temperature": 1750,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
     "amount": 200
-  }
+  },
+  "temperature": 1750
 }

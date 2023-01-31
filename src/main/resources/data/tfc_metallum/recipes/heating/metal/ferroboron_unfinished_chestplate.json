@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_chestplate/ferroboron"
   },
-  "temperature": 3000,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/ferroboron",
     "amount": 400
-  }
+  },
+  "temperature": 3000
 }

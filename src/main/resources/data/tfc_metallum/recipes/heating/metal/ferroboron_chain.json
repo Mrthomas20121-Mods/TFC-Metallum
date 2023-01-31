@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/chain/ferroboron"
   },
-  "temperature": 3000,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/ferroboron",
-    "amount": 6
-  }
+    "amount": 100
+  },
+  "temperature": 3000
 }

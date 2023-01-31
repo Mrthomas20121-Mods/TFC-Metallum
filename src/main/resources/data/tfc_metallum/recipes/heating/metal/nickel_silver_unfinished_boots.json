@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_boots/nickel_silver"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",
     "amount": 200
-  }
+  },
+  "temperature": 1450
 }

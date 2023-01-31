@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_ingots/iridium"
+    "item": "tfc_metallum:metal/double_ingot/iridium"
   },
-  "temperature": 2490,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/iridium",
     "amount": 200
-  }
+  },
+  "temperature": 2490
 }

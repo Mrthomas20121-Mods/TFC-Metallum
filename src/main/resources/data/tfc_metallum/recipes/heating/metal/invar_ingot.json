@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:ingots/invar"
+    "item": "forge:ingots/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 100
-  }
+  },
+  "temperature": 1450
 }

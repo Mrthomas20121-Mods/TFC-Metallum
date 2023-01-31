@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_chestplate/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
     "amount": 400
-  }
+  },
+  "temperature": 1700
 }

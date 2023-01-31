@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_boots/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
     "amount": 200
-  }
+  },
+  "temperature": 1700
 }

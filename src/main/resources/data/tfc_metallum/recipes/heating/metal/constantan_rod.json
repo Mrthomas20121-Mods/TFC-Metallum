@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/constantan"
+    "item": "tfc_metallum:metal/rod/constantan"
   },
-  "temperature": 1200,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/constantan",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1200
 }

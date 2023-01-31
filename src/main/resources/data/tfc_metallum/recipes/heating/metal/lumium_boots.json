@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/boots/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 1500,
+  "use_durability": true
 }

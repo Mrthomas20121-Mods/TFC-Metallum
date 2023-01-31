@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/ferroboron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/ferroboron",
+    "amount": 200
+  },
+  "temperature": 3000
+}

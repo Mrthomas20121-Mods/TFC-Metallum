@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/mace_head/osmium"
   },
-  "temperature": 3025,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmium",
     "amount": 200
-  }
+  },
+  "temperature": 3025
 }

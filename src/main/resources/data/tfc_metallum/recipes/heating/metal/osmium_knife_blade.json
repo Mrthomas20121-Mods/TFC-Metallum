@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife_blade/osmium"
   },
-  "temperature": 3025,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmium",
     "amount": 100
-  }
+  },
+  "temperature": 3025
 }

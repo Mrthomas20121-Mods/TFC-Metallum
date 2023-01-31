@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/anvil/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 1400
-  }
+  },
+  "temperature": 1450
 }

@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife/cobalt"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/cobalt",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 1500,
+  "use_durability": true
 }

@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/pickaxe/aluminum"
   },
-  "temperature": 660,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/aluminum",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 660,
+  "use_durability": true
 }

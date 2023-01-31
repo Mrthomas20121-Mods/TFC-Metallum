@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/iridium"
+    "item": "tfc_metallum:metal/rod/iridium"
   },
-  "temperature": 2490,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/iridium",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 2490
 }

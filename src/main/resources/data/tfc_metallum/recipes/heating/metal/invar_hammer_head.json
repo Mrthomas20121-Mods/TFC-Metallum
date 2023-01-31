@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hammer_head/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 100
-  }
+  },
+  "temperature": 1450
 }

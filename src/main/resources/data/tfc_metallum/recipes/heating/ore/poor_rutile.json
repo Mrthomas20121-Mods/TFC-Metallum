@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/poor_rutile"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",
     "amount": 15
-  }
+  },
+  "temperature": 1700
 }

@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_ingots/boron"
+    "item": "tfc_metallum:metal/double_ingot/boron"
   },
-  "temperature": 2070,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
     "amount": 200
-  }
+  },
+  "temperature": 2070
 }

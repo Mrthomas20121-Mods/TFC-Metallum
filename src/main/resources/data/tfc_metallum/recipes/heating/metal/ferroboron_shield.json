@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/shield/ferroboron"
   },
-  "temperature": 3000,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/ferroboron",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 3000,
+  "use_durability": true
 }

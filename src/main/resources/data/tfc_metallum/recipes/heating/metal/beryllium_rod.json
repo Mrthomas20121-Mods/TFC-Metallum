@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/beryllium"
+    "item": "tfc_metallum:metal/rod/beryllium"
   },
-  "temperature": 1200,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/beryllium",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1200
 }

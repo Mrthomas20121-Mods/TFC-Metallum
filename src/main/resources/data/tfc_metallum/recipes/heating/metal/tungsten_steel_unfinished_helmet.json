@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_helmet/tungsten_steel"
   },
-  "temperature": 3690,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten_steel",
     "amount": 400
-  }
+  },
+  "temperature": 3690
 }

@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/fishing_rod/thorium"
   },
-  "temperature": 1750,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
     "amount": 200
   },
-  "useDurability": true
+  "temperature": 1750,
+  "use_durability": true
 }

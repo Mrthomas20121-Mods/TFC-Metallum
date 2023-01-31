@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/scythe_blade/titanium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",
     "amount": 100
-  }
+  },
+  "temperature": 1700
 }

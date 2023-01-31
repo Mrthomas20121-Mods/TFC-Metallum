@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/anvil/compressed_iron"
   },
-  "temperature": 1535,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",
     "amount": 1400
-  }
+  },
+  "temperature": 1535
 }

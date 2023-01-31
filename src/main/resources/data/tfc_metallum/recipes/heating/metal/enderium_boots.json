@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/boots/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 1700,
+  "use_durability": true
 }

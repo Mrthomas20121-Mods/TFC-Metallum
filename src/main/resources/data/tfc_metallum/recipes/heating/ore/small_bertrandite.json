@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/small_bertrandite"
   },
-  "temperature": 1200,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/beryllium",
     "amount": 10
-  }
+  },
+  "temperature": 1200
 }

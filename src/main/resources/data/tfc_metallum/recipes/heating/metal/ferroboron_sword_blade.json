@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/sword_blade/ferroboron"
   },
-  "temperature": 3000,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/ferroboron",
-    "amount": 200
-  }
+    "amount": 100
+  },
+  "temperature": 3000
 }

@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:ingots/florentine_bronze"
+    "item": "forge:ingots/florentine_bronze"
   },
-  "temperature": 400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",
     "amount": 100
-  }
+  },
+  "temperature": 400
 }

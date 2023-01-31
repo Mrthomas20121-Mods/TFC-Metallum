@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/normal_kernite"
   },
-  "temperature": 2070,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
     "amount": 25
-  }
+  },
+  "temperature": 2070
 }

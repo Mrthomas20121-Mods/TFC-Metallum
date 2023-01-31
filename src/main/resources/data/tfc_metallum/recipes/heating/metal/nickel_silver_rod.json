@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/nickel_silver"
+    "item": "tfc_metallum:metal/rod/nickel_silver"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1450
 }

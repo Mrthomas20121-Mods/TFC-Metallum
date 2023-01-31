@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/beryllium_copper"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/beryllium_copper",
+    "amount": 200
+  },
+  "temperature": 1500
+}

@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/tuyere/refined_glowstone"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_glowstone",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 1500,
+  "use_durability": true
 }

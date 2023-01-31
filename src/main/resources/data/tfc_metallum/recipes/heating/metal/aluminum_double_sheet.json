@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/aluminum"
+    "item": "tfc_metallum:metal/double_sheet/aluminum"
   },
-  "temperature": 660,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/aluminum",
     "amount": 400
-  }
+  },
+  "temperature": 660
 }

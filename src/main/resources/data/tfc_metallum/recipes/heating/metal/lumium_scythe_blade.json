@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/scythe_blade/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
     "amount": 100
-  }
+  },
+  "temperature": 1500
 }

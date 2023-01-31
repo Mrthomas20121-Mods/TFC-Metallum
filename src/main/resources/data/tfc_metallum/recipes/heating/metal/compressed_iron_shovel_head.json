@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/shovel_head/compressed_iron"
   },
-  "temperature": 1535,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",
     "amount": 100
-  }
+  },
+  "temperature": 1535
 }

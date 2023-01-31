@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_boots/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
     "amount": 200
-  }
+  },
+  "temperature": 1500
 }

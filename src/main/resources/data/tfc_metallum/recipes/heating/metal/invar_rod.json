@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/invar"
+    "item": "tfc_metallum:metal/rod/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 1450
 }

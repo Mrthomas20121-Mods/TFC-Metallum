@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_greaves/thorium"
   },
-  "temperature": 1750,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
     "amount": 400
-  }
+  },
+  "temperature": 1750
 }

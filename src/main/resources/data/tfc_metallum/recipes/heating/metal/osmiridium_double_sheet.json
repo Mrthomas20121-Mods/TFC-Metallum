@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/osmiridium"
+    "item": "tfc_metallum:metal/double_sheet/osmiridium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmiridium",
     "amount": 400
-  }
+  },
+  "temperature": 1500
 }

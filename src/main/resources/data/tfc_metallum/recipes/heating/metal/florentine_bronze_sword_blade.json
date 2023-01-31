@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/sword_blade/florentine_bronze"
   },
-  "temperature": 400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",
-    "amount": 200
-  }
+    "amount": 100
+  },
+  "temperature": 400
 }

@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/trapdoor/refined_glowstone"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_glowstone",
     "amount": 200
-  }
+  },
+  "temperature": 1500
 }

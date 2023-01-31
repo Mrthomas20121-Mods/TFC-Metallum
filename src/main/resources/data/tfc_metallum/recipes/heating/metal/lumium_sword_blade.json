@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/sword_blade/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
-    "amount": 200
-  }
+    "amount": 100
+  },
+  "temperature": 1500
 }

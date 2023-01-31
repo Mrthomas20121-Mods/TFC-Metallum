@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/tungsten"
+    "item": "tfc_metallum:metal/rod/tungsten"
   },
-  "temperature": 3400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten",
-    "amount": 200
-  }
+    "amount": 50
+  },
+  "temperature": 3400
 }

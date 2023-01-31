@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_helmet/mithril"
   },
-  "temperature": 940,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
     "amount": 400
-  }
+  },
+  "temperature": 940
 }

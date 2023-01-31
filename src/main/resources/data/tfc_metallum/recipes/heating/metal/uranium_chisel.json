@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/chisel/uranium"
   },
-  "temperature": 1100,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 1100,
+  "use_durability": true
 }

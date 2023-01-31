@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/small_native_osmium"
   },
-  "temperature": 3025,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmium",
     "amount": 10
-  }
+  },
+  "temperature": 3025
 }

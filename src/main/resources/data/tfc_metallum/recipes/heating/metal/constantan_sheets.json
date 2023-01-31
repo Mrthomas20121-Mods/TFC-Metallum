@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/constantan"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/constantan",
+    "amount": 200
+  },
+  "temperature": 1200
+}

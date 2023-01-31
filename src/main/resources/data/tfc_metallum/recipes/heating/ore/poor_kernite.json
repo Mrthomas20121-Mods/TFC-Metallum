@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/poor_kernite"
   },
-  "temperature": 2070,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
     "amount": 15
-  }
+  },
+  "temperature": 2070
 }

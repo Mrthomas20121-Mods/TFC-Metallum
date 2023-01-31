@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/rod/platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/platinum",
+    "amount": 50
+  },
+  "temperature": 1730
+}

@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/trapdoor/mithril"
   },
-  "temperature": 940,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
     "amount": 200
-  }
+  },
+  "temperature": 940
 }

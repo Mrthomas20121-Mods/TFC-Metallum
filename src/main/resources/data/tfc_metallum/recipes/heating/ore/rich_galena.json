@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/rich_galena"
   },
-  "temperature": 328,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lead",
-    "amount": 25
-  }
+    "amount": 35
+  },
+  "temperature": 328
 }

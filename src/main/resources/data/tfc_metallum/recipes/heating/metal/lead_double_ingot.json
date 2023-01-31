@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_ingots/lead"
+    "item": "tfc_metallum:metal/double_ingot/lead"
   },
-  "temperature": 328,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lead",
     "amount": 200
-  }
+  },
+  "temperature": 328
 }

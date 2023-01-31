@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/trapdoor/tungsten"
   },
-  "temperature": 3400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten",
     "amount": 200
-  }
+  },
+  "temperature": 3400
 }

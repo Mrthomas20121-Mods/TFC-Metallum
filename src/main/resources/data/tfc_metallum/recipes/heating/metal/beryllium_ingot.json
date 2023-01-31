@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:ingots/beryllium"
+    "item": "forge:ingots/beryllium"
   },
-  "temperature": 1200,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/beryllium",
     "amount": 100
-  }
+  },
+  "temperature": 1200
 }

@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/graphite"
+    "item": "tfc_metallum:metal/double_sheet/graphite"
   },
-  "temperature": 500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/graphite",
     "amount": 400
-  }
+  },
+  "temperature": 500
 }

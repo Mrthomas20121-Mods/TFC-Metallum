@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/chain/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
-    "amount": 6
-  }
+    "amount": 100
+  },
+  "temperature": 1700
 }

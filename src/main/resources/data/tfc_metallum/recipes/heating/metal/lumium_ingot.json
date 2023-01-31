@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:ingots/lumium"
+    "item": "forge:ingots/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
     "amount": 100
-  }
+  },
+  "temperature": 1500
 }

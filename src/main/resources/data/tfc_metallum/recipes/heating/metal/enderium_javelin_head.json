@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/javelin_head/enderium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",
     "amount": 100
-  }
+  },
+  "temperature": 1700
 }

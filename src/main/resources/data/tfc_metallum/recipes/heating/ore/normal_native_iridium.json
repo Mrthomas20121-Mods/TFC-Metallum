@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/normal_native_iridium"
   },
-  "temperature": 2490,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/iridium",
     "amount": 25
-  }
+  },
+  "temperature": 2490
 }

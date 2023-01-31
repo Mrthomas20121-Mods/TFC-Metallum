@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/scythe_blade/tungsten"
   },
-  "temperature": 3400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten",
     "amount": 100
-  }
+  },
+  "temperature": 3400
 }

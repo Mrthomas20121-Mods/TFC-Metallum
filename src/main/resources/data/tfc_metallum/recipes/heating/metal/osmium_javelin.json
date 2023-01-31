@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/javelin/osmium"
   },
-  "temperature": 3025,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmium",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 3025,
+  "use_durability": true
 }

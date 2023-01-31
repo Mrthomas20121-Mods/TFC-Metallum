@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hoe_head/signalum"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/signalum",
     "amount": 100
-  }
+  },
+  "temperature": 1500
 }

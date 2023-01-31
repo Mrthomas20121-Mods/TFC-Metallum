@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hoe/titanium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 1700,
+  "use_durability": true
 }

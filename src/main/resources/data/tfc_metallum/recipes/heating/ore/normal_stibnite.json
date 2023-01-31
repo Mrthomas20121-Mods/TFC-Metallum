@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/normal_stibnite"
   },
-  "temperature": 630,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/antimony",
     "amount": 25
-  }
+  },
+  "temperature": 630
 }

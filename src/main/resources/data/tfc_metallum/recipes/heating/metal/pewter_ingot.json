@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:ingots/pewter"
+    "item": "forge:ingots/pewter"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/pewter",
     "amount": 100
-  }
+  },
+  "temperature": 1500
 }

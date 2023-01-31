@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/iridium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/iridium",
+    "amount": 200
+  },
+  "temperature": 2490
+}

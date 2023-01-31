@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife/compressed_iron"
   },
-  "temperature": 1535,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",
     "amount": 100
   },
-  "useDurability": true
+  "temperature": 1535,
+  "use_durability": true
 }

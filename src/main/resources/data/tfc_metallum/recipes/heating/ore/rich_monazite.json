@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/rich_monazite"
   },
-  "temperature": 1750,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
-    "amount": 25
-  }
+    "amount": 35
+  },
+  "temperature": 1750
 }

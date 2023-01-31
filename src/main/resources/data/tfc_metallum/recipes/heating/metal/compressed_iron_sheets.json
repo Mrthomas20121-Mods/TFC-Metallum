@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/sheets/compressed_iron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/compressed_iron",
+    "amount": 200
+  },
+  "temperature": 1535
+}

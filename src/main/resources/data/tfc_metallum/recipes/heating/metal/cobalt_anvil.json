@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/anvil/cobalt"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/cobalt",
     "amount": 1400
-  }
+  },
+  "temperature": 1500
 }

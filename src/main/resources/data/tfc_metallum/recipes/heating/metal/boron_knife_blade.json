@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/knife_blade/boron"
   },
-  "temperature": 2070,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
     "amount": 100
-  }
+  },
+  "temperature": 2070
 }

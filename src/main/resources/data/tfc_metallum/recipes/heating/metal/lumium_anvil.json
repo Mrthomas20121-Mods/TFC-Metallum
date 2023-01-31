@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/anvil/lumium"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",
     "amount": 1400
-  }
+  },
+  "temperature": 1500
 }

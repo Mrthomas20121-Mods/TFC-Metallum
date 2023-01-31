@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:double_sheets/florentine_bronze"
+    "item": "tfc_metallum:metal/double_sheet/florentine_bronze"
   },
-  "temperature": 400,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",
     "amount": 400
-  }
+  },
+  "temperature": 400
 }

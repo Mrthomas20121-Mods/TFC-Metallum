@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/shears/refined_obsidian"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_obsidian",
     "amount": 200
   },
-  "useDurability": true
+  "temperature": 1500,
+  "use_durability": true
 }

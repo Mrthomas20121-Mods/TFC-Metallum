@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/small_cobaltite"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/cobalt",
     "amount": 10
-  }
+  },
+  "temperature": 1500
 }

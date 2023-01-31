@@ -3,10 +3,10 @@
   "ingredient": {
     "item": "tfc_metallum:metal/shield/invar"
   },
-  "temperature": 1450,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",
     "amount": 400
   },
-  "useDurability": true
+  "temperature": 1450,
+  "use_durability": true
 }

@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:ore/rich_uraninite"
   },
-  "temperature": 1100,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",
-    "amount": 25
-  }
+    "amount": 35
+  },
+  "temperature": 1100
 }

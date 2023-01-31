@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_chestplate/refined_glowstone"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_glowstone",
     "amount": 400
-  }
+  },
+  "temperature": 1500
 }
