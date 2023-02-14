@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",
-    "amount": 100
+    "amount": 200
   },
   "temperature": 2070,
   "use_durability": true

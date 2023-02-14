@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/javelin/tungsten"
   },
-  "heat_capacity": 2,
-  "forging_tempererature": 2040,
-  "welding_tempererature": 2720
+  "heat_capacity": 5,
+  "forging_temperature": 2040,
+  "woelding_temperature": 2720
 }

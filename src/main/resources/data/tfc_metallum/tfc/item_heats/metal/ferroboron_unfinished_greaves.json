@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/unfinished_greaves/ferroboron"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1800,
-  "welding_tempererature": 2400
+  "heat_capacity": 13.333,
+  "forging_temperature": 1800,
+  "woelding_temperature": 2400
 }

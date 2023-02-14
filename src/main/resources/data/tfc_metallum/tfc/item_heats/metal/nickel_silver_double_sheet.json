@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:double_sheets/nickel_silver"
+    "item": "tfc_metallum:metal/double_sheet/nickel_silver"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 870,
-  "welding_tempererature": 1160
+  "heat_capacity": 11.429,
+  "forging_temperature": 870,
+  "woelding_temperature": 1160
 }

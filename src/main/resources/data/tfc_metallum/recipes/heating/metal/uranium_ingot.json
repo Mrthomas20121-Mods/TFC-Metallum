@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/uranium"
+    "tag": "forge:ingots/uranium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",

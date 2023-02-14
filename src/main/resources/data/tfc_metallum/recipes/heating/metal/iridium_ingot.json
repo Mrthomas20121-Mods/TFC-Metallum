@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/iridium"
+    "tag": "forge:ingots/iridium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/iridium",

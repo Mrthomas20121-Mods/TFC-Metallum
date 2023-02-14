@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:sheets/boron"
+    "item": "tfc_metallum:metal/rod/boron"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1242,
-  "welding_tempererature": 1656
+  "heat_capacity": 1.667,
+  "forging_temperature": 1242,
+  "woelding_temperature": 1656
 }

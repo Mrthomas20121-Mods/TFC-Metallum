@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/cobalt"
+    "item": "tfc_metallum:metal/sheet/cobalt"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/cobalt",
     "amount": 200
-  }
+  },
+  "temperature": 1500
 }

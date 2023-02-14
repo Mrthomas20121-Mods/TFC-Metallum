@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/propick_head/mithril"
   },
-  "temperature": 940,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
     "amount": 100
-  }
+  },
+  "temperature": 940
 }

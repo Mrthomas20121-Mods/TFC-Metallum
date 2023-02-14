@@ -1,6 +1,14 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/handheld_rod",
   "textures": {
     "layer0": "tfc_metallum:item/metal/fishing_rod/refined_obsidian"
-  }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "tfc:cast": 1
+      },
+      "model": "minecraft:item/fishing_rod_cast"
+    }
+  ]
 }

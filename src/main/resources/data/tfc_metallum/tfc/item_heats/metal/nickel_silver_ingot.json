@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/nickel_silver"
+    "item": "tfc_metallum:metal/ingot/nickel_silver"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 870,
-  "welding_tempererature": 1160
+  "heat_capacity": 2.857,
+  "forging_temperature": 870,
+  "woelding_temperature": 1160
 }

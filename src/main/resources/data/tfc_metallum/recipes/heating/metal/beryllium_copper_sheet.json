@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/beryllium_copper"
+    "item": "tfc_metallum:metal/sheet/beryllium_copper"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/beryllium_copper",
     "amount": 200
-  }
+  },
+  "temperature": 1500
 }

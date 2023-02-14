@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:sheets/constantan"
+    "item": "tfc_metallum:metal/sheet/constantan"
   },
-  "heat_capacity": 0.8,
-  "forging_tempererature": 720,
-  "welding_tempererature": 960
+  "heat_capacity": 4,
+  "forging_temperature": 720,
+  "woelding_temperature": 960
 }

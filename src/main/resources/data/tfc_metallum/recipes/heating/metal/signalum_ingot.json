@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/signalum"
+    "tag": "forge:ingots/signalum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/signalum",

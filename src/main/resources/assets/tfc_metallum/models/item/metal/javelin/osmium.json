@@ -1,6 +1,29 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tfc_metallum:item/metal/javelin/osmium"
+  "loader": "forge:separate-perspective",
+  "gui_light": "front",
+  "overrides": [
+    {
+      "predicate": {
+        "tfc:throwing": 1
+      },
+      "model": "tfc_metallum:item/metal/javelin/osmium_throwing"
+    }
+  ],
+  "base": {
+    "parent": "tfc_metallum:item/metal/javelin/osmium_in_hand"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum:item/metal/javelin/osmium_in_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum:item/metal/javelin/osmium_in_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum:item/metal/javelin/osmium_in_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum:item/metal/javelin/osmium_in_gui"
+    }
   }
 }

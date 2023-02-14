@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/tuyere/refined_glowstone"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 900,
-  "welding_tempererature": 1200
+  "heat_capacity": 11.429,
+  "forging_temperature": 900,
+  "woelding_temperature": 1200
 }

@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hammer_head/titanium"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1020,
-  "welding_tempererature": 1360
+  "heat_capacity": 3.333,
+  "forging_temperature": 1020,
+  "woelding_temperature": 1360
 }

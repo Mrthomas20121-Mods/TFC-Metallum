@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/fish_hook/mithril"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 564,
-  "welding_tempererature": 752
+  "heat_capacity": 5.714,
+  "forging_temperature": 564,
+  "woelding_temperature": 752
 }

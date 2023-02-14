@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/hammer_head/refined_obsidian"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 900,
-  "welding_tempererature": 1200
+  "heat_capacity": 2.857,
+  "forging_temperature": 900,
+  "woelding_temperature": 1200
 }

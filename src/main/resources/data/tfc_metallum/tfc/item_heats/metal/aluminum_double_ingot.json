@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:double_ingots/aluminum"
+    "item": "tfc_metallum:metal/double_ingot/aluminum"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 396,
-  "welding_tempererature": 528
+  "heat_capacity": 6.667,
+  "forging_temperature": 396,
+  "woelding_temperature": 528
 }

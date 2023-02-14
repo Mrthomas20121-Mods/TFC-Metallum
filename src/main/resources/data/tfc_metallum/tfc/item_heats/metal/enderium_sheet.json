@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:sheets/enderium"
+    "item": "tfc_metallum:metal/sheet/enderium"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 1020,
-  "welding_tempererature": 1360
+  "heat_capacity": 5.714,
+  "forging_temperature": 1020,
+  "woelding_temperature": 1360
 }

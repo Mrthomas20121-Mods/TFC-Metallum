@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/electrum"
+    "tag": "forge:ingots/electrum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/electrum",

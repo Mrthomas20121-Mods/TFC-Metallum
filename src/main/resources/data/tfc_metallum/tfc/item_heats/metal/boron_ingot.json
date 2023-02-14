@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/boron"
+    "item": "tfc_metallum:metal/ingot/boron"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1242,
-  "welding_tempererature": 1656
+  "heat_capacity": 3.333,
+  "forging_temperature": 1242,
+  "woelding_temperature": 1656
 }

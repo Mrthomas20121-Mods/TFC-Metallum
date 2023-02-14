@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:double_sheets/beryllium"
+    "item": "tfc_metallum:metal/double_sheet/beryllium"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 720,
-  "welding_tempererature": 960
+  "heat_capacity": 11.429,
+  "forging_temperature": 720,
+  "woelding_temperature": 960
 }

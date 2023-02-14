@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/graphite"
+    "item": "tfc_metallum:metal/ingot/graphite"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 300,
-  "welding_tempererature": 400
+  "heat_capacity": 2.857,
+  "forging_temperature": 300,
+  "woelding_temperature": 400
 }

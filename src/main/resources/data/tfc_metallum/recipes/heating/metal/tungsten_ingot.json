@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/tungsten"
+    "tag": "forge:ingots/tungsten"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten",

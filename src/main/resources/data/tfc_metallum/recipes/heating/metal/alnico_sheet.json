@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/alnico"
+    "item": "tfc_metallum:metal/sheet/alnico"
   },
-  "temperature": 1500,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/alnico",
     "amount": 200
-  }
+  },
+  "temperature": 1500
 }

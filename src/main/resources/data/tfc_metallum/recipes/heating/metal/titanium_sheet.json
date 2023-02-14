@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/titanium"
+    "item": "tfc_metallum:metal/sheet/titanium"
   },
-  "temperature": 1700,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",
     "amount": 200
-  }
+  },
+  "temperature": 1700
 }

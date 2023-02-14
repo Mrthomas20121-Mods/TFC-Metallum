@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/sword/tungsten_steel"
   },
-  "heat_capacity": 2,
-  "forging_tempererature": 2214,
-  "welding_tempererature": 2952
+  "heat_capacity": 10,
+  "forging_temperature": 2214,
+  "woelding_temperature": 2952
 }

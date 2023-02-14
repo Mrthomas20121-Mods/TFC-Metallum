@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/tungsten_steel"
+    "item": "tfc_metallum:metal/ingot/tungsten_steel"
   },
-  "heat_capacity": 2,
-  "forging_tempererature": 2214,
-  "welding_tempererature": 2952
+  "heat_capacity": 5,
+  "forging_temperature": 2214,
+  "woelding_temperature": 2952
 }

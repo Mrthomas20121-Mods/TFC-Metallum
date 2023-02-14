@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:sheets/antimony"
+    "item": "tfc_metallum:metal/sheet/antimony"
   },
-  "heat_capacity": 1.6,
-  "forging_tempererature": 378,
-  "welding_tempererature": 504
+  "heat_capacity": 8,
+  "forging_temperature": 378,
+  "woelding_temperature": 504
 }

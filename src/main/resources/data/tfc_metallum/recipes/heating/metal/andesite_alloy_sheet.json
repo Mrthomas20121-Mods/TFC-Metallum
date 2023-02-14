@@ -1,11 +1,11 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:sheets/andesite_alloy"
+    "item": "tfc_metallum:metal/sheet/andesite_alloy"
   },
-  "temperature": 520,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/andesite_alloy",
     "amount": 200
-  }
+  },
+  "temperature": 520
 }

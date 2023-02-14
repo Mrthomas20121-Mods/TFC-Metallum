@@ -1,0 +1,6 @@
+{
+  "parent": "item/trident_in_hand",
+  "textures": {
+    "particle": "tfc_metallum:item/metal/javelin/invar"
+  }
+}

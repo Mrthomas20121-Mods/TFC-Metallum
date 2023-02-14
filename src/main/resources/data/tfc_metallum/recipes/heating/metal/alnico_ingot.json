@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/alnico"
+    "tag": "forge:ingots/alnico"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/alnico",

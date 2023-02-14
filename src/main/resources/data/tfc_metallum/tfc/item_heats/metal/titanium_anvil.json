@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "tfc_metallum:metal/anvil/titanium"
   },
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1020,
-  "welding_tempererature": 1360
+  "heat_capacity": 46.667,
+  "forging_temperature": 1020,
+  "woelding_temperature": 1360
 }

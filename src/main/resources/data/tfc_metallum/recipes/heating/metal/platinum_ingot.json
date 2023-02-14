@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "forge:ingots/platinum"
+    "tag": "forge:ingots/platinum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/platinum",

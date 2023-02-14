@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "tag": "forge:sheets/lumium"
+    "item": "tfc_metallum:metal/rod/lumium"
   },
-  "heat_capacity": 1.143,
-  "forging_tempererature": 900,
-  "welding_tempererature": 1200
+  "heat_capacity": 1.429,
+  "forging_temperature": 900,
+  "woelding_temperature": 1200
 }

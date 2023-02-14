@@ -3,9 +3,9 @@
   "ingredient": {
     "item": "tfc_metallum:metal/propick_head/aluminum"
   },
-  "temperature": 660,
   "result_fluid": {
     "fluid": "tfc_metallum:metal/aluminum",
     "amount": 100
-  }
+  },
+  "temperature": 660
 }
