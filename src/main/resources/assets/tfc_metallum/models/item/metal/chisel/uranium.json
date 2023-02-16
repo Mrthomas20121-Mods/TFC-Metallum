@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "tfc:item/handheld_flipped",
   "textures": {
     "layer0": "tfc_metallum:item/metal/chisel/uranium"
   }
