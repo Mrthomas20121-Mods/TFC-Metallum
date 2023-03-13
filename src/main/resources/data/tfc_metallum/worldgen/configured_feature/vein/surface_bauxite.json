@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 50,
+    "rarity": 20,
     "min_y": {
-      "absolute": 80
+      "absolute": 65
     },
     "max_y": {
       "absolute": 120
     },
-    "size": 8,
-    "density": 0.5,
+    "size": 10,
+    "density": 0.65,
     "blocks": [
       {
         "replace": [
@@ -17,16 +17,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/shale"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/shale"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/shale"
           }
         ]
       },
@@ -36,16 +32,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/claystone"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/claystone"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/claystone"
           }
         ]
       },
@@ -55,16 +47,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/limestone"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/limestone"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/limestone"
           }
         ]
       },
@@ -74,16 +62,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/conglomerate"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/conglomerate"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/conglomerate"
           }
         ]
       },
@@ -93,16 +77,12 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/dolomite"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/dolomite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/dolomite"
           }
         ]
       },
@@ -112,22 +92,33 @@
         ],
         "with": [
           {
-            "weight": 20,
+            "weight": 90,
             "block": "tfc_metallum:ore/poor_bauxite/chert"
           },
           {
-            "weight": 50,
+            "weight": 10,
             "block": "tfc_metallum:ore/normal_bauxite/chert"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chalk"
+        ],
+        "with": [
+          {
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_bauxite/chalk"
           },
           {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_bauxite/chert"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_bauxite/chalk"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_bauxite"

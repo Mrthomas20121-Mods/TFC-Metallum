@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/bell_floor",
+  "textures": {
+    "bar": "tfc:block/rock/raw/dolomite",
+    "post": "tfc:block/wood/planks/ash",
+    "particle": "tfc_metallum:block/metal/full/beryllium_copper"
+  }
+}

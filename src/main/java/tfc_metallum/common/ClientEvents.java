@@ -10,10 +10,12 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.monster.Monster;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
+import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.client.event.TextureStitchEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import tfc_metallum.TFCMetallum;
 import tfc_metallum.common.blocks.MetallumBlocks;
 import tfc_metallum.common.items.MetallumItems;
 import tfc_metallum.util.MetallumMetal;
@@ -33,6 +35,8 @@ public class ClientEvents {
             {
                 event.addSprite(new ResourceLocation("tfc_metallum:block/metal/full/" + metal.getSerializedName()));
             }
+            event.addSprite(Helpers.identifier("entity/bell/beryllium_copper"));
+            event.addSprite(Helpers.identifier("entity/bell/florentine_bronze"));
         }
     }
 
@@ -52,6 +56,11 @@ public class ClientEvents {
                 }
             }
         }
+
+        ItemBlockRenderTypes.setRenderLayer(MetallumBlocks.ENDERIUM_BARS.get(), cutout);
+        ItemBlockRenderTypes.setRenderLayer(MetallumBlocks.TITANIUM_BARS.get(), cutout);
+        ItemBlockRenderTypes.setRenderLayer(MetallumBlocks.TUNGSTEN_BARS.get(), cutout);
+        ItemBlockRenderTypes.setRenderLayer(MetallumBlocks.TUNGSTEN_STEEL_BARS.get(), cutout);
 
         event.enqueueWork(() -> {
 

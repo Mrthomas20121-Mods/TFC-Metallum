@@ -1,7 +1,7 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 50,
+    "rarity": 35,
     "min_y": {
       "absolute": -64
     },
@@ -267,6 +267,6 @@
         }
       ]
     },
-    "random_name": "normal_wolframite"
+    "random_name": "deep_wolframite"
   }
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_side_alt",
+  "textures": {
+    "particle": "tfc_metallum:block/titanium_bars",
+    "bars": "tfc_metallum:block/titanium_bars",
+    "edge": "tfc_metallum:block/titanium_bars"
+  }
+}

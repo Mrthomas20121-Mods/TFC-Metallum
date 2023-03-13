@@ -10,7 +10,9 @@
 	  "tfc_metallum:vein/normal_cobaltite",
 	  "tfc_metallum:vein/normal_cobaltite",
 	  "tfc_metallum:vein/normal_kernite",
+	  "tfc_metallum:vein/surface_galena",
 	  "tfc_metallum:vein/normal_galena",
+	  "tfc_metallum:vein/deep_galena",
 	  "tfc_metallum:vein/normal_bertrandite",
 	  "tfc_metallum:vein/deep_bertrandite",
 	  "tfc_metallum:vein/normal_monazite",
@@ -19,7 +21,10 @@
 	  "tfc_metallum:vein/deep_rutile",
 	  "tfc_metallum:vein/normal_stibnite",
 	  "tfc_metallum:vein/deep_stibnite",
+	  "tfc_metallum:vein/surface_wolframite",
 	  "tfc_metallum:vein/normal_wolframite",
-	  "tfc_metallum:vein/deep_wolframite"
+	  "tfc_metallum:vein/deep_wolframite",
+	  "tfc_metallum:vein/surface_bauxite",
+	  "tfc_metallum:vein/normal_bauxite"
 	]
 }

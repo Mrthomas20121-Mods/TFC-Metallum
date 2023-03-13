@@ -1,14 +1,14 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 45,
+    "rarity": 25,
     "min_y": {
-      "absolute": -10
+      "absolute": -32
     },
     "max_y": {
-      "absolute": 80
+      "absolute": 60
     },
-    "size": 15,
+    "size": 20,
     "density": 0.5,
     "blocks": [
       {
@@ -124,10 +124,29 @@
             "block": "tfc_metallum:ore/rich_bauxite/chert"
           }
         ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chalk"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_bauxite/chalk"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_bauxite/chalk"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_bauxite/chalk"
+          }
+        ]
       }
     ],
     "indicator": {
-      "rarity": 10,
+      "rarity": 12,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_bauxite"

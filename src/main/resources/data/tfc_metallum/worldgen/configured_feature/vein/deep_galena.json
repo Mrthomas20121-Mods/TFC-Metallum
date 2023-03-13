@@ -1,0 +1,158 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 33,
+    "min_y": {
+      "absolute": -50
+    },
+    "max_y": {
+      "absolute": 0
+    },
+    "size": 18,
+    "density": 0.6,
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/shale"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/shale"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/shale"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/shale"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/claystone"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/claystone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/claystone"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/claystone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/limestone"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/limestone"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/limestone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/conglomerate"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/conglomerate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/conglomerate"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/conglomerate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dolomite"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/dolomite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/dolomite"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/dolomite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chert"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/chert"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/chert"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/chert"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chalk"
+        ],
+        "with": [
+          {
+            "weight": 30,
+            "block": "tfc:ore/normal_native_silver/chalk"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_galena/chalk"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum:ore/rich_galena/chalk"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore/small_galena"
+        }
+      ]
+    },
+    "random_name": "deep_galena"
+  }
+}

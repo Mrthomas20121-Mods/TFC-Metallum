@@ -1,130 +1,16 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 65,
+    "rarity": 30,
     "min_y": {
-      "absolute": 20
+      "absolute": 0
     },
     "max_y": {
-      "absolute": 70
+      "absolute": 55
     },
-    "size": 20,
-    "density": 0.6,
+    "size": 22,
+    "density": 0.7,
     "blocks": [
-      {
-        "replace": [
-          "tfc:rock/raw/quartzite"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/quartzite"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/quartzite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/quartzite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/slate"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/slate"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/slate"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/slate"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/phyllite"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/phyllite"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/phyllite"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/phyllite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/schist"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/schist"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/schist"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/schist"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/gneiss"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/gneiss"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/gneiss"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/gneiss"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/marble"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_wolframite/marble"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_wolframite/marble"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_wolframite/marble"
-          }
-        ]
-      },
       {
         "replace": [
           "tfc:rock/raw/shale"
@@ -255,6 +141,120 @@
           {
             "weight": 30,
             "block": "tfc_metallum:ore/rich_wolframite/chalk"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/quartzite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/quartzite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/slate"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/slate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/phyllite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/phyllite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/schist"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/schist"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/gneiss"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/gneiss"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_wolframite/marble"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_wolframite/marble"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_wolframite/marble"
           }
         ]
       }

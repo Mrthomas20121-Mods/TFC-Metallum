@@ -113,7 +113,7 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.2-40.1.73'
+    minecraft "net.minecraftforge:forge:${forge_version}"
 
     implementation fg.deobf("curse.maven:terrafirmacraft-302973:${tfc_version}")
 
