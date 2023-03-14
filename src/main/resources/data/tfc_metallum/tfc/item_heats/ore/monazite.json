@@ -1,6 +1,6 @@
 {
   "ingredient": [
-	{
+    {
       "item": "tfc_metallum:ore/small_monazite"
     },
     {
@@ -13,7 +13,7 @@
       "item": "tfc_metallum:ore/rich_monazite"
     }
   ],
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1050,
-  "welding_tempererature": 1400
+  "heat_capacity": 1.143,
+  "forging_temperature": 1050,
+  "welding_tempreture": 1400
 }

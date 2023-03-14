@@ -1,19 +1,19 @@
 {
   "ingredient": [
-	{
-      "item": "tfc_metallum:ore/small_wolframite"
+    {
+      "item": "tfc_metallum:ore/small_uraninite"
     },
     {
-      "item": "tfc_metallum:ore/normal_wolframite"
+      "item": "tfc_metallum:ore/normal_uraninite"
     },
     {
-      "item": "tfc_metallum:ore/poor_wolframite"
+      "item": "tfc_metallum:ore/poor_uraninite"
     },
     {
-      "item": "tfc_metallum:ore/rich_wolframite"
+      "item": "tfc_metallum:ore/rich_uraninite"
     }
   ],
-  "heat_capacity": 2,
-  "forging_tempererature": 2040,
-  "welding_tempererature": 2720
+  "heat_capacity": 1.143,
+  "forging_temperature": 660,
+  "welding_tempreture": 880
 }

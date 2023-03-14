@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfc_metallum:ore/small_native_platinum"
+    },
+    {
+      "item": "tfc_metallum:ore/normal_native_platinum"
+    },
+    {
+      "item": "tfc_metallum:ore/poor_native_platinum"
+    },
+    {
+      "item": "tfc_metallum:ore/rich_native_platinum"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_temperature": 1038,
+  "welding_tempreture": 1384
+}

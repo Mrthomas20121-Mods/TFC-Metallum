@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfc_metallum:ore/small_stibnite"
+    },
+    {
+      "item": "tfc_metallum:ore/normal_stibnite"
+    },
+    {
+      "item": "tfc_metallum:ore/poor_stibnite"
+    },
+    {
+      "item": "tfc_metallum:ore/rich_stibnite"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_temperature": 378,
+  "welding_tempreture": 504
+}

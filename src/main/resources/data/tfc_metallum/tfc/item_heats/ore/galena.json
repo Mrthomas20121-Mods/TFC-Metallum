@@ -1,6 +1,6 @@
 {
   "ingredient": [
-	{
+    {
       "item": "tfc_metallum:ore/small_galena"
     },
     {
@@ -13,7 +13,7 @@
       "item": "tfc_metallum:ore/rich_galena"
     }
   ],
-  "heat_capacity": 1.818,
-  "forging_tempererature": 197,
-  "welding_tempererature": 262
+  "heat_capacity": 1.143,
+  "forging_temperature": 197,
+  "welding_tempreture": 262
 }

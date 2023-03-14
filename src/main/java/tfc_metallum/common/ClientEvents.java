@@ -5,6 +5,7 @@ import net.dries007.tfc.common.items.TFCFishingRodItem;
 import net.dries007.tfc.util.Helpers;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.blockentity.BellRenderer;
 import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.monster.Monster;
@@ -15,7 +16,8 @@ import net.minecraftforge.client.event.TextureStitchEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import tfc_metallum.TFCMetallum;
+import net.dries007.tfc.client.render.blockentity.TFCBellBlockEntityRenderer;
+import tfc_metallum.common.block_entities.MetallumBlockEntities;
 import tfc_metallum.common.blocks.MetallumBlocks;
 import tfc_metallum.common.items.MetallumItems;
 import tfc_metallum.util.MetallumMetal;
@@ -26,6 +28,8 @@ public class ClientEvents {
         final IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
         bus.addListener(ClientEvents::clientSetup);
         bus.addListener(ClientEvents::onTextureStitch);
+        bus.addListener(ClientEvents::registerEntitiesRenderer);
+        bus.addListener(ClientEvents::registerLayerDefinitions);
     }
 
     public static void onTextureStitch(TextureStitchEvent.Pre event) {
@@ -99,5 +103,13 @@ public class ClientEvents {
                 }
             }
         });
+    }
+
+    public static void registerEntitiesRenderer(EntityRenderersEvent.RegisterRenderers event) {
+        event.registerBlockEntityRenderer(MetallumBlockEntities.BELL.get(), TFCBellBlockEntityRenderer::new);
+    }
+
+    public static void registerLayerDefinitions(EntityRenderersEvent.RegisterLayerDefinitions event) {
+        event.registerLayerDefinition(RenderHelpers.modelIdentifier("bell_body"), BellRenderer::createBodyLayer);
     }
 }

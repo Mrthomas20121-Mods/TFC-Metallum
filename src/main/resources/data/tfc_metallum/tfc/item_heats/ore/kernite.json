@@ -1,6 +1,6 @@
 {
   "ingredient": [
-	{
+    {
       "item": "tfc_metallum:ore/small_kernite"
     },
     {
@@ -13,7 +13,7 @@
       "item": "tfc_metallum:ore/rich_kernite"
     }
   ],
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1242,
-  "welding_tempererature": 1656
+  "heat_capacity": 1.143,
+  "forging_temperature": 1242,
+  "welding_tempreture": 1656
 }

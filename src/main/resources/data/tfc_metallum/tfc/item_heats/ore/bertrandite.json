@@ -1,6 +1,6 @@
 {
   "ingredient": [
-	{
+    {
       "item": "tfc_metallum:ore/small_bertrandite"
     },
     {
@@ -14,6 +14,6 @@
     }
   ],
   "heat_capacity": 1.143,
-  "forging_tempererature": 720,
-  "welding_tempererature": 960
+  "forging_temperature": 720,
+  "welding_tempreture": 960
 }

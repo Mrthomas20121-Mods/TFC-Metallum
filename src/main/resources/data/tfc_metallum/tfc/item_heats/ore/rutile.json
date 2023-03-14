@@ -1,6 +1,6 @@
 {
   "ingredient": [
-	{
+    {
       "item": "tfc_metallum:ore/small_rutile"
     },
     {
@@ -13,7 +13,7 @@
       "item": "tfc_metallum:ore/rich_rutile"
     }
   ],
-  "heat_capacity": 1.333,
-  "forging_tempererature": 1020,
-  "welding_tempererature": 1360
+  "heat_capacity": 1.143,
+  "forging_temperature": 1020,
+  "welding_tempreture": 1360
 }
