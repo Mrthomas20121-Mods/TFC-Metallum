@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "native_platinum": {
+    "wolframite": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_native_platinum"
+            "item": "tfc_metallum:ore/small_wolframite"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_native_platinum"
+      "item": "tfc_metallum:ore/small_wolframite"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_native_platinum.title"
+      "translate": "tfc_metallum.advancements.world.tungsten.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_native_platinum.description"
+      "translate": "tfc_metallum.advancements.world.tungsten.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "native_platinum"
+      "wolframite"
     ]
   ]
 }

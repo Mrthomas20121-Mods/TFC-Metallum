@@ -17,10 +17,10 @@
       "item": "tfc_metallum:ore/small_kernite"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_kernite.title"
+      "translate": "tfc_metallum.advancements.world.boron.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_kernite.description"
+      "translate": "tfc_metallum.advancements.world.boron.description"
     },
     "frame": "goal",
     "show_toast": true,

@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "bauxite": {
+    "galena": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_bauxite"
+            "item": "tfc_metallum:ore/small_galena"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_bauxite"
+      "item": "tfc_metallum:ore/small_galena"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_bauxite.title"
+      "translate": "tfc_metallum.advancements.world.lead.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_bauxite.description"
+      "translate": "tfc_metallum.advancements.world.lead.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "bauxite"
+      "galena"
     ]
   ]
 }

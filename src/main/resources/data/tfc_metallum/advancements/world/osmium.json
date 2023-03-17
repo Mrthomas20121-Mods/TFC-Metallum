@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "rutile": {
+    "native_osmium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_rutile"
+            "item": "tfc_metallum:ore/small_native_osmium"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_rutile"
+      "item": "tfc_metallum:ore/small_native_osmium"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_rutile.title"
+      "translate": "tfc_metallum.advancements.world.osmium.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_rutile.description"
+      "translate": "tfc_metallum.advancements.world.osmium.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "rutile"
+      "native_osmium"
     ]
   ]
 }

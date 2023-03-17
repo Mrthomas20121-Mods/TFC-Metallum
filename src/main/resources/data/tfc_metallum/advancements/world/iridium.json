@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "galena": {
+    "native_iridium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_galena"
+            "item": "tfc_metallum:ore/small_native_iridium"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_galena"
+      "item": "tfc_metallum:ore/small_native_iridium"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_galena.title"
+      "translate": "tfc_metallum.advancements.world.iridium.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_galena.description"
+      "translate": "tfc_metallum.advancements.world.iridium.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "galena"
+      "native_iridium"
     ]
   ]
 }

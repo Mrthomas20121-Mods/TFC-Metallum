@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "wolframite": {
+    "uraninite": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_wolframite"
+            "item": "tfc_metallum:ore/small_uraninite"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_wolframite"
+      "item": "tfc_metallum:ore/small_uraninite"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_wolframite.title"
+      "translate": "tfc_metallum.advancements.world.uranium.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_wolframite.description"
+      "translate": "tfc_metallum.advancements.world.uranium.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "wolframite"
+      "uraninite"
     ]
   ]
 }

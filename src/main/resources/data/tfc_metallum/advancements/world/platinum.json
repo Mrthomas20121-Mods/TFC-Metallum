@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "stibnite": {
+    "native_platinum": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_stibnite"
+            "item": "tfc_metallum:ore/small_native_platinum"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_stibnite"
+      "item": "tfc_metallum:ore/small_native_platinum"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_stibnite.title"
+      "translate": "tfc_metallum.advancements.world.platinum.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_stibnite.description"
+      "translate": "tfc_metallum.advancements.world.platinum.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "stibnite"
+      "native_platinum"
     ]
   ]
 }

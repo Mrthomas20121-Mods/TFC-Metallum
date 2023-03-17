@@ -1,12 +1,12 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "native_iridium": {
+    "cobaltite": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/small_native_iridium"
+            "item": "tfc_metallum:ore/small_cobaltite"
           }
         ]
       }
@@ -14,13 +14,13 @@
   },
   "display": {
     "icon": {
-      "item": "tfc_metallum:ore/small_native_iridium"
+      "item": "tfc_metallum:ore/small_cobaltite"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.small_native_iridium.title"
+      "translate": "tfc_metallum.advancements.world.cobalt.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.small_native_iridium.description"
+      "translate": "tfc_metallum.advancements.world.cobalt.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +30,7 @@
   },
   "requirements": [
     [
-      "native_iridium"
+      "cobaltite"
     ]
   ]
 }

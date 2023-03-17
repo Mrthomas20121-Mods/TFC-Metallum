@@ -1,50 +1,71 @@
 {
-  "type": "tfc:disc_vein",
+  "type": "tfc:pipe_vein",
   "config": {
-    "rarity": 20,
+    "rarity": 30,
     "min_y": {
-      "absolute": 60
+      "absolute": -20
     },
     "max_y": {
-      "absolute": 50
+      "absolute": 100
     },
-    "size": 8,
-    "density": 0.6,
+    "size": 40,
+    "density": 0.4,
     "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "block": "tfc_metallum:ore/certus_quartz/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/shale"
+        ],
+        "with": [
+          {
+            "block": "tfc_metallum:ore/certus_quartz/shale"
+          }
+        ]
+      },
       {
         "replace": [
           "tfc:rock/raw/quartzite"
         ],
         "with": [
           {
-            "weight": 30,
             "block": "tfc_metallum:ore/certus_quartz/quartzite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/marble"
+          "tfc:rock/raw/schist"
         ],
         "with": [
           {
-            "weight": 30,
-            "block": "tfc_metallum:ore/certus_quartz/marble"
+            "block": "tfc_metallum:ore/certus_quartz/schist"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/limestone"
+          "tfc:rock/raw/gneiss"
         ],
         "with": [
           {
-            "weight": 30,
-            "block": "tfc_metallum:ore/certus_quartz/limestone"
+            "block": "tfc_metallum:ore/certus_quartz/gneiss"
           }
         ]
       }
     ],
-    "random_name": "certus_quartz"
+    "random_name": "certus_quartz",
+    "min_skew": 5,
+    "max_skew": 13,
+    "min_slant": 0,
+    "max_slant": 2
   }
 }
