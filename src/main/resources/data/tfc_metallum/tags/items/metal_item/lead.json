@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/lead",
+    "#forge:double_ingots/lead",
+    "#forge:sheets/lead",
+    "#forge:double_sheets/lead",
+    "#forge:rods/lead"
+  ]
+}

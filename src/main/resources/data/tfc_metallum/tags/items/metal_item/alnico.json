@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/alnico",
+    "#forge:double_ingots/alnico",
+    "#forge:sheets/alnico",
+    "#forge:double_sheets/alnico",
+    "#forge:rods/alnico"
+  ]
+}

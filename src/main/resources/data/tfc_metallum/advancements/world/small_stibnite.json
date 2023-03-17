@@ -1,0 +1,36 @@
+{
+  "parent": "tfc:world/nugget",
+  "criteria": {
+    "stibnite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tfc_metallum:ore/small_stibnite"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "tfc_metallum:ore/small_stibnite"
+    },
+    "title": {
+      "translate": "tfc_metallum.advancements.world.small_stibnite.title"
+    },
+    "description": {
+      "translate": "tfc_metallum.advancements.world.small_stibnite.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "tfc:textures/block/mud/silt.png"
+  },
+  "requirements": [
+    [
+      "stibnite"
+    ]
+  ]
+}

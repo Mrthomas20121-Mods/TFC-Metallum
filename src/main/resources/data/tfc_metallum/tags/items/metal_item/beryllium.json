@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/beryllium",
+    "#forge:double_ingots/beryllium",
+    "#forge:sheets/beryllium",
+    "#forge:double_sheets/beryllium",
+    "#forge:rods/beryllium"
+  ]
+}

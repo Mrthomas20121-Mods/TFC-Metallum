@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/graphite",
+    "#forge:double_ingots/graphite",
+    "#forge:sheets/graphite",
+    "#forge:double_sheets/graphite",
+    "#forge:rods/graphite"
+  ]
+}

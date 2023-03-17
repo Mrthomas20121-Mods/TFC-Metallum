@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/solder",
+    "#forge:double_ingots/solder",
+    "#forge:sheets/solder",
+    "#forge:double_sheets/solder",
+    "#forge:rods/solder"
+  ]
+}

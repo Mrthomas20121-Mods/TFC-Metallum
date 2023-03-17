@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:ore/small_bauxite",
+    "tfc_metallum:ore/small_bertrandite",
+    "tfc_metallum:ore/small_cobaltite",
+    "tfc_metallum:ore/small_galena",
+    "tfc_metallum:ore/small_kernite",
+    "tfc_metallum:ore/small_native_iridium",
+    "tfc_metallum:ore/small_native_platinum",
+    "tfc_metallum:ore/small_native_osmium",
+    "tfc_metallum:ore/small_monazite",
+    "tfc_metallum:ore/small_rutile",
+    "tfc_metallum:ore/small_stibnite",
+    "tfc_metallum:ore/small_uraninite",
+    "tfc_metallum:ore/small_wolframite"
+  ]
+}

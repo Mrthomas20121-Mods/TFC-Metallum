@@ -1,0 +1,36 @@
+{
+  "parent": "tfc:world/nugget",
+  "criteria": {
+    "galena": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tfc_metallum:ore/small_galena"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "tfc_metallum:ore/small_galena"
+    },
+    "title": {
+      "translate": "tfc_metallum.advancements.world.small_galena.title"
+    },
+    "description": {
+      "translate": "tfc_metallum.advancements.world.small_galena.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "tfc:textures/block/mud/silt.png"
+  },
+  "requirements": [
+    [
+      "galena"
+    ]
+  ]
+}

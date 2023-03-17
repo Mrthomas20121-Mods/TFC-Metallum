@@ -1,0 +1,36 @@
+{
+  "parent": "tfc:world/nugget",
+  "criteria": {
+    "native_osmium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tfc_metallum:ore/small_native_osmium"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "tfc_metallum:ore/small_native_osmium"
+    },
+    "title": {
+      "translate": "tfc_metallum.advancements.world.small_native_osmium.title"
+    },
+    "description": {
+      "translate": "tfc_metallum.advancements.world.small_native_osmium.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "tfc:textures/block/mud/silt.png"
+  },
+  "requirements": [
+    [
+      "native_osmium"
+    ]
+  ]
+}

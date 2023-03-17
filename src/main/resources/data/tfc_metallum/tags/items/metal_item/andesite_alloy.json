@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/andesite_alloy",
+    "#forge:double_ingots/andesite_alloy",
+    "#forge:sheets/andesite_alloy",
+    "#forge:double_sheets/andesite_alloy",
+    "#forge:rods/andesite_alloy"
+  ]
+}

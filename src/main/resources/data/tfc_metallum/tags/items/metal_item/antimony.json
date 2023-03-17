@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/antimony",
+    "#forge:double_ingots/antimony",
+    "#forge:sheets/antimony",
+    "#forge:double_sheets/antimony",
+    "#forge:rods/antimony"
+  ]
+}

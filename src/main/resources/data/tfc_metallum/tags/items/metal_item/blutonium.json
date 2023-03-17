@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/blutonium",
+    "#forge:double_ingots/blutonium",
+    "#forge:sheets/blutonium",
+    "#forge:double_sheets/blutonium",
+    "#forge:rods/blutonium"
+  ]
+}

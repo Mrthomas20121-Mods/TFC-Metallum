@@ -1,7 +1,7 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 15,
+    "rarity": 25,
     "min_y": {
       "absolute": 70
     },
@@ -9,7 +9,7 @@
       "absolute": 90
     },
     "size": 10,
-    "density": 0.7,
+    "density": 0.3,
     "blocks": [
       {
         "replace": [
@@ -118,7 +118,7 @@
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 6,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_galena"

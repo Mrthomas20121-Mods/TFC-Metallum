@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 30,
+    "rarity": 17,
     "min_y": {
-      "absolute": 60
+      "absolute": -50
     },
     "max_y": {
-      "absolute": 100
+      "absolute": 40
     },
-    "size": 10,
-    "density": 0.6,
+    "size": 13,
+    "density": 0.4,
     "blocks": [
       {
         "replace": [
@@ -17,12 +17,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/quartzite"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/quartzite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/quartzite"
           }
         ]
       },
@@ -32,12 +36,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/slate"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/slate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/slate"
           }
         ]
       },
@@ -47,12 +55,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/phyllite"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/phyllite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/phyllite"
           }
         ]
       },
@@ -62,12 +74,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/schist"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/schist"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/schist"
           }
         ]
       },
@@ -77,12 +93,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/gneiss"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/gneiss"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/gneiss"
           }
         ]
       },
@@ -92,12 +112,16 @@
         ],
         "with": [
           {
-            "weight": 40,
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_native_platinum/marble"
           },
           {
-            "weight": 5,
+            "weight": 50,
             "block": "tfc_metallum:ore/normal_native_platinum/marble"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_native_platinum/marble"
           }
         ]
       }

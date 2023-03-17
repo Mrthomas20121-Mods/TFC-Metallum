@@ -1,16 +1,187 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 50,
+    "rarity": 15,
     "min_y": {
-      "absolute": -10
+      "absolute": -50
     },
     "max_y": {
-      "absolute": 60
+      "absolute": 40
     },
-    "size": 40,
-    "density": 0.6,
+    "size": 18,
+    "density": 0.4,
     "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/quartzite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/quartzite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/slate"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/slate"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/phyllite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/phyllite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/schist"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/schist"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/gneiss"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/gneiss"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/marble"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/marble"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/granite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/granite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/diorite"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/diorite"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/diorite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gabbro"
+        ],
+        "with": [
+          {
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_monazite/gabbro"
+          },
+          {
+            "weight": 50,
+            "block": "tfc_metallum:ore/normal_monazite/gabbro"
+          },
+          {
+            "weight": 30,
+            "block": "tfc_metallum:ore/rich_monazite/gabbro"
+          }
+        ]
+      },
       {
         "replace": [
           "tfc:rock/raw/rhyolite"
@@ -84,44 +255,6 @@
           {
             "weight": 30,
             "block": "tfc_metallum:ore/rich_monazite/dacite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/claystone"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_monazite/claystone"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_monazite/claystone"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_monazite/claystone"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/limestone"
-        ],
-        "with": [
-          {
-            "weight": 20,
-            "block": "tfc_metallum:ore/poor_monazite/limestone"
-          },
-          {
-            "weight": 50,
-            "block": "tfc_metallum:ore/normal_monazite/limestone"
-          },
-          {
-            "weight": 30,
-            "block": "tfc_metallum:ore/rich_monazite/limestone"
           }
         ]
       }

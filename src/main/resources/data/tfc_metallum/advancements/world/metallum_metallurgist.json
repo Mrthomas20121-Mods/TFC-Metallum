@@ -1,0 +1,491 @@
+{
+  "parent": "tfc:world/nugget",
+  "criteria": {
+    "andesite_alloy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/andesite_alloy"
+          }
+        ]
+      }
+    },
+    "antimony": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/antimony"
+          }
+        ]
+      }
+    },
+    "alnico": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/alnico"
+          }
+        ]
+      }
+    },
+    "aluminum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/aluminum"
+          }
+        ]
+      }
+    },
+    "boron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/boron"
+          }
+        ]
+      }
+    },
+    "beryllium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/beryllium"
+          }
+        ]
+      }
+    },
+    "beryllium_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/beryllium_copper"
+          }
+        ]
+      }
+    },
+    "blutonium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/blutonium"
+          }
+        ]
+      }
+    },
+    "constantan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/constantan"
+          }
+        ]
+      }
+    },
+    "cobalt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/cobalt"
+          }
+        ]
+      }
+    },
+    "compressed_iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/compressed_iron"
+          }
+        ]
+      }
+    },
+    "electrum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/electrum"
+          }
+        ]
+      }
+    },
+    "platinum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/platinum"
+          }
+        ]
+      }
+    },
+    "enderium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/enderium"
+          }
+        ]
+      }
+    },
+    "ferroboron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/ferroboron"
+          }
+        ]
+      }
+    },
+    "florentine_bronze": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/florentine_bronze"
+          }
+        ]
+      }
+    },
+    "graphite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/graphite"
+          }
+        ]
+      }
+    },
+    "invar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/invar"
+          }
+        ]
+      }
+    },
+    "iridium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/iridium"
+          }
+        ]
+      }
+    },
+    "lead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/lead"
+          }
+        ]
+      }
+    },
+    "lumium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/lumium"
+          }
+        ]
+      }
+    },
+    "mithril": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/mithril"
+          }
+        ]
+      }
+    },
+    "nickel_silver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/nickel_silver"
+          }
+        ]
+      }
+    },
+    "osmium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/osmium"
+          }
+        ]
+      }
+    },
+    "osmiridium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/osmiridium"
+          }
+        ]
+      }
+    },
+    "pewter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/pewter"
+          }
+        ]
+      }
+    },
+    "pink_slime": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/pink_slime"
+          }
+        ]
+      }
+    },
+    "refined_glowstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/refined_glowstone"
+          }
+        ]
+      }
+    },
+    "refined_obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/refined_obsidian"
+          }
+        ]
+      }
+    },
+    "signalum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/signalum"
+          }
+        ]
+      }
+    },
+    "solder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/solder"
+          }
+        ]
+      }
+    },
+    "thorium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/thorium"
+          }
+        ]
+      }
+    },
+    "titanium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/titanium"
+          }
+        ]
+      }
+    },
+    "tungsten": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/tungsten"
+          }
+        ]
+      }
+    },
+    "tungsten_steel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/tungsten_steel"
+          }
+        ]
+      }
+    },
+    "uranium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tfc_metallum:metal_item/uranium"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "tfc_metallum:metal/ingot/aluminum"
+    },
+    "title": {
+      "translate": "tfc_metallum.advancements.world.metallum_metallurgist.title"
+    },
+    "description": {
+      "translate": "tfc_metallum.advancements.world.metallum_metallurgist.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "tfc:textures/block/mud/silt.png"
+  },
+  "requirements": [
+    [
+      "andesite_alloy"
+    ],
+    [
+      "antimony"
+    ],
+    [
+      "alnico"
+    ],
+    [
+      "aluminum"
+    ],
+    [
+      "boron"
+    ],
+    [
+      "beryllium"
+    ],
+    [
+      "beryllium_copper"
+    ],
+    [
+      "blutonium"
+    ],
+    [
+      "constantan"
+    ],
+    [
+      "cobalt"
+    ],
+    [
+      "compressed_iron"
+    ],
+    [
+      "electrum"
+    ],
+    [
+      "platinum"
+    ],
+    [
+      "enderium"
+    ],
+    [
+      "ferroboron"
+    ],
+    [
+      "florentine_bronze"
+    ],
+    [
+      "graphite"
+    ],
+    [
+      "invar"
+    ],
+    [
+      "iridium"
+    ],
+    [
+      "lead"
+    ],
+    [
+      "lumium"
+    ],
+    [
+      "mithril"
+    ],
+    [
+      "nickel_silver"
+    ],
+    [
+      "osmium"
+    ],
+    [
+      "osmiridium"
+    ],
+    [
+      "pewter"
+    ],
+    [
+      "pink_slime"
+    ],
+    [
+      "refined_glowstone"
+    ],
+    [
+      "refined_obsidian"
+    ],
+    [
+      "signalum"
+    ],
+    [
+      "solder"
+    ],
+    [
+      "thorium"
+    ],
+    [
+      "titanium"
+    ],
+    [
+      "tungsten"
+    ],
+    [
+      "tungsten_steel"
+    ],
+    [
+      "uranium"
+    ]
+  ]
+}

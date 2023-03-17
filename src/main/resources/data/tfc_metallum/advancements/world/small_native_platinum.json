@@ -1,0 +1,36 @@
+{
+  "parent": "tfc:world/nugget",
+  "criteria": {
+    "native_platinum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tfc_metallum:ore/small_native_platinum"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "tfc_metallum:ore/small_native_platinum"
+    },
+    "title": {
+      "translate": "tfc_metallum.advancements.world.small_native_platinum.title"
+    },
+    "description": {
+      "translate": "tfc_metallum.advancements.world.small_native_platinum.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "tfc:textures/block/mud/silt.png"
+  },
+  "requirements": [
+    [
+      "native_platinum"
+    ]
+  ]
+}

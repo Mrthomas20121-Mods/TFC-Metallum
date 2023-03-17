@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/pink_slime",
+    "#forge:double_ingots/pink_slime",
+    "#forge:sheets/pink_slime",
+    "#forge:double_sheets/pink_slime",
+    "#forge:rods/pink_slime"
+  ]
+}

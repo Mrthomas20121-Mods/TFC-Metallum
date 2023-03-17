@@ -1,15 +1,15 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 60,
+    "rarity": 23,
     "min_y": {
-      "absolute": 20
+      "absolute": -20
     },
     "max_y": {
-      "absolute": 100
+      "absolute": 70
     },
     "size": 20,
-    "density": 0.6,
+    "density": 0.4,
     "blocks": [
       {
         "replace": [
@@ -17,20 +17,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/shale"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/shale"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/shale"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/shale"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/shale"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/shale"
           }
         ]
       },
@@ -40,20 +40,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/claystone"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/claystone"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/claystone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/claystone"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/claystone"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/claystone"
           }
         ]
       },
@@ -63,20 +63,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/limestone"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/limestone"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/limestone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/limestone"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/limestone"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/limestone"
           }
         ]
       },
@@ -86,20 +86,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/conglomerate"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/conglomerate"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/conglomerate"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/conglomerate"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/conglomerate"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/conglomerate"
           }
         ]
       },
@@ -109,20 +109,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/dolomite"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/dolomite"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/dolomite"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/dolomite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/dolomite"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/dolomite"
           }
         ]
       },
@@ -132,20 +132,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/chert"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/chert"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/chert"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/chert"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/chert"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/chert"
           }
         ]
       },
@@ -155,20 +155,20 @@
         ],
         "with": [
           {
-            "weight": 15,
+            "weight": 20,
+            "block": "tfc_metallum:ore/poor_native_platinum/chalk"
+          },
+          {
+            "weight": 20,
             "block": "tfc_metallum:ore/poor_kernite/chalk"
           },
           {
-            "weight": 35,
+            "weight": 40,
             "block": "tfc_metallum:ore/normal_kernite/chalk"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_kernite/chalk"
-          },
-          {
-            "weight": 25,
-            "block": "tfc:ore/kaolinite/chalk"
+            "weight": 20,
+            "block": "tfc_metallum:ore/rich_kernite/chalk"
           }
         ]
       }

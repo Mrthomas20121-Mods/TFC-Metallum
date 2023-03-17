@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/iridium",
+    "#forge:double_ingots/iridium",
+    "#forge:sheets/iridium",
+    "#forge:double_sheets/iridium",
+    "#forge:rods/iridium"
+  ]
+}

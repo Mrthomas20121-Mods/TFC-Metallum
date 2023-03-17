@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/constantan",
+    "#forge:double_ingots/constantan",
+    "#forge:sheets/constantan",
+    "#forge:double_sheets/constantan",
+    "#forge:rods/constantan"
+  ]
+}

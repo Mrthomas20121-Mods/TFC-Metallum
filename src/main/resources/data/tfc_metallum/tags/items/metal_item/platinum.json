@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/platinum",
+    "#forge:double_ingots/platinum",
+    "#forge:sheets/platinum",
+    "#forge:double_sheets/platinum",
+    "#forge:rods/platinum"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/electrum",
+    "#forge:double_ingots/electrum",
+    "#forge:sheets/electrum",
+    "#forge:double_sheets/electrum",
+    "#forge:rods/electrum"
+  ]
+}

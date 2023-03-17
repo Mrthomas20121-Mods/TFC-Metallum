@@ -1,12 +1,12 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 22,
+    "rarity": 17,
     "min_y": {
       "absolute": -5
     },
     "max_y": {
-      "absolute": 65
+      "absolute": 50
     },
     "size": 18,
     "density": 0.6,
