@@ -1,175 +1,130 @@
 {
   "type": "tfc:cluster_vein",
   "config": {
-    "rarity": 30,
+    "rarity": 21,
     "min_y": {
-      "absolute": 60
+      "absolute": 65
     },
     "max_y": {
       "absolute": 100
     },
-    "size": 20,
-    "density": 0.6,
+    "size": 10,
+    "density": 0.3,
     "blocks": [
       {
         "replace": [
-          "tfc:rock/raw/rhyolite"
+          "tfc:rock/raw/shale"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/rhyolite"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/shale"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/rhyolite"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/shale"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/basalt"
+          "tfc:rock/raw/claystone"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/basalt"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/claystone"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/basalt"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/claystone"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/andesite"
+          "tfc:rock/raw/limestone"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/andesite"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/limestone"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/andesite"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/limestone"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/dacite"
+          "tfc:rock/raw/conglomerate"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/dacite"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/conglomerate"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/dacite"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/conglomerate"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/quartzite"
+          "tfc:rock/raw/dolomite"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/quartzite"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/dolomite"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/quartzite"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/dolomite"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/slate"
+          "tfc:rock/raw/chert"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/slate"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/chert"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/slate"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/chert"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/phyllite"
+          "tfc:rock/raw/chalk"
         ],
         "with": [
           {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/phyllite"
+            "weight": 90,
+            "block": "tfc_metallum:ore/poor_rutile/chalk"
           },
           {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/phyllite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/schist"
-        ],
-        "with": [
-          {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/schist"
-          },
-          {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/schist"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/gneiss"
-        ],
-        "with": [
-          {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/gneiss"
-          },
-          {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/gneiss"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/marble"
-        ],
-        "with": [
-          {
-            "weight": 40,
-            "block": "tfc_metallum:ore/poor_rutile/marble"
-          },
-          {
-            "weight": 5,
-            "block": "tfc_metallum:ore/normal_rutile/marble"
+            "weight": 10,
+            "block": "tfc_metallum:ore/normal_rutile/chalk"
           }
         ]
       }
     ],
     "indicator": {
-      "rarity": 12,
+      "rarity": 6,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_rutile"
         }
       ]
     },
-    "random_name": "normal_rutile"
+    "random_name": "surface_rutile"
   }
 }
