@@ -1,0 +1,18 @@
+{
+    "name": "Tungsten",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/tungsten",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tungsten is a tier 6 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/tungsten",
+            "title": "Tungsten",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Tungsten$() is obtained by smelting $(l:metallum_ores/wolframite)Wolframite$()"
+        }
+    ]
+}

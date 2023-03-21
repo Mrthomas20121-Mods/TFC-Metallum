@@ -6,7 +6,11 @@
       "conditions": {
         "items": [
           {
-            "item": "tfc_metallum:ore/certus_quartz"
+            "items": [
+              {
+                "item": "tfc_metallum:ore/certus_quartz"
+              }
+            ]
           }
         ]
       }

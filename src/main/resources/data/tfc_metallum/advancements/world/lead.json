@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "galena": {
+    "ore/lead": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_galena"
-          }
+          "tfc_metallum:ore/small_galena"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "galena"
+      "ore/lead"
     ]
   ]
 }

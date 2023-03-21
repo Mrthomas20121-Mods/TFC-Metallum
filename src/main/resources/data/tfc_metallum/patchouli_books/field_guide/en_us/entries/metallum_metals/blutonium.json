@@ -1,0 +1,17 @@
+{
+    "name": "Blutonium",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/blutonium",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Blutonium is a tier 6 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/blutonium",
+            "title": "Blutonium",
+            "link_recipes": false
+        }
+    ]
+}

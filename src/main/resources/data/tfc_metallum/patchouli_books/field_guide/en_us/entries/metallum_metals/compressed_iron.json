@@ -1,0 +1,17 @@
+{
+    "name": "Compressed Iron",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/compressed_iron",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Compressed Iron is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/compressed_iron",
+            "title": "Compressed Iron",
+            "link_recipes": false
+        }
+    ]
+}

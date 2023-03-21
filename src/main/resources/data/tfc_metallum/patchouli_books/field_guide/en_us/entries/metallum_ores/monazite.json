@@ -1,0 +1,21 @@
+{
+    "name": "Monazite",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_monazite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Monazite is an ore found in Metamorphic, Igneous Extrusive and Igneous Intrusive Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_monazite/granite",
+            "title": "Monazite",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Thorium$()"
+        }
+    ]
+}

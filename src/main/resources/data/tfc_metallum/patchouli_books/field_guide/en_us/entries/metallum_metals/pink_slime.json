@@ -1,0 +1,17 @@
+{
+    "name": "Pink Slime",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/pink_slime",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pink Slime is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/pink_slime",
+            "title": "Pink Slime",
+            "link_recipes": false
+        }
+    ]
+}

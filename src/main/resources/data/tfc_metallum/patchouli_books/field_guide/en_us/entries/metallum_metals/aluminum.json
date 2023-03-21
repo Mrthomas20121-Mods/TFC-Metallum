@@ -1,0 +1,18 @@
+{
+    "name": "Aluminum",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/aluminum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Aluminum is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/aluminum",
+            "title": "Aluminum",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Aluminum$() is obtained by smelting $(thing)Bauxite$()"
+        }
+    ]
+}

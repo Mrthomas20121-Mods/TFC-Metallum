@@ -1,0 +1,17 @@
+{
+    "name": "Tungsten Steel",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/tungsten_steel",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tungsten Steel is a tier 6 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/tungsten_steel",
+            "title": "Tungsten Steel",
+            "link_recipes": false
+        }
+    ]
+}

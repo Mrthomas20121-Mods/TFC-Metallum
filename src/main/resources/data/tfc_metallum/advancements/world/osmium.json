@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "native_osmium": {
+    "ore/osmium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_native_osmium"
-          }
+          "tfc_metallum:ore/small_native_osmium"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "native_osmium"
+      "ore/osmium"
     ]
   ]
 }

@@ -1,0 +1,17 @@
+{
+    "name": "Graphite",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/graphite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Graphite is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/graphite",
+            "title": "Graphite",
+            "link_recipes": false
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Thorium",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/thorium",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Thorium is a tier 6 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/thorium",
+            "title": "Thorium",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Thorium$() is obtained by smelting $(l:metallum_ores/monazite)Monazite$()"
+        }
+    ]
+}

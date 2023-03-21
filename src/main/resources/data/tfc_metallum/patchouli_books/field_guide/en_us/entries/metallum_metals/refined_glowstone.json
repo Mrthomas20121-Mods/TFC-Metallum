@@ -1,0 +1,17 @@
+{
+    "name": "Refined Glowstone",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/refined_glowstone",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Refined Glowstone is a tier 4 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/refined_glowstone",
+            "title": "Refined Glowstone",
+            "link_recipes": false
+        }
+    ]
+}

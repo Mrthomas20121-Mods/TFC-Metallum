@@ -1,0 +1,21 @@
+{
+    "name": "Native Platinum",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_native_platinum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Native Platinum is an ore found in Metamorphic Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_native_platinum/granite",
+            "title": "Native Platinum",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Platinum$()"
+        }
+    ]
+}

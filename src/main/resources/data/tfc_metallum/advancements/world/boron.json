@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "kernite": {
+    "ore/boron": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_kernite"
-          }
+          "tfc_metallum:ore/small_kernite"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "kernite"
+      "ore/boron"
     ]
   ]
 }

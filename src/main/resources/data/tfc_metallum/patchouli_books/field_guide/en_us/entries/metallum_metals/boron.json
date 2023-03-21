@@ -1,0 +1,18 @@
+{
+    "name": "Boron",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/boron",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Boron is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/boron",
+            "title": "Boron",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Boron$() is obtained by smelting $(l:metallum_ores/kernite)Kernite$()"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Wolframite",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_wolframite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Wolframite is an ore found in Sedimentary and Metamorphic Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_wolframite/granite",
+            "title": "Wolframite",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Tungsten$()"
+        }
+    ]
+}

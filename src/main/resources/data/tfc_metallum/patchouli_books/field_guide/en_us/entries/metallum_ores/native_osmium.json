@@ -1,0 +1,21 @@
+{
+    "name": "Native Osmium",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_native_osmium",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Native Osmium is an ore found in Metamorphic Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_native_osmium/granite",
+            "title": "Native Osmium",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Osmium$()"
+        }
+    ]
+}

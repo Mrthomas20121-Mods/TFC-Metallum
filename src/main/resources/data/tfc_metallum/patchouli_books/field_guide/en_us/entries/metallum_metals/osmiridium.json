@@ -1,0 +1,18 @@
+{
+    "name": "Osmiridium",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/osmiridium",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Osmiridium is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/osmiridium",
+            "title": "Osmiridium",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Requirement:$()$(br)$(li)60 - 80% : $(thing)Osmium()$(li)20 - 40% : $(thing)Iridium()"
+        }
+    ]
+}

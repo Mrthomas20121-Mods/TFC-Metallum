@@ -1,0 +1,18 @@
+{
+    "name": "Mithril",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/mithril",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Mithril is a tier 2 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/mithril",
+            "title": "Mithril",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Requirement:$()$(br)$(li)88 - 92% : $(thing)Copper()$(li)08 - 12% : $(thing)Antimony()"
+        }
+    ]
+}

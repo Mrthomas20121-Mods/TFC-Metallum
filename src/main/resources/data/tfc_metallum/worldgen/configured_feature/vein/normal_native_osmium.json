@@ -1,230 +1,75 @@
 {
-  "type": "tfc:cluster_vein",
+  "type": "tfc:pipe_vein",
   "config": {
-    "rarity": 90,
+    "rarity": 27,
     "min_y": {
-      "absolute": -64
+      "absolute": 0
     },
     "max_y": {
-      "absolute": 35
+      "absolute": 100
     },
-    "size": 30,
-    "density": 0.6,
+    "size": 40,
+    "density": 0.4,
     "blocks": [
       {
         "replace": [
-          "tfc:rock/raw/granite"
+          "tfc:rock/raw/claystone"
         ],
         "with": [
           {
             "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/granite"
+            "block": "tfc_metallum:ore/poor_native_osmium/claystone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/granite"
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_native_osmium/claystone"
           },
           {
             "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/granite"
+            "block": "tfc_metallum:ore/rich_native_osmium/claystone"
           },
           {
             "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/granite"
+            "block": "tfc_metallum:ore/poor_native_iridium/claystone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/granite"
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_native_iridium/claystone"
           },
           {
             "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/granite"
+            "block": "tfc_metallum:ore/rich_native_iridium/claystone"
           }
         ]
       },
       {
         "replace": [
-          "tfc:rock/raw/diorite"
+          "tfc:rock/raw/limestone"
         ],
         "with": [
           {
             "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/diorite"
+            "block": "tfc_metallum:ore/poor_native_osmium/limestone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/diorite"
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_native_osmium/limestone"
           },
           {
             "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/diorite"
+            "block": "tfc_metallum:ore/rich_native_osmium/limestone"
           },
           {
             "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/diorite"
+            "block": "tfc_metallum:ore/poor_native_iridium/limestone"
           },
           {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/diorite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/diorite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/gabbro"
-        ],
-        "with": [
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/gabbro"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/gabbro"
+            "weight": 30,
+            "block": "tfc_metallum:ore/normal_native_iridium/limestone"
           },
           {
             "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/gabbro"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/gabbro"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/gabbro"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/gabbro"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/rhyolite"
-        ],
-        "with": [
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/rhyolite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/rhyolite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/rhyolite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/rhyolite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/rhyolite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/rhyolite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/basalt"
-        ],
-        "with": [
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/basalt"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/basalt"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/basalt"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/basalt"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/basalt"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/basalt"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/andesite"
-        ],
-        "with": [
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/andesite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/andesite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/andesite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/andesite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/andesite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/andesite"
-          }
-        ]
-      },
-      {
-        "replace": [
-          "tfc:rock/raw/dacite"
-        ],
-        "with": [
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_osmium/dacite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_osmium/dacite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_osmium/dacite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum:ore/poor_native_iridium/dacite"
-          },
-          {
-            "weight": 25,
-            "block": "tfc_metallum:ore/normal_native_iridium/dacite"
-          },
-          {
-            "weight": 15,
-            "block": "tfc_metallum:ore/rich_native_iridium/dacite"
+            "block": "tfc_metallum:ore/rich_native_iridium/limestone"
           }
         ]
       },
@@ -238,7 +83,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/quartzite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/quartzite"
           },
           {
@@ -250,7 +95,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/quartzite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/quartzite"
           },
           {
@@ -269,7 +114,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/slate"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/slate"
           },
           {
@@ -281,7 +126,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/slate"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/slate"
           },
           {
@@ -300,7 +145,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/phyllite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/phyllite"
           },
           {
@@ -312,7 +157,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/phyllite"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/phyllite"
           },
           {
@@ -331,7 +176,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/schist"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/schist"
           },
           {
@@ -343,7 +188,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/schist"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/schist"
           },
           {
@@ -362,7 +207,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/gneiss"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/gneiss"
           },
           {
@@ -374,7 +219,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/gneiss"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/gneiss"
           },
           {
@@ -393,7 +238,7 @@
             "block": "tfc_metallum:ore/poor_native_osmium/marble"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_osmium/marble"
           },
           {
@@ -405,7 +250,7 @@
             "block": "tfc_metallum:ore/poor_native_iridium/marble"
           },
           {
-            "weight": 25,
+            "weight": 30,
             "block": "tfc_metallum:ore/normal_native_iridium/marble"
           },
           {
@@ -415,14 +260,10 @@
         ]
       }
     ],
-    "indicator": {
-      "rarity": 12,
-      "blocks": [
-        {
-          "block": "tfc_metallum:ore/small_native_osmium"
-        }
-      ]
-    },
-    "random_name": "normal_native_osmium"
+    "random_name": "normal_native_osmium",
+    "min_skew": 5,
+    "max_skew": 13,
+    "min_slant": 0,
+    "max_slant": 2
   }
 }

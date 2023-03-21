@@ -1,0 +1,18 @@
+{
+    "name": "Platinum",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/platinum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Platinum is a tier 5 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/platinum",
+            "title": "Platinum",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Platinum$() is obtained by smelting $(l:metallum_ores/native_platinum)Native Platinum$()"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Rutile",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_rutile",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Rutile is an ore found in Sedimentary Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_rutile/granite",
+            "title": "Rutile",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Titanium$()"
+        }
+    ]
+}

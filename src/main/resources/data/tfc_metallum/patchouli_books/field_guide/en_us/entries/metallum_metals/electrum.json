@@ -1,0 +1,18 @@
+{
+    "name": "Electrum",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/electrum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Electrum is a tier 2 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/electrum",
+            "title": "Electrum",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Requirement:$()$(br)$(li)40 - 60% : $(thing)Silver()$(li)40 - 60% : $(thing)Gold()"
+        }
+    ]
+}

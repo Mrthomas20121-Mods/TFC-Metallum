@@ -1,0 +1,21 @@
+{
+    "name": "Bertrandite",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_bertrandite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Bertrandite is an ore found in Igneous Extrusive and Igneous Intrusive Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_bertrandite/granite",
+            "title": "Bertrandite",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Beryllium$()"
+        }
+    ]
+}

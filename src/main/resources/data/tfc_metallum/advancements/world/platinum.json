@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "native_platinum": {
+    "ore/platinum": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_native_platinum"
-          }
+          "tfc_metallum:ore/small_native_platinum"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "native_platinum"
+      "ore/platinum"
     ]
   ]
 }

@@ -1,0 +1,18 @@
+{
+    "name": "Florentine Bronze",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/florentine_bronze",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Florentine Bronze is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/florentine_bronze",
+            "title": "Florentine Bronze",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Requirement:$()$(br)$(li)40 - 60% : $(thing)Antimony()$(li)20 - 40% : $(thing)Bismuth()$(li)20 - 40% : $(thing)Tin()"
+        }
+    ]
+}

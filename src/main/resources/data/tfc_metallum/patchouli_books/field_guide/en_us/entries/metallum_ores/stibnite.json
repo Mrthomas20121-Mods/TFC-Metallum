@@ -1,0 +1,21 @@
+{
+    "name": "Stibnite",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_stibnite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stibnite is an ore found in Igneous Extrusive Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_stibnite/granite",
+            "title": "Stibnite",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Antimony$()"
+        }
+    ]
+}

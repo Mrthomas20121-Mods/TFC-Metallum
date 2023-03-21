@@ -1,0 +1,18 @@
+{
+    "name": "Cobalt",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/cobalt",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cobalt is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/cobalt",
+            "title": "Cobalt",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Cobalt$() is obtained by smelting $(l:metallum_ores/cobaltite)Cobaltite$()"
+        }
+    ]
+}

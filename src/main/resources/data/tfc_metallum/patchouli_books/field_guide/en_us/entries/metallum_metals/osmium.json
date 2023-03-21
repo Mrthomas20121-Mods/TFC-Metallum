@@ -1,0 +1,18 @@
+{
+    "name": "Osmium",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/osmium",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Osmium is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/osmium",
+            "title": "Osmium",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Osmium$() is obtained by smelting $(l:metallum_ores/native_osmium)Native Osmium$()"
+        }
+    ]
+}

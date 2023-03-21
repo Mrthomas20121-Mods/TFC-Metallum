@@ -1,0 +1,17 @@
+{
+    "name": "Andesite Alloy",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/andesite_alloy",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Andesite Alloy is a tier 2 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/andesite_alloy",
+            "title": "Andesite Alloy",
+            "link_recipes": false
+        }
+    ]
+}

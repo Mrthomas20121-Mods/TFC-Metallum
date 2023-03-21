@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "native_iridium": {
+    "ore/iridium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_native_iridium"
-          }
+          "tfc_metallum:ore/small_native_iridium"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "native_iridium"
+      "ore/iridium"
     ]
   ]
 }

@@ -1,0 +1,5 @@
+{
+  "extend": "tfc:field_guide",
+  "name": "Metallum field_guide extension",
+  "landing_text": "Metallum field_guide extension"
+}

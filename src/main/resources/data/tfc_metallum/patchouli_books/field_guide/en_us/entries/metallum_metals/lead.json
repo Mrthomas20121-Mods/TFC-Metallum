@@ -1,0 +1,18 @@
+{
+    "name": "Lead",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/lead",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Lead is a tier 1 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/lead",
+            "title": "Lead",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Lead$() is obtained by smelting $(l:metallum_ores/galena)Galena$()"
+        }
+    ]
+}

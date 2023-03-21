@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "cobaltite": {
+    "ore/cobalt": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_cobaltite"
-          }
+          "tfc_metallum:ore/small_cobaltite"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "cobaltite"
+      "ore/cobalt"
     ]
   ]
 }

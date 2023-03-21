@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "uraninite": {
+    "ore/uranium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_uraninite"
-          }
+          "tfc_metallum:ore/small_uraninite"
         ]
       }
     }
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "uraninite"
+      "ore/uranium"
     ]
   ]
 }

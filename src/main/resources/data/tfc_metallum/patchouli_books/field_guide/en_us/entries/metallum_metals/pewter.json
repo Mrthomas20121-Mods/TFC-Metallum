@@ -1,0 +1,18 @@
+{
+    "name": "Pewter",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/pewter",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pewter is a tier 3 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/pewter",
+            "title": "Pewter",
+            "link_recipes": false,
+            "text": "$(br)$(bold)Requirement:$()$(br)$(li)60 - 80% : $(thing)Antimony()$(li)20 - 40% : $(thing)Lead()"
+        }
+    ]
+}

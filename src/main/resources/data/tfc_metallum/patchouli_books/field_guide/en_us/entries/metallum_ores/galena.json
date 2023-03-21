@@ -1,0 +1,21 @@
+{
+    "name": "Galena",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/rich_galena",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Galena is an ore found in Sedimentary Rocks"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/rich_galena/granite",
+            "title": "Galena",
+            "link_recipes": false
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It melt into $(thing)Lead$()"
+        }
+    ]
+}

@@ -1,13 +1,11 @@
 {
   "parent": "tfc:world/nugget",
   "criteria": {
-    "bertrandite": {
+    "ore/beryllium": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
-          {
-            "item": "tfc_metallum:ore/small_bertrandite"
-          }
+          "tfc_metallum:ore/small_bertrandite"
         ]
       }
     }
@@ -17,10 +15,10 @@
       "item": "tfc_metallum:ore/small_bertrandite"
     },
     "title": {
-      "translate": "tfc_metallum.advancements.world.berylium.title"
+      "translate": "tfc_metallum.advancements.world.beryllium.title"
     },
     "description": {
-      "translate": "tfc_metallum.advancements.world.berylium.description"
+      "translate": "tfc_metallum.advancements.world.beryllium.description"
     },
     "frame": "goal",
     "show_toast": true,
@@ -30,7 +28,7 @@
   },
   "requirements": [
     [
-      "bertrandite"
+      "ore/beryllium"
     ]
   ]
 }

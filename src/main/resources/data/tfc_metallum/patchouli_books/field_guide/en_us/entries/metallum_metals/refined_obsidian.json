@@ -1,0 +1,17 @@
+{
+    "name": "Refined Obsidian",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/refined_obsidian",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Refined Obsidian is a tier 4 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/refined_obsidian",
+            "title": "Refined Obsidian",
+            "link_recipes": false
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Signalum",
+    "category": "tfc_metallum:metallum_metals",
+    "icon": "tfc_metallum:metal/ingot/signalum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Signalum is a tier 4 metal added by TFC Metallum"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:metal/ingot/signalum",
+            "title": "Signalum",
+            "link_recipes": false
+        }
+    ]
+}

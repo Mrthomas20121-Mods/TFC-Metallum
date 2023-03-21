@@ -1,0 +1,17 @@
+{
+    "name": "Certus Quartz",
+    "category": "tfc_metallum:metallum_ores",
+    "icon": "tfc_metallum:ore/certus_quartz",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Certus Quartz is an ore found in Quartzite, Schist, Granite, Gneiss, Shale"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tfc_metallum:ore/certus_quartz/granite",
+            "title": "Certus Quartz",
+            "link_recipes": false
+        }
+    ]
+}
