@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe/osmium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 100
+  },
+  "temperature": 3025,
+  "use_durability": true
+}

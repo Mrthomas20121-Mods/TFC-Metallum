@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/signalum"
+    "tag": "tfc_metallum:ingots/signalum"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/signalum"
+    "item": "tfc_metallum:metal/rod/signalum",
+    "count": 2
   },
   "tier": 4,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

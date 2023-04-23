@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe/invar"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 100
+  },
+  "temperature": 1450,
+  "use_durability": true
+}

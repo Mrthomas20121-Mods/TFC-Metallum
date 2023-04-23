@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:metal/fishing_rod/enderium",
+    "tfc_metallum:metal/fishing_rod/ferroboron",
+    "tfc_metallum:metal/fishing_rod/thorium",
+    "tfc_metallum:metal/fishing_rod/titanium",
+    "tfc_metallum:metal/fishing_rod/tungsten",
+    "tfc_metallum:metal/fishing_rod/tungsten_steel"
+  ]
+}

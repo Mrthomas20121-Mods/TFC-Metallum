@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe/ferroboron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/ferroboron",
+    "amount": 100
+  },
+  "temperature": 3000,
+  "use_durability": true
+}

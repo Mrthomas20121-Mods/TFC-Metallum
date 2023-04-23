@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/boron"
+    "tag": "tfc_metallum:ingots/boron"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/boron"
+    "item": "tfc_metallum:metal/rod/boron",
+    "count": 2
   },
   "tier": 3,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

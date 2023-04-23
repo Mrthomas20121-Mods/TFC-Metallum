@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/refined_obsidian"
+    "tag": "tfc_metallum:ingots/refined_obsidian"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/refined_obsidian"
+    "item": "tfc_metallum:metal/rod/refined_obsidian",
+    "count": 2
   },
   "tier": 4,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe/ferroboron"
+  },
+  "heat_capacity": 3.333,
+  "forging_temperature": 1800,
+  "welding_temperature": 2400
+}

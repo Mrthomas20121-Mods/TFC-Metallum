@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe_head/florentine_bronze"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/florentine_bronze",
+    "amount": 100
+  },
+  "temperature": 400
+}

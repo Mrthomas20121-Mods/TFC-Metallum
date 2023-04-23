@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/beryllium_copper"
+    "tag": "tfc_metallum:ingots/beryllium_copper"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/beryllium_copper"
+    "item": "tfc_metallum:metal/rod/beryllium_copper",
+    "count": 2
   },
   "tier": 3,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

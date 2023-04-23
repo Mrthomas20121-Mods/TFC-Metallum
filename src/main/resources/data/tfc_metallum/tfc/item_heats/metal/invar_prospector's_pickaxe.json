@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe/invar"
+  },
+  "heat_capacity": 2.857,
+  "forging_temperature": 870,
+  "welding_temperature": 1160
+}

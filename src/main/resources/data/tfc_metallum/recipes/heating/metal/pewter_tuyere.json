@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/pewter"
+    "tag": "forge:tuyeress/pewter"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/pewter",

@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/mithril"
+    "tag": "forge:tuyeress/mithril"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",

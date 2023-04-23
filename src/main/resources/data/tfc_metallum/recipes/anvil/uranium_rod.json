@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/uranium"
+    "tag": "tfc_metallum:ingots/uranium"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/uranium"
+    "item": "tfc_metallum:metal/rod/uranium",
+    "count": 2
   },
   "tier": 3,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

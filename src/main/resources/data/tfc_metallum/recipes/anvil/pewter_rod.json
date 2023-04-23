@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/pewter"
+    "tag": "tfc_metallum:ingots/pewter"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/pewter"
+    "item": "tfc_metallum:metal/rod/pewter",
+    "count": 2
   },
   "tier": 3,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

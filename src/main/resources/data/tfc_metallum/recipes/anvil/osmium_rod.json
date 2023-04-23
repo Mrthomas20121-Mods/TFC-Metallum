@@ -1,15 +1,17 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "forge:ingots/osmium"
+    "tag": "tfc_metallum:ingots/osmium"
   },
   "result": {
-    "item": "tfc_metallum:metal/rod/osmium"
+    "item": "tfc_metallum:metal/rod/osmium",
+    "count": 2
   },
   "tier": 3,
   "rules": [
     "bend_last",
     "draw_second_last",
     "draw_third_last"
-  ]
+  ],
+  "apply_forging_bonus": false
 }

@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/fishing_rod/florentine_bronze"
+    "tag": "forge:fishing_rodss/florentine_bronze"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",

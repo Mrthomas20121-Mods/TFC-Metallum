@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/enderium"
+    "tag": "forge:tuyeress/enderium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",

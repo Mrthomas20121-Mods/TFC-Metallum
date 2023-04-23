@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:metal/prospector's_pickaxe_head/tungsten"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/tungsten",
+    "amount": 100
+  },
+  "temperature": 3400
+}

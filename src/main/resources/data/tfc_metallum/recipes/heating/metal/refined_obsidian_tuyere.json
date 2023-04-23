@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/refined_obsidian"
+    "tag": "forge:tuyeress/refined_obsidian"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_obsidian",

@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/fishing_rod/osmium"
+    "tag": "forge:fishing_rodss/osmium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmium",

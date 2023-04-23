@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/tungsten_steel"
+    "tag": "forge:tuyeress/tungsten_steel"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten_steel",

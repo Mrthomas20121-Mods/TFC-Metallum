@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/tuyere/osmiridium"
+    "tag": "forge:tuyeress/osmiridium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/osmiridium",

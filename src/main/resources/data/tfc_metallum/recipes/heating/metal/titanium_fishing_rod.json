@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/fishing_rod/titanium"
+    "tag": "forge:fishing_rodss/titanium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",
