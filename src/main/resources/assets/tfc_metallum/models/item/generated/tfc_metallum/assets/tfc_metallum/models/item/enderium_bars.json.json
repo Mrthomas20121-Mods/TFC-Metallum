@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tfc_metallum:item/generated\\tfc_metallum\\assets\\tfc_metallum\\models\\item\\enderium_bars.json"
-  }
-}

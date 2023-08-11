@@ -1,3 +1,7 @@
 {
-  "parent": "tfc_metallum:block/metal/lamp/cobalt_off"
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tfc_metallum:item/metal/lamp/cobalt"
+  }
 }
