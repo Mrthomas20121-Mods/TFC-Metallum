@@ -14,16 +14,16 @@
   },
   "perspectives": {
     "none": {
-      "parent": "tfc_metallum:item/metal/javelin/pewter_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/pewter_gui"
     },
     "fixed": {
-      "parent": "tfc_metallum:item/metal/javelin/pewter_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/pewter_gui"
     },
     "ground": {
-      "parent": "tfc_metallum:item/metal/javelin/pewter_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/pewter_gui"
     },
     "gui": {
-      "parent": "tfc_metallum:item/metal/javelin/pewter_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/pewter_gui"
     }
   }
 }

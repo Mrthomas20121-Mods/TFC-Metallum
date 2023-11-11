@@ -1,6 +1,22 @@
 {
-  "parent": "item/trident_throwing",
-  "textures": {
-    "particle": "tfc_metallum:item/metal/javelin/beryllium_copper"
+  "__comment__": "This file was automatically created by mcresources",
+  "loader": "forge:separate-perspective",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_throwing_base"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui"
+    }
   }
 }
