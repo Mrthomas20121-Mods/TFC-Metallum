@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:refined_iridium_bloom"
+  },
+  "result": {
+    "item": "tfc_metallum:metal/ingot/iridium"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_last",
+    "hit_second_last",
+    "hit_third_last"
+  ]
+}
