@@ -14,16 +14,16 @@
   },
   "perspectives": {
     "none": {
-      "parent": "tfc_metallum:item/metal/javelin/thorium_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
     },
     "fixed": {
-      "parent": "tfc_metallum:item/metal/javelin/thorium_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
     },
     "ground": {
-      "parent": "tfc_metallum:item/metal/javelin/thorium_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
     },
     "gui": {
-      "parent": "tfc_metallum:item/metal/javelin/thorium_in_gui"
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
     }
   }
 }

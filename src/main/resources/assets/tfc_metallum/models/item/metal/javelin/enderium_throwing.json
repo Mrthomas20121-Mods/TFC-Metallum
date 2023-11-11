@@ -1,6 +1,22 @@
 {
-  "parent": "item/trident_throwing",
-  "textures": {
-    "particle": "tfc_metallum:item/metal/javelin/enderium"
+  "__comment__": "This file was automatically created by mcresources",
+  "loader": "forge:separate-perspective",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc_metallum:item/metal/javelin/enderium_throwing_base"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum:item/metal/javelin/enderium_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum:item/metal/javelin/enderium_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum:item/metal/javelin/enderium_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum:item/metal/javelin/enderium_gui"
+    }
   }
 }

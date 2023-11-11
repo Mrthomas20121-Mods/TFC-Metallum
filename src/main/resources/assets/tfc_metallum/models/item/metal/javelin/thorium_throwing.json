@@ -1,6 +1,22 @@
 {
-  "parent": "item/trident_throwing",
-  "textures": {
-    "particle": "tfc_metallum:item/metal/javelin/thorium"
+  "__comment__": "This file was automatically created by mcresources",
+  "loader": "forge:separate-perspective",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc_metallum:item/metal/javelin/thorium_throwing_base"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum:item/metal/javelin/thorium_gui"
+    }
   }
 }
