@@ -269,10 +269,10 @@
       "rarity": 12,
       "blocks": [
         {
-          "block": "tfc_metallum:ore_small_osmium"
+          "block": "tfc_metallum:ore/small_native_osmium"
         },
         {
-          "block": "tfc_metallum:ore_small_iridium"
+          "block": "tfc_metallum:ore/small_native_iridium"
         }
       ]
     }
