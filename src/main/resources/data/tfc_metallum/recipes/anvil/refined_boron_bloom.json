@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:raw_boron_bloom"
+  },
+  "result": {
+    "item": "tfc_metallum:refined_boron_bloom"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_last",
+    "hit_second_last",
+    "hit_third_last"
+  ]
+}

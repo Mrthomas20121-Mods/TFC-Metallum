@@ -3002,5 +3002,21 @@
   "block.tfc_metallum.ore.rich_wolframite.marble": "Rich Marble Wolframite",
   "block.tfc_metallum.ore.normal_wolframite.marble.prospected": "Wolframite",
   "block.tfc_metallum.ore.normal_wolframite.marble": "Normal Marble Wolframite",
-  "block.tfc_metallum.ore.small_wolframite": "Small Wolframite"
+  "block.tfc_metallum.ore.small_wolframite": "Small Wolframite",
+  "item.tfc_metallum.raw_beryllium_bloom": "Raw Beryllium Bloom",
+  "item.tfc_metallum.refined_beryllium_bloom": "Refined Beryllium Bloom",
+  "item.tfc_metallum.raw_boron_bloom": "Raw Boron Bloom",
+  "item.tfc_metallum.refined_boron_bloom": "Refined Boron Bloom",
+  "item.tfc_metallum.raw_cobalt_bloom": "Raw Cobalt Bloom",
+  "item.tfc_metallum.refined_cobalt_bloom": "Refined Cobalt Bloom",
+  "item.tfc_metallum.raw_iridium_bloom": "Raw Iridium Bloom",
+  "item.tfc_metallum.refined_iridium_bloom": "Refined Iridium Bloom",
+  "item.tfc_metallum.raw_osmium_bloom": "Raw Osmium Bloom",
+  "item.tfc_metallum.refined_osmium_bloom": "Refined Osmium Bloom",
+  "item.tfc_metallum.raw_platinum_bloom": "Raw Platinum Bloom",
+  "item.tfc_metallum.refined_platinum_bloom": "Refined Platinum Bloom",
+  "item.tfc_metallum.raw_thorium_bloom": "Raw Thorium Bloom",
+  "item.tfc_metallum.refined_thorium_bloom": "Refined Thorium Bloom",
+  "item.tfc_metallum.raw_titanium_bloom": "Raw Titanium Bloom",
+  "item.tfc_metallum.refined_titanium_bloom": "Refined Titanium Bloom"
 }
