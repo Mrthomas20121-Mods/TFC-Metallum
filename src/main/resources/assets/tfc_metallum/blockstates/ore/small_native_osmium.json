@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "tfc_metallum:block/groundcover/native_osmium",
+        "model": "tfc_metallum:block/ore/small_native_osmium",
         "y": 90
       },
       {
-        "model": "tfc_metallum:block/groundcover/native_osmium"
+        "model": "tfc_metallum:block/ore/small_native_osmium"
       },
       {
-        "model": "tfc_metallum:block/groundcover/native_osmium",
+        "model": "tfc_metallum:block/ore/small_native_osmium",
         "y": 180
       },
       {
-        "model": "tfc_metallum:block/groundcover/native_osmium",
+        "model": "tfc_metallum:block/ore/small_native_osmium",
         "y": 270
       }
     ]

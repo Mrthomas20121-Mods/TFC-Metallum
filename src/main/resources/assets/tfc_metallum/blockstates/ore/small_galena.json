@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "tfc_metallum:block/groundcover/galena",
+        "model": "tfc_metallum:block/ore/small_galena",
         "y": 90
       },
       {
-        "model": "tfc_metallum:block/groundcover/galena"
+        "model": "tfc_metallum:block/ore/small_galena"
       },
       {
-        "model": "tfc_metallum:block/groundcover/galena",
+        "model": "tfc_metallum:block/ore/small_galena",
         "y": 180
       },
       {
-        "model": "tfc_metallum:block/groundcover/galena",
+        "model": "tfc_metallum:block/ore/small_galena",
         "y": 270
       }
     ]

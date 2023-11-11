@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "tfc_metallum:block/groundcover/wolframite",
+        "model": "tfc_metallum:block/ore/small_wolframite",
         "y": 90
       },
       {
-        "model": "tfc_metallum:block/groundcover/wolframite"
+        "model": "tfc_metallum:block/ore/small_wolframite"
       },
       {
-        "model": "tfc_metallum:block/groundcover/wolframite",
+        "model": "tfc_metallum:block/ore/small_wolframite",
         "y": 180
       },
       {
-        "model": "tfc_metallum:block/groundcover/wolframite",
+        "model": "tfc_metallum:block/ore/small_wolframite",
         "y": 270
       }
     ]

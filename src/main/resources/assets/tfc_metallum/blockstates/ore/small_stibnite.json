@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "tfc_metallum:block/groundcover/stibnite",
+        "model": "tfc_metallum:block/ore/small_stibnite",
         "y": 90
       },
       {
-        "model": "tfc_metallum:block/groundcover/stibnite"
+        "model": "tfc_metallum:block/ore/small_stibnite"
       },
       {
-        "model": "tfc_metallum:block/groundcover/stibnite",
+        "model": "tfc_metallum:block/ore/small_stibnite",
         "y": 180
       },
       {
-        "model": "tfc_metallum:block/groundcover/stibnite",
+        "model": "tfc_metallum:block/ore/small_stibnite",
         "y": 270
       }
     ]

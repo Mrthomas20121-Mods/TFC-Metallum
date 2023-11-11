@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "tfc_metallum:block/groundcover/kernite",
+        "model": "tfc_metallum:block/ore/small_kernite",
         "y": 90
       },
       {
-        "model": "tfc_metallum:block/groundcover/kernite"
+        "model": "tfc_metallum:block/ore/small_kernite"
       },
       {
-        "model": "tfc_metallum:block/groundcover/kernite",
+        "model": "tfc_metallum:block/ore/small_kernite",
         "y": 180
       },
       {
-        "model": "tfc_metallum:block/groundcover/kernite",
+        "model": "tfc_metallum:block/ore/small_kernite",
         "y": 270
       }
     ]
