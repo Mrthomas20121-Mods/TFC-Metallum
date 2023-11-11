@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/titanium"
-  },
-  "heat_capacity": 6.667,
-  "forging_temperature": 1020,
-  "welding_temperature": 1360
-}

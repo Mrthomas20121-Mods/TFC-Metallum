@@ -3,6 +3,6 @@
     "item": "tfc_metallum:metal/scythe_blade/thorium"
   },
   "heat_capacity": 3.333,
-  "forging_temperature": 1050,
-  "welding_temperature": 1400
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

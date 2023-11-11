@@ -3,6 +3,6 @@
     "item": "tfc_metallum:metal/shield/tungsten"
   },
   "heat_capacity": 20,
-  "forging_temperature": 2040,
-  "welding_temperature": 2720
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

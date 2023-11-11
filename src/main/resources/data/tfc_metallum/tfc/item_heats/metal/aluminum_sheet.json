@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/sheet/aluminum"
-  },
-  "heat_capacity": 6.667,
-  "forging_temperature": 396,
-  "welding_temperature": 528
-}

@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/rod/nickel_silver"
-  },
-  "heat_capacity": 1.429,
-  "forging_temperature": 870,
-  "welding_temperature": 1160
-}

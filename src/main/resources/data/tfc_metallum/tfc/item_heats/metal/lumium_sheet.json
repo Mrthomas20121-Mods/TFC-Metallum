@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/sheet/lumium"
-  },
-  "heat_capacity": 5.714,
-  "forging_temperature": 900,
-  "welding_temperature": 1200
-}

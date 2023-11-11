@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/anvil/cobalt"
-  },
-  "heat_capacity": 56,
-  "forging_temperature": 900,
-  "welding_temperature": 1200
-}

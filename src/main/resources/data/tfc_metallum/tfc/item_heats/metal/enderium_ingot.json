@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/ingot/enderium"
-  },
-  "heat_capacity": 2.857,
-  "forging_temperature": 1020,
-  "welding_temperature": 1360
-}

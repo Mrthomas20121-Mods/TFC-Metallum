@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/chain/signalum"
-  },
-  "heat_capacity": 0.171,
-  "forging_temperature": 900,
-  "welding_temperature": 1200
-}

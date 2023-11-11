@@ -7,6 +7,6 @@
     "fluid": "tfc_metallum:metal/thorium",
     "amount": 600
   },
-  "temperature": 1750,
+  "temperature": 1535,
   "use_durability": true
 }

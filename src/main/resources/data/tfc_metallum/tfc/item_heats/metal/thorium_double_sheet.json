@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/thorium"
-  },
-  "heat_capacity": 13.333,
-  "forging_temperature": 1050,
-  "welding_temperature": 1400
-}

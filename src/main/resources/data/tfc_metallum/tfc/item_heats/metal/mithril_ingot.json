@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/ingot/mithril"
-  },
-  "heat_capacity": 2.857,
-  "forging_temperature": 564,
-  "welding_temperature": 752
-}

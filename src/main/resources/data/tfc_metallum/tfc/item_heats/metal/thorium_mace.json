@@ -3,6 +3,6 @@
     "item": "tfc_metallum:metal/mace/thorium"
   },
   "heat_capacity": 6.667,
-  "forging_temperature": 1050,
-  "welding_temperature": 1400
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

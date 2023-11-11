@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/anvil/uranium"
-  },
-  "heat_capacity": 40,
-  "forging_temperature": 660,
-  "welding_temperature": 880
-}

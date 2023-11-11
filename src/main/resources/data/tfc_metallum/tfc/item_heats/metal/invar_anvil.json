@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/anvil/invar"
-  },
-  "heat_capacity": 40,
-  "forging_temperature": 870,
-  "welding_temperature": 1160
-}

@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/tungsten_steel"
-  },
-  "heat_capacity": 10,
-  "forging_temperature": 2214,
-  "welding_temperature": 2952
-}

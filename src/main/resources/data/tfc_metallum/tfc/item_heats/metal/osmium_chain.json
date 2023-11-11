@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/chain/osmium"
-  },
-  "heat_capacity": 0.171,
-  "forging_temperature": 1815,
-  "welding_temperature": 2420
-}

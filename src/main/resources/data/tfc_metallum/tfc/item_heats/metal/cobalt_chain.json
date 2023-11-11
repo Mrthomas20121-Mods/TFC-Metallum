@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/chain/cobalt"
-  },
-  "heat_capacity": 0.24,
-  "forging_temperature": 900,
-  "welding_temperature": 1200
-}

@@ -264,6 +264,17 @@
     "min_skew": 5,
     "max_skew": 13,
     "min_slant": 0,
-    "max_slant": 2
+    "max_slant": 2,
+    "indicator": {
+      "rarity": 12,
+      "blocks": [
+        {
+          "block": "tfc_metallum:ore_small_osmium"
+        },
+        {
+          "block": "tfc_metallum:ore_small_iridium"
+        }
+      ]
+    }
   }
 }

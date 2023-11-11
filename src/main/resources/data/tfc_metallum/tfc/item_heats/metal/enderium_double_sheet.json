@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/enderium"
-  },
-  "heat_capacity": 11.429,
-  "forging_temperature": 1020,
-  "welding_temperature": 1360
-}

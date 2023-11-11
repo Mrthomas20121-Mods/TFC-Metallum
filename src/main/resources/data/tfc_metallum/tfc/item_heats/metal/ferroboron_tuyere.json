@@ -3,6 +3,6 @@
     "item": "tfc_metallum:metal/tuyere/ferroboron"
   },
   "heat_capacity": 13.333,
-  "forging_temperature": 1800,
-  "welding_temperature": 2400
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

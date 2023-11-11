@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/rod/thorium"
-  },
-  "heat_capacity": 1.667,
-  "forging_temperature": 1050,
-  "welding_temperature": 1400
-}

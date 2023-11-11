@@ -3,6 +3,6 @@
     "item": "tfc_metallum:metal/chestplate/titanium"
   },
   "heat_capacity": 26.667,
-  "forging_temperature": 1020,
-  "welding_temperature": 1360
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

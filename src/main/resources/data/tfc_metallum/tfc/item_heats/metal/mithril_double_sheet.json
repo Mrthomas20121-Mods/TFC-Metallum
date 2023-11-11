@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/mithril"
-  },
-  "heat_capacity": 11.429,
-  "forging_temperature": 564,
-  "welding_temperature": 752
-}

@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/rod/aluminum"
-  },
-  "heat_capacity": 1.667,
-  "forging_temperature": 396,
-  "welding_temperature": 528
-}

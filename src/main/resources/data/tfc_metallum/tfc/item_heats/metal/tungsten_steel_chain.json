@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/chain/tungsten_steel"
-  },
-  "heat_capacity": 0.3,
-  "forging_temperature": 2214,
-  "welding_temperature": 2952
-}

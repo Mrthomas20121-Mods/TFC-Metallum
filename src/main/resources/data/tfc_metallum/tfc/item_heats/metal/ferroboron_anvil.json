@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/anvil/ferroboron"
-  },
-  "heat_capacity": 46.667,
-  "forging_temperature": 1800,
-  "welding_temperature": 2400
-}
