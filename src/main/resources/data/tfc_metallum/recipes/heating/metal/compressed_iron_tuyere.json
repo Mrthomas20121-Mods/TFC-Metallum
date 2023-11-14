@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/compressed_iron"
+    "tag": "forge:tuyeres/compressed_iron"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",

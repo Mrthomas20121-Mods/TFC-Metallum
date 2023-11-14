@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/boron"
+    "tag": "forge:fishing_rods/boron"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",

@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/lumium"
+    "tag": "forge:tuyeres/lumium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",

@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/lumium"
+    "tag": "forge:fishing_rods/lumium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/lumium",

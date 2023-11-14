@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/uranium"
+    "tag": "forge:tuyeres/uranium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",

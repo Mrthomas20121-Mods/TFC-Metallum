@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/invar"
+    "tag": "forge:tuyeres/invar"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",

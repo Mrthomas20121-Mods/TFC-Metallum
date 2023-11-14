@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/thorium"
+    "tag": "forge:tuyeres/thorium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",

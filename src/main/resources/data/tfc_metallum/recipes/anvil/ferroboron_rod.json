@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/ferroboron"
+    "tag": "forge:ingots/ferroboron"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/ferroboron",

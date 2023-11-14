@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/florentine_bronze"
+    "tag": "forge:tuyeres/florentine_bronze"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/florentine_bronze",

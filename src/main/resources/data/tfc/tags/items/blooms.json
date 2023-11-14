@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_metallum:raw_boron_bloom",
+	"tfc_metallum:refined_boron_bloom",
+	"tfc_metallum:raw_cobalt_bloom",
+	"tfc_metallum:refined_cobalt_bloom",
+	"tfc_metallum:raw_iridium_bloom",
+	"tfc_metallum:refined_iridium_bloom",
+	"tfc_metallum:raw_osmium_bloom",
+	"tfc_metallum:refined_osmium_bloom",
+	"tfc_metallum:raw_platinum_bloom",
+	"tfc_metallum:refined_platinum_bloom",
+	"tfc_metallum:raw_thorium_bloom",
+	"tfc_metallum:refined_thorium_bloom",
+	"tfc_metallum:raw_titanium_bloom",
+	"tfc_metallum:refined_titanium_bloom"
+  ]
+}

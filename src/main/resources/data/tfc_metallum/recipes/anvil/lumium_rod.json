@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/lumium"
+    "tag": "forge:ingots/lumium"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/lumium",

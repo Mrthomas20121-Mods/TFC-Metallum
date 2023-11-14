@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/compressed_iron"
+    "tag": "forge:ingots/compressed_iron"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/compressed_iron",

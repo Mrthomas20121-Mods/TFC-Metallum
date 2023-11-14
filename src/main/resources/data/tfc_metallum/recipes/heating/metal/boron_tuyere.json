@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/boron"
+    "tag": "forge:tuyeres/boron"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/boron",

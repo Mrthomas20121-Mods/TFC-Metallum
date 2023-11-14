@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/enderium"
+    "tag": "forge:fishing_rods/enderium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/enderium",

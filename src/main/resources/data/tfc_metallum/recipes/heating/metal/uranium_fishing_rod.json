@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/uranium"
+    "tag": "forge:fishing_rods/uranium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/uranium",

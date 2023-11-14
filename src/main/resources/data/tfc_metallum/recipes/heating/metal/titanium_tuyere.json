@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/titanium"
+    "tag": "forge:tuyeres/titanium"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/titanium",

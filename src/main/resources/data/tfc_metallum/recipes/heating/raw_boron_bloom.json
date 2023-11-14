@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum:raw_boron_bloom"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/boron",
+    "amount": 100
+  },
+  "temperature": 1535
+}

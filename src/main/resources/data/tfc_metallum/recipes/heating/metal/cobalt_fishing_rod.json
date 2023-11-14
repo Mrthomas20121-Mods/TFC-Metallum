@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/cobalt"
+    "tag": "forge:fishing_rods/cobalt"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/cobalt",

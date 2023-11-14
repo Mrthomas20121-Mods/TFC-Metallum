@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/nickel_silver"
+    "tag": "forge:fishing_rods/nickel_silver"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",

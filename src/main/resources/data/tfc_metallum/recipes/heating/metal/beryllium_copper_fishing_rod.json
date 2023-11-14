@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/beryllium_copper"
+    "tag": "forge:fishing_rods/beryllium_copper"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/beryllium_copper",

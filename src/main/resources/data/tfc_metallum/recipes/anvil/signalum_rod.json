@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/signalum"
+    "tag": "forge:ingots/signalum"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/signalum",

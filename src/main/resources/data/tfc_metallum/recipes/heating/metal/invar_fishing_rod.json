@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:fishing_rodss/invar"
+    "tag": "forge:fishing_rods/invar"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/invar",

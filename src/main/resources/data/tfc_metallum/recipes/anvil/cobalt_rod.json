@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/cobalt"
+    "tag": "forge:ingots/cobalt"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/cobalt",

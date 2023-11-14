@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "tag": "tfc_metallum:ingots/nickel_silver"
+    "tag": "forge:ingots/nickel_silver"
   },
   "result": {
     "item": "tfc_metallum:metal/rod/nickel_silver",

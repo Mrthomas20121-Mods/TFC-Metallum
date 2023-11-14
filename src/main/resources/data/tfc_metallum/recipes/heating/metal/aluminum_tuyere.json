@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/aluminum"
+    "tag": "forge:tuyeres/aluminum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/aluminum",

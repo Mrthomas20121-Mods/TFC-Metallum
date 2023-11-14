@@ -1,7 +1,7 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "tag": "forge:tuyeress/refined_glowstone"
+    "tag": "forge:tuyeres/refined_glowstone"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/refined_glowstone",
