@@ -57,7 +57,7 @@ public enum MetallumMetal implements RegistryMetal {
     NICKEL_SILVER(0xa4a3a, Rarity.COMMON, Metal.Tier.TIER_II, MetallumTiers.NICKEL_SILVER, MetallumArmorMaterials.NICKEL_SILVER, true, true, true),
     OSMIUM(0xddeff, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.OSMIUM, MetallumArmorMaterials.OSMIUM, true, true, true),
     OSMIRIDIUM(0xb2c1c, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.OSMIRIDIUM, MetallumArmorMaterials.OSMIRIDIUM, true, true, true),
-    PEWTER(0xb0aba, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.PEWTER, MetallumArmorMaterials.PEWTER, true, true, true),
+    PEWTER(0xb0aba, Rarity.UNCOMMON, Metal.Tier.TIER_II, MetallumTiers.PEWTER, MetallumArmorMaterials.PEWTER, true, true, true),
     PINK_SLIME(0xC279B6, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
     REFINED_GLOWSTONE(0xfffdc, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_GLOWSTONE, MetallumArmorMaterials.REFINED_GLOWSTONE, true, true, true),
     REFINED_OBSIDIAN(0xbc92d, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_OBSIDIAN, MetallumArmorMaterials.REFINED_OBSIDIAN, true, true, true),
