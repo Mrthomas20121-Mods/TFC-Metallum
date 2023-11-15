@@ -6,7 +6,7 @@
   "second_input": {
     "tag": "forge:sheets/platinum"
   },
-  "tier": 4,
+  "tier": 3,
   "result": {
     "item": "tfc_metallum:metal/double_sheet/platinum"
   }
