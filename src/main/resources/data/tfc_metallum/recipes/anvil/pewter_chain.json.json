@@ -7,7 +7,7 @@
     "item": "tfc_metallum:metal/chain/pewter",
     "count": 16
   },
-  "tier": 3,
+  "tier": 2,
   "rules": [
     "hit_any",
     "hit_any",

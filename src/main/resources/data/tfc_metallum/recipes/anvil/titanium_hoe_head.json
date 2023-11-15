@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/hoe_head/titanium"
   },
-  "tier": 6,
+  "tier": 3,
   "rules": [
     "punch_last",
     "hit_not_last",

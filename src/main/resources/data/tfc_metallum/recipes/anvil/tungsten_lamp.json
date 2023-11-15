@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/lamp/tungsten"
   },
-  "tier": 6,
+  "tier": 3,
   "rules": [
     "bend_last",
     "bend_second_last",

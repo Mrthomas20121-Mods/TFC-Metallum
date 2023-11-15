@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/chisel_head/tungsten"
   },
-  "tier": 6,
+  "tier": 3,
   "rules": [
     "hit_last",
     "hit_not_last",

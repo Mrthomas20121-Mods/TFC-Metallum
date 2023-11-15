@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/sword_blade/pewter"
   },
-  "tier": 3,
+  "tier": 2,
   "rules": [
     "hit_last",
     "bend_second_last",

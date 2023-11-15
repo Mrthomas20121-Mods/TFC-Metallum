@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/tuyere/pewter"
   },
-  "tier": 3,
+  "tier": 2,
   "rules": [
     "bend_last",
     "bend_second_last"

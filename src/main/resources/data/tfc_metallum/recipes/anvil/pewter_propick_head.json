@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/propick_head/pewter"
   },
-  "tier": 3,
+  "tier": 2,
   "rules": [
     "punch_last",
     "draw_not_last",

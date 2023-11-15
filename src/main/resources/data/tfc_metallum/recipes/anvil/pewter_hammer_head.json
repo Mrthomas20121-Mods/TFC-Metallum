@@ -6,7 +6,7 @@
   "result": {
     "item": "tfc_metallum:metal/hammer_head/pewter"
   },
-  "tier": 3,
+  "tier": 2,
   "rules": [
     "punch_last",
     "shrink_not_last"

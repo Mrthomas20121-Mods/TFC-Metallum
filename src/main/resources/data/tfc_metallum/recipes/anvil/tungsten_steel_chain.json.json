@@ -7,7 +7,7 @@
     "item": "tfc_metallum:metal/chain/tungsten_steel",
     "count": 16
   },
-  "tier": 6,
+  "tier": 3,
   "rules": [
     "hit_any",
     "hit_any",
