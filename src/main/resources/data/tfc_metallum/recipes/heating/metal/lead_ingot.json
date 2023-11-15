@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/lead",
     "amount": 100
   },
-  "temperature": 328
+  "temperature": 328,
+  "use_durability": false
 }

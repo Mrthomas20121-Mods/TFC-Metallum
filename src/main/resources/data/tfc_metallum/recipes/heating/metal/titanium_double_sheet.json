@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/titanium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/titanium",
+    "amount": 400
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

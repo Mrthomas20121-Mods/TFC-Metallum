@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/blutonium"
+    "tag": "forge:double_ingots/blutonium"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 900,

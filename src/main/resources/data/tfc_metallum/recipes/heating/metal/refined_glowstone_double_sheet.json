@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_sheets/refined_glowstone"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/refined_glowstone",
+    "amount": 400
+  },
+  "temperature": 1500,
+  "use_durability": false
+}

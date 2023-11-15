@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_sheets/tungsten_steel"
+  },
+  "heat_capacity": 20,
+  "forging_temperature": 921,
+  "welding_temperature": 1228
+}

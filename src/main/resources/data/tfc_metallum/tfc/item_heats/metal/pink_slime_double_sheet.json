@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/pink_slime"
+    "tag": "forge:double_sheets/pink_slime"
   },
   "heat_capacity": 11.429,
   "forging_temperature": 600,

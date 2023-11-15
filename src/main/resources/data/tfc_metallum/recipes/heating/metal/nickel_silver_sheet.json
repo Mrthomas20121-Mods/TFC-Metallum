@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:sheets/nickel_silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/nickel_silver",
+    "amount": 200
+  },
+  "temperature": 1450,
+  "use_durability": false
+}

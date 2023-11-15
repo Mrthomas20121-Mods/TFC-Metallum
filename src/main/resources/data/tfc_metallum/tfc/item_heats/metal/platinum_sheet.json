@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/platinum"
+    "tag": "forge:sheets/platinum"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 1038,

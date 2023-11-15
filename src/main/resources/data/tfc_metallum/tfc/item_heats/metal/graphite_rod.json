@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/graphite"
+    "tag": "forge:rods/graphite"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 300,

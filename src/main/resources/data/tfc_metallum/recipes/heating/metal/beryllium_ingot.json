@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/beryllium",
     "amount": 100
   },
-  "temperature": 1200
+  "temperature": 1200,
+  "use_durability": false
 }

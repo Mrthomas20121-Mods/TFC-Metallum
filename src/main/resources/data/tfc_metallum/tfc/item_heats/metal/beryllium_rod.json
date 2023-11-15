@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/beryllium"
+    "tag": "forge:rods/beryllium"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 720,

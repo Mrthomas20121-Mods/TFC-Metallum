@@ -25,7 +25,7 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     OSMIUM(610, 600, 590, 545, 1,  6, 7, 1, 15, 0f, 0f, 13, 13, 13f),
     URANIUM(520, 510, 490, 475, 1, 6, 8, 1, 12, 0.5f, 0.5f, 10, 17, 10f),
     BERYLLIUM_COPPER(620, 610, 600, 555, 2, 6, 5, 3, 19, 0.5f, 0f, 13, 13, 13f),
-    PEWTER(600, 590, 580, 535, 1, 7, 6, 1, 20, 0.5f, 0f, 17, 10, 8.25f),
+    PEWTER(500, 490, 480, 435, 1, 7, 6, 1, 20, 0.5f, 0f, 17, 10, 8.25f),
     BORON(580, 570, 560, 515, 1, 6, 7, 1, 18, 0.5f, 0f, 22, 7, 10.25f),
     FERROBORON(620, 600, 640, 440, 2, 5, 6, 2, 12, 1f, 0f, 25, 30, 16.5f),
     SIGNALUM(720, 700, 690, 675, 1, 7, 7, 1, 12, 0.5f, 0f, 21, 20, 15f),
@@ -33,9 +33,9 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     REFINED_OBSIDIAN(720, 700, 690, 675, 1, 7, 7, 1, 12, 0.5f, 0f, 21, 20, 15f),
     REFINED_GLOWSTONE(720, 700, 690, 675, 1, 7, 7, 1, 13, 0.5f, 0f, 25, 20, 17f),
     ENDERIUM(740, 720, 710, 695, 2, 8, 8, 1, 10, 1f, 0.5f, 40, 40, 25f),
-    TITANIUM(610, 600, 590, 510, 1, 4, 6, 1, 10, 1f, 0f, 10, 10, 19f),
-    THORIUM(800, 990, 1000, 610, 2, 6, 5, 3, 12, 1f, 0f, 35, 15, 15),
-    TUNGSTEN(750, 730, 720, 705, 1, 6, 6, 2, 15, 1f, 0f, 20, 25, 17f),
+    TITANIUM(410, 400, 490, 310, 1, 4, 5, 1, 10, 0.5f, 0f, 10, 10, 19f),
+    THORIUM(400, 410, 485, 310, 1, 5, 4, 2, 12, 0.5f, 0f, 35, 15, 15),
+    TUNGSTEN(395, 405, 500, 305, 1, 5, 5, 1, 15, 0.5f, 0f, 20, 25, 17f),
     TUNGSTEN_STEEL(904, 1040, 1030, 735, 4, 6, 8, 4, 23, 3f, 0.1f, 62.5f, 50f, 62.5f);
 
     private final ResourceLocation serializedName;

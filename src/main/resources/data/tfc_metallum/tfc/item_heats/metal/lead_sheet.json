@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/lead"
+    "tag": "forge:sheets/lead"
   },
   "heat_capacity": 9.091,
   "forging_temperature": 197,

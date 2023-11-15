@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:sheets/aluminum"
+  },
+  "heat_capacity": 6.667,
+  "forging_temperature": 396,
+  "welding_temperature": 528
+}

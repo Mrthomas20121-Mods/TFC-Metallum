@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/beryllium"
+    "tag": "forge:sheets/beryllium"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 720,

@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/andesite_alloy",
     "amount": 100
   },
-  "temperature": 520
+  "temperature": 520,
+  "use_durability": false
 }

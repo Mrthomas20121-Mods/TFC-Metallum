@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:ingots/titanium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/titanium",
+    "amount": 100
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/solder"
+    "tag": "forge:rods/solder"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 240,

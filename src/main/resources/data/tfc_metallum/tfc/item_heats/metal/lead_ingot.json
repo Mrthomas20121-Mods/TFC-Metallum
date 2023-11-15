@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/ingot/lead"
+    "tag": "forge:ingots/lead"
   },
   "heat_capacity": 4.545,
   "forging_temperature": 197,

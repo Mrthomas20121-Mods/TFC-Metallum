@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/pink_slime"
+    "tag": "forge:rods/pink_slime"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 600,

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:rods/boron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/boron",
+    "amount": 50
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

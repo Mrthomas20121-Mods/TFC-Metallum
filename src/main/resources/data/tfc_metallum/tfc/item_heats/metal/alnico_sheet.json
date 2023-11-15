@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/alnico"
+    "tag": "forge:sheets/alnico"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 900,

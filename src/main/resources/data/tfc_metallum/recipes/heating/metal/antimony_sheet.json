@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/antimony"
+    "tag": "forge:sheets/antimony"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/antimony",
     "amount": 200
   },
-  "temperature": 630
+  "temperature": 630,
+  "use_durability": false
 }

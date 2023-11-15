@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/constantan"
+    "tag": "forge:double_sheets/constantan"
   },
   "heat_capacity": 8,
   "forging_temperature": 720,

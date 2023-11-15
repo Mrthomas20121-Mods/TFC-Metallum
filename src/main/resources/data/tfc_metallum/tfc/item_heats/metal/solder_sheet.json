@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/solder"
+    "tag": "forge:sheets/solder"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 240,

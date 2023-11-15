@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/platinum"
+    "tag": "forge:double_sheets/platinum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/platinum",
     "amount": 400
   },
-  "temperature": 1730
+  "temperature": 1730,
+  "use_durability": false
 }

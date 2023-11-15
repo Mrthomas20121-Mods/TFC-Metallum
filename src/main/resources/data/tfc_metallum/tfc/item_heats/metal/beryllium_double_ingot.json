@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/beryllium"
+    "tag": "forge:double_ingots/beryllium"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 720,

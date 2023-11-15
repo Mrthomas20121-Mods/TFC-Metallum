@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/electrum"
+    "tag": "forge:sheets/electrum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/electrum",
     "amount": 200
   },
-  "temperature": 1200
+  "temperature": 1200,
+  "use_durability": false
 }

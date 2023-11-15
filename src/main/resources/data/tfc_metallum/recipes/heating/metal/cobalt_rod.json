@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:rods/cobalt"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/cobalt",
+    "amount": 50
+  },
+  "temperature": 1500,
+  "use_durability": false
+}

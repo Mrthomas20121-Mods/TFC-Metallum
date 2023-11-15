@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/solder"
+    "tag": "forge:rods/solder"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/solder",
     "amount": 50
   },
-  "temperature": 400
+  "temperature": 400,
+  "use_durability": false
 }

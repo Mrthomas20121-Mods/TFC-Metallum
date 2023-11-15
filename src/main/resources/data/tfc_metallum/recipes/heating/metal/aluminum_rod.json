@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:rods/aluminum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/aluminum",
+    "amount": 50
+  },
+  "temperature": 660,
+  "use_durability": false
+}

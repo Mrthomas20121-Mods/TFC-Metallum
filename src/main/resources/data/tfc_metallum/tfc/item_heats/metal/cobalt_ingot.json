@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:ingots/cobalt"
+  },
+  "heat_capacity": 4,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

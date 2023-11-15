@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/lead"
+    "tag": "forge:rods/lead"
   },
   "heat_capacity": 2.273,
   "forging_temperature": 197,

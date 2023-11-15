@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/graphite"
+    "tag": "forge:double_ingots/graphite"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 300,

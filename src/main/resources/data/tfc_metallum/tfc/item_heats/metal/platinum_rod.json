@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/platinum"
+    "tag": "forge:rods/platinum"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 1038,

@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/andesite_alloy"
+    "tag": "forge:double_ingots/andesite_alloy"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/andesite_alloy",
     "amount": 200
   },
-  "temperature": 520
+  "temperature": 520,
+  "use_durability": false
 }

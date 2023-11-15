@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/constantan"
+    "tag": "forge:rods/constantan"
   },
   "heat_capacity": 1,
   "forging_temperature": 720,

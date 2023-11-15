@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:double_ingots/enderium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/enderium",
+    "amount": 200
+  },
+  "temperature": 1700,
+  "use_durability": false
+}

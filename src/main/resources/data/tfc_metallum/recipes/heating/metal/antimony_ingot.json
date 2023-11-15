@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/antimony",
     "amount": 100
   },
-  "temperature": 630
+  "temperature": 630,
+  "use_durability": false
 }

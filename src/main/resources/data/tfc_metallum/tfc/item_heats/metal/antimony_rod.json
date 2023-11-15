@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/antimony"
+    "tag": "forge:rods/antimony"
   },
   "heat_capacity": 2,
   "forging_temperature": 378,

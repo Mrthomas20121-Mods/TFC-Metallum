@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/iridium",
     "amount": 100
   },
-  "temperature": 2490
+  "temperature": 1535,
+  "use_durability": false
 }

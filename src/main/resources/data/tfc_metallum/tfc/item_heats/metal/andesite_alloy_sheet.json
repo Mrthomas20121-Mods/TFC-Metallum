@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/sheet/andesite_alloy"
+    "tag": "forge:sheets/andesite_alloy"
   },
   "heat_capacity": 8,
   "forging_temperature": 312,

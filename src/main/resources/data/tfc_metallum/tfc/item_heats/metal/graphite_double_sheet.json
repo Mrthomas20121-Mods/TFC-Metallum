@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/graphite"
+    "tag": "forge:double_sheets/graphite"
   },
   "heat_capacity": 11.429,
   "forging_temperature": 300,

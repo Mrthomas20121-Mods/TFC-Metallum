@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/graphite",
     "amount": 100
   },
-  "temperature": 500
+  "temperature": 500,
+  "use_durability": false
 }

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:sheets/mithril"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/mithril",
+    "amount": 200
+  },
+  "temperature": 940,
+  "use_durability": false
+}

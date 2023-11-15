@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/ingot/antimony"
+    "tag": "forge:ingots/antimony"
   },
   "heat_capacity": 4,
   "forging_temperature": 378,

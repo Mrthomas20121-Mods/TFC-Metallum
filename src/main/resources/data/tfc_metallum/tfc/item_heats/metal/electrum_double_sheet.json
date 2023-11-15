@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/electrum"
+    "tag": "forge:double_sheets/electrum"
   },
   "heat_capacity": 8,
   "forging_temperature": 720,

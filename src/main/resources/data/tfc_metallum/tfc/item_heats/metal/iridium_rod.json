@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/iridium"
+    "tag": "forge:rods/iridium"
   },
   "heat_capacity": 1.429,
-  "forging_temperature": 1494,
-  "welding_temperature": 1992
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

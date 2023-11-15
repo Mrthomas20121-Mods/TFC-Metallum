@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:rods/beryllium_copper"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/beryllium_copper",
+    "amount": 50
+  },
+  "temperature": 1500,
+  "use_durability": false
+}

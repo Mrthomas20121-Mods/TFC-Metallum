@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/solder"
+    "tag": "forge:double_ingots/solder"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 240,

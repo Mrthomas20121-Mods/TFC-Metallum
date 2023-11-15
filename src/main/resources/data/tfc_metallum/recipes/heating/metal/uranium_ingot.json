@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:ingots/uranium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/uranium",
+    "amount": 100
+  },
+  "temperature": 1100,
+  "use_durability": false
+}

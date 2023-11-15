@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/solder"
+    "tag": "forge:double_sheets/solder"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/solder",
     "amount": 400
   },
-  "temperature": 400
+  "temperature": 400,
+  "use_durability": false
 }

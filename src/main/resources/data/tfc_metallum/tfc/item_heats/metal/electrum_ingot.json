@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/ingot/electrum"
+    "tag": "forge:ingots/electrum"
   },
   "heat_capacity": 2,
   "forging_temperature": 720,

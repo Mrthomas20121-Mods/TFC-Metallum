@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:rods/osmiridium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmiridium",
+    "amount": 50
+  },
+  "temperature": 1500,
+  "use_durability": false
+}

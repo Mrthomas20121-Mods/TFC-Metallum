@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "second_input": {
+    "item": "tfc:metal/ingot/weak_steel"
+  },
+  "tier": 4,
+  "result": {
+    "item": "tfc_metallum:metal/ingot/high_carbon_tungsten_steel"
+  }
+}

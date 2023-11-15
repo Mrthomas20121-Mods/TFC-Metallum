@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/electrum"
+    "tag": "forge:double_ingots/electrum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/electrum",
     "amount": 200
   },
-  "temperature": 1200
+  "temperature": 1200,
+  "use_durability": false
 }

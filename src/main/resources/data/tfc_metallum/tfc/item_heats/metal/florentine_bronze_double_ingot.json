@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_ingots/florentine_bronze"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 240,
+  "welding_temperature": 320
+}

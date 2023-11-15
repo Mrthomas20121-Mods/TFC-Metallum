@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/blutonium"
+    "tag": "forge:double_sheets/blutonium"
   },
   "heat_capacity": 11.429,
   "forging_temperature": 900,

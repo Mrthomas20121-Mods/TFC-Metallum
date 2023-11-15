@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/electrum",
     "amount": 100
   },
-  "temperature": 1200
+  "temperature": 1200,
+  "use_durability": false
 }

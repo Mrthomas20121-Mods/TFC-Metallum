@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:rods/refined_glowstone"
+  },
+  "heat_capacity": 1.429,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

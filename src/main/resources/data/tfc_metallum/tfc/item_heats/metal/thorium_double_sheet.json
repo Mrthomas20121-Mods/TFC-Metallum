@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_sheets/thorium"
+  },
+  "heat_capacity": 13.333,
+  "forging_temperature": 921,
+  "welding_temperature": 1228
+}

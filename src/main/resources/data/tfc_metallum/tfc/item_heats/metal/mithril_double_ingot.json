@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_ingots/mithril"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 564,
+  "welding_temperature": 752
+}

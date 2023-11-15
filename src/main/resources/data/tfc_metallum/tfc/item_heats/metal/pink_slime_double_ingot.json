@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/pink_slime"
+    "tag": "forge:double_ingots/pink_slime"
   },
   "heat_capacity": 5.714,
   "forging_temperature": 600,

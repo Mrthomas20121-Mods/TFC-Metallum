@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/ingot/constantan"
+    "tag": "forge:ingots/constantan"
   },
   "heat_capacity": 2,
   "forging_temperature": 720,

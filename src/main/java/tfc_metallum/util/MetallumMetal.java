@@ -66,8 +66,9 @@ public enum MetallumMetal implements RegistryMetal {
     THORIUM(0x787b7, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.THORIUM, MetallumArmorMaterials.THORIUM, true, true, true),
     TITANIUM(0xd8dae, Rarity.EPIC, Metal.Tier.TIER_III, MetallumTiers.TITANIUM, MetallumArmorMaterials.TITANIUM, true, true, true),
     TUNGSTEN(0x97a3b, Rarity.EPIC, Metal.Tier.TIER_III, MetallumTiers.TUNGSTEN, MetallumArmorMaterials.TUNGSTEN, true, true, true),
-    TUNGSTEN_STEEL(0x555e6, Rarity.EPIC, Metal.Tier.TIER_V, MetallumTiers.TUNGSTEN_STEEL, MetallumArmorMaterials.TUNGSTEN_STEEL, true, true, true),
-    URANIUM(0xf0f39, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.URANIUM, MetallumArmorMaterials.URANIUM, true, true, true);
+    TUNGSTEN_STEEL(0x555e6, Rarity.EPIC, Metal.Tier.TIER_IV, MetallumTiers.TUNGSTEN_STEEL, MetallumArmorMaterials.TUNGSTEN_STEEL, true, true, true),
+    URANIUM(0xf0f39, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.URANIUM, MetallumArmorMaterials.URANIUM, true, true, true),
+    HIGH_CARBON_TUNGSTEN_STEEL(0xf0f39, Rarity.UNCOMMON, Metal.Tier.TIER_IV, false, false, false);
 
     private final String serializedName;
     private final boolean parts, armor, utility;

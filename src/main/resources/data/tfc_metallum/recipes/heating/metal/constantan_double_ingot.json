@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/double_ingot/constantan"
+    "tag": "forge:double_ingots/constantan"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/constantan",
     "amount": 200
   },
-  "temperature": 1200
+  "temperature": 1200,
+  "use_durability": false
 }

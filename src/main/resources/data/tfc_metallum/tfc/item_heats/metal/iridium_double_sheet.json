@@ -1,8 +1,8 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/double_sheet/iridium"
+    "tag": "forge:double_sheets/iridium"
   },
   "heat_capacity": 11.429,
-  "forging_temperature": 1494,
-  "welding_temperature": 1992
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

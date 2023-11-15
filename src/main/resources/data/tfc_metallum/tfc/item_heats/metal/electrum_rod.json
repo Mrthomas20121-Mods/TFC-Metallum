@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/electrum"
+    "tag": "forge:rods/electrum"
   },
   "heat_capacity": 1,
   "forging_temperature": 720,

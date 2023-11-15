@@ -1,11 +1,12 @@
 {
   "type": "tfc:heating",
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/platinum"
+    "tag": "forge:rods/platinum"
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/platinum",
     "amount": 50
   },
-  "temperature": 1730
+  "temperature": 1730,
+  "use_durability": false
 }

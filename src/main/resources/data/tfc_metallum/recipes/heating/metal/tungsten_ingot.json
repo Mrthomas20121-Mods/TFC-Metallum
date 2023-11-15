@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/tungsten",
+    "amount": 100
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

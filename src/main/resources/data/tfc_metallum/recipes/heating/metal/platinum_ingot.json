@@ -7,5 +7,6 @@
     "fluid": "tfc_metallum:metal/platinum",
     "amount": 100
   },
-  "temperature": 1730
+  "temperature": 1730,
+  "use_durability": false
 }

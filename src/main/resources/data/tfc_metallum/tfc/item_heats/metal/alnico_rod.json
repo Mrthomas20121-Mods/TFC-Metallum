@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metallum:metal/rod/alnico"
+    "tag": "forge:rods/alnico"
   },
   "heat_capacity": 1.429,
   "forging_temperature": 900,
