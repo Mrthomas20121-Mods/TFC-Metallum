@@ -44,7 +44,7 @@ public enum MetallumMetal implements RegistryMetal {
     COBALT(0x59a6e, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.COBALT, MetallumArmorMaterials.COBALT, true, true, true),
     COMPRESSED_IRON(0xbdbdb, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.COMPRESSED_IRON, MetallumArmorMaterials.COMPRESSED_IRON, true, true, true),
     ELECTRUM(0xfbfbb, Rarity.COMMON, Metal.Tier.TIER_II, true, false, false),
-    PLATINUM(0x9CB8BF, Rarity.RARE, Metal.Tier.TIER_V, true, false, false),
+    PLATINUM(0x9CB8BF, Rarity.RARE, Metal.Tier.TIER_III, true, false, false),
     ENDERIUM(0x76f0e, Rarity.RARE, Metal.Tier.TIER_V, MetallumTiers.ENDERIUM, MetallumArmorMaterials.ENDERIUM, true, true, true),
     FERROBORON(0x6f737, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.FERROBORON, MetallumArmorMaterials.FERROBORON, true, true, true),
     FLORENTINE_BRONZE(0xAA924C, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.FLORENTINE_BRONZE, MetallumArmorMaterials.FLORENTINE_BRONZE, true, true, true),
@@ -62,11 +62,11 @@ public enum MetallumMetal implements RegistryMetal {
     REFINED_GLOWSTONE(0xfffdc, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_GLOWSTONE, MetallumArmorMaterials.REFINED_GLOWSTONE, true, true, true),
     REFINED_OBSIDIAN(0xbc92d, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.REFINED_OBSIDIAN, MetallumArmorMaterials.REFINED_OBSIDIAN, true, true, true),
     SIGNALUM(0xffc78, Rarity.RARE, Metal.Tier.TIER_IV, MetallumTiers.SIGNALUM, MetallumArmorMaterials.SIGNALUM, true, true, true),
-    SOLDER(0x888888, Rarity.UNCOMMON, Metal.Tier.TIER_III, true, false, false),
+    SOLDER(0x888888, Rarity.UNCOMMON, Metal.Tier.TIER_II, true, false, false),
     THORIUM(0x787b7, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.THORIUM, MetallumArmorMaterials.THORIUM, true, true, true),
-    TITANIUM(0xd8dae, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.TITANIUM, MetallumArmorMaterials.TITANIUM, true, true, true),
-    TUNGSTEN(0x97a3b, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.TUNGSTEN, MetallumArmorMaterials.TUNGSTEN, true, true, true),
-    TUNGSTEN_STEEL(0x555e6, Rarity.EPIC, Metal.Tier.TIER_VI, MetallumTiers.TUNGSTEN_STEEL, MetallumArmorMaterials.TUNGSTEN_STEEL, true, true, true),
+    TITANIUM(0xd8dae, Rarity.EPIC, Metal.Tier.TIER_III, MetallumTiers.TITANIUM, MetallumArmorMaterials.TITANIUM, true, true, true),
+    TUNGSTEN(0x97a3b, Rarity.EPIC, Metal.Tier.TIER_III, MetallumTiers.TUNGSTEN, MetallumArmorMaterials.TUNGSTEN, true, true, true),
+    TUNGSTEN_STEEL(0x555e6, Rarity.EPIC, Metal.Tier.TIER_V, MetallumTiers.TUNGSTEN_STEEL, MetallumArmorMaterials.TUNGSTEN_STEEL, true, true, true),
     URANIUM(0xf0f39, Rarity.UNCOMMON, Metal.Tier.TIER_III, MetallumTiers.URANIUM, MetallumArmorMaterials.URANIUM, true, true, true);
 
     private final String serializedName;
