@@ -2,12 +2,8 @@
   "type": "tfc:cluster_vein",
   "config": {
     "rarity": 100,
-    "min_y": {
-      "absolute": -64
-    },
-    "max_y": {
-      "absolute": 35
-    },
+    "min_y": -64,
+    "max_y": 35,
     "size": 20,
     "density": 0.6,
     "blocks": [
@@ -147,6 +143,9 @@
     ],
     "indicator": {
       "rarity": 12,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "depth": 35,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_uraninite"

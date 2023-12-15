@@ -2,12 +2,8 @@
   "type": "tfc:cluster_vein",
   "config": {
     "rarity": 15,
-    "min_y": {
-      "absolute": 60
-    },
-    "max_y": {
-      "absolute": 100
-    },
+    "min_y": 60,
+    "max_y": 100,
     "size": 15,
     "density": 0.3,
     "blocks": [
@@ -209,6 +205,9 @@
     ],
     "indicator": {
       "rarity": 6,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "depth": 35,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_wolframite"

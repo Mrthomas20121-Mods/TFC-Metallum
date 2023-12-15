@@ -29,7 +29,7 @@ archivesBaseName = 'TFC Metallum 1.18.2'
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 minecraft {
-    mappings channel: 'official', version: '1.18.2'
+    mappings channel: 'official', version: '1.20.1'
 
     runs {
         client {
@@ -117,8 +117,8 @@ dependencies {
 
     implementation fg.deobf("curse.maven:terrafirmacraft-302973:${tfc_version}")
 
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.1.232:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.1.232")
+    compileOnly fg.deobf("mezz.jei:jei-1.20.1-forge-api:15.2.0.27")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.20.1-forge:15.2.0.27")
 
     compileOnly fg.deobf("vazkii.patchouli:Patchouli:${patchouli_version}")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${patchouli_version}")

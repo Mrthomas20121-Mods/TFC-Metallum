@@ -1,15 +1,15 @@
 package tfc_metallum.common.fluids;
 
-import net.dries007.tfc.common.fluids.FlowingFluidRegistryObject;
-import net.dries007.tfc.common.fluids.FluidType;
-import net.dries007.tfc.common.fluids.MoltenFluid;
+import net.dries007.tfc.common.fluids.*;
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.registry.RegistrationHelpers;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.level.material.FlowingFluid;
 import net.minecraft.world.level.material.Fluid;
-import net.minecraftforge.fluids.FluidAttributes;
+import net.minecraft.world.level.pathfinder.BlockPathTypes;
+import net.minecraftforge.common.SoundActions;
+import net.minecraftforge.fluids.FluidType;
 import net.minecraftforge.fluids.ForgeFlowingFluid;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -22,30 +22,32 @@ import java.util.Map;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
-import static net.dries007.tfc.common.fluids.TFCFluids.ALPHA_MASK;
-
 public class MetallumFluids {
 
+    public static final DeferredRegister<FluidType> FLUID_TYPES = DeferredRegister.create(ForgeRegistries.Keys.FLUID_TYPES, TFCMetallum.mod_id);
     public static final DeferredRegister<Fluid> FLUIDS = DeferredRegister.create(ForgeRegistries.FLUIDS, TFCMetallum.mod_id);
 
-    public static final Map<MetallumMetal, FlowingFluidRegistryObject<ForgeFlowingFluid>> METALS = Helpers.mapOfKeys(MetallumMetal.class, metal -> register(
-            "metal/" + metal.getSerializedName(),
-            "metal/flowing_" + metal.getSerializedName(),
-            properties -> properties.block(MetallumBlocks.METAL_FLUIDS.get(metal)).bucket(MetallumItems.METAL_FLUID_BUCKETS.get(metal)).explosionResistance(100),
-            FluidAttributes.builder(new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_still"), new ResourceLocation("tfc_metallum:block/metal/fluid/"+metal.getSerializedName()+"_flow"))
-                    .translationKey("fluid.tfc_metallum.metal." + metal.getSerializedName())
-                    .rarity(metal.getRarity())
-                    .luminosity(15)
-                    .density(3000)
-                    .viscosity(6000)
-                    .temperature(1300)
-                    .sound(SoundEvents.BUCKET_FILL_LAVA, SoundEvents.BUCKET_EMPTY_LAVA),
-            MoltenFluid.Source::new,
-            MoltenFluid.Flowing::new
-    ));
+    private static FluidType.Properties lavaLike() {
+        return FluidType.Properties.create().adjacentPathType(BlockPathTypes.LAVA)
+                .sound(SoundActions.BUCKET_FILL, SoundEvents.BUCKET_FILL)
+                .sound(SoundActions.BUCKET_EMPTY, SoundEvents.BUCKET_EMPTY_LAVA)
+                .lightLevel(15).density(3000).viscosity(6000).temperature(1300)
+                .canConvertToSource(false).canDrown(false).canExtinguish(false)
+                .canHydrate(false).canPushEntity(false).canSwim(false).supportsBoating(false);
+    }
 
-    private static <F extends FlowingFluid> FlowingFluidRegistryObject<F> register(String sourceName, String flowingName, Consumer<ForgeFlowingFluid.Properties> builder, FluidAttributes.Builder attributes, Function<ForgeFlowingFluid.Properties, F> sourceFactory, Function<ForgeFlowingFluid.Properties, F> flowingFactory)
-    {
-        return RegistrationHelpers.registerFluid(FLUIDS, sourceName, flowingName, builder, attributes, sourceFactory, flowingFactory);
+    public static final Map<MetallumMetal, FluidRegistryObject<ForgeFlowingFluid>> METALS = Helpers.mapOfKeys(MetallumMetal.class, metal -> register(
+            "metal/" + metal.getSerializedName(),
+            properties -> properties.block(MetallumBlocks.METAL_FLUIDS.get(metal)).bucket(MetallumItems.METAL_FLUID_BUCKETS.get(FluidId.asType(metal))).explosionResistance(100.0F),
+            lavaLike().descriptionId("fluid.tfc.metal." + metal.getSerializedName()).rarity(metal.getRarity()),
+            new FluidTypeClientProperties(-16777216 | metal.getColor(), new ResourceLocation("tfc_metallum:block/metal/fluid/" + metal.getSerializedName() + "_still"),
+                    new ResourceLocation("tfc_metallum:block/metal/fluid/" + metal.getSerializedName() + "_flow"), null, null),
+            MoltenFluid.Source::new,
+            MoltenFluid.Flowing::new));
+
+    private static <F extends FlowingFluid> FluidRegistryObject<F> register(String name, Consumer<ForgeFlowingFluid.Properties> builder, FluidType.Properties typeProperties, FluidTypeClientProperties clientProperties, Function<ForgeFlowingFluid.Properties, F> sourceFactory, Function<ForgeFlowingFluid.Properties, F> flowingFactory) {
+        int index = name.lastIndexOf(47);
+        String flowingName = index == -1 ? "flowing_" + name : name.substring(0, index) + "/flowing_" + name.substring(index + 1);
+        return RegistrationHelpers.registerFluid(FLUID_TYPES, FLUIDS, name, name, flowingName, builder, () -> new ExtendedFluidType(typeProperties, clientProperties), sourceFactory, flowingFactory);
     }
 }

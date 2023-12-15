@@ -2,6 +2,7 @@ package tfc_metallum.common.block_entities;
 
 import net.dries007.tfc.common.blockentities.TFCBellBlockEntity;
 import net.dries007.tfc.util.registry.RegistrationHelpers;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.entity.BlockEntityType;
@@ -16,7 +17,7 @@ import java.util.stream.Stream;
 
 public class MetallumBlockEntities {
 
-    public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES = DeferredRegister.create(ForgeRegistries.BLOCK_ENTITIES, TFCMetallum.mod_id);
+    public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES = DeferredRegister.create(Registries.BLOCK_ENTITY_TYPE, TFCMetallum.mod_id);
 
     public static final RegistryObject<BlockEntityType<MetallumBellBlockEntity>> BELL = register("bell", MetallumBellBlockEntity::new, Stream.of(MetallumBlocks.FLORENTINE_BRONZE_BELL, MetallumBlocks.BERYLLIUM_COPPER_BELL));
 

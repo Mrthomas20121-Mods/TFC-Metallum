@@ -1,11 +1,11 @@
 modLoader="javafml"
-loaderVersion="[39,)"
+loaderVersion="[47,)"
 license="MIT"
 issueTrackerURL="https://github.com/Mrthomas20121/TFC-Metallum/issues"
 
 [[mods]]
 modId="tfc_metallum"
-version="1.0.7"
+version="1.0.8"
 displayName="Metallum"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/tfc_metallum"
 authors="Mrthomas20121"
@@ -16,7 +16,7 @@ Add metals and ores from other mods to TFC.
 [[dependencies.tfc_metallum]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
-    versionRange="[39,)" #mandatory
+    versionRange="[47,)" #mandatory
     # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
     side="BOTH"

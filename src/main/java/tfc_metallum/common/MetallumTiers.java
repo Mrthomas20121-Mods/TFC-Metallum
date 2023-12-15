@@ -1,7 +1,6 @@
 package tfc_metallum.common;
 
 import net.dries007.tfc.common.TFCTags;
-import net.dries007.tfc.common.TFCTiers;
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.ToolTier;
 import net.minecraft.resources.ResourceLocation;

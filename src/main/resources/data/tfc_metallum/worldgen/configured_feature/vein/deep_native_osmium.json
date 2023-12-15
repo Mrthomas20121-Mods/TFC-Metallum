@@ -2,14 +2,13 @@
   "type": "tfc:pipe_vein",
   "config": {
     "rarity": 35,
-    "min_y": {
-      "absolute": -60
-    },
-    "max_y": {
-      "absolute": -10
-    },
+    "min_y": -60,
+    "max_y": -10,
     "size": 40,
     "density": 0.4,
+    "sign": 0,
+    "height": 0,
+    "radius": 5,
     "blocks": [
       {
         "replace": [
@@ -267,6 +266,11 @@
     "max_slant": 3,
     "indicator": {
       "rarity": 12,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_native_osmium"

@@ -2,12 +2,8 @@
   "type": "tfc:cluster_vein",
   "config": {
     "rarity": 21,
-    "min_y": {
-      "absolute": 65
-    },
-    "max_y": {
-      "absolute": 100
-    },
+    "min_y": 65,
+    "max_y": 100,
     "size": 10,
     "density": 0.3,
     "blocks": [
@@ -119,6 +115,9 @@
     ],
     "indicator": {
       "rarity": 6,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "depth": 35,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_rutile"

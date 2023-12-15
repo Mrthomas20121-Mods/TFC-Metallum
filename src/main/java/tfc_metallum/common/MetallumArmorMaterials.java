@@ -5,6 +5,7 @@ import net.dries007.tfc.util.PhysicalDamageType;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.crafting.Ingredient;
 import tfc_metallum.TFCMetallum;
@@ -21,8 +22,8 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     INVAR(350, 410, 365, 340, 1, 5, 7, 1, 14, 0f, 0f, 18, 10, 8.25f),
     COMPRESSED_IRON(450, 500, 538, 380, 1, 4, 5, 2, 15, 0f, 0f, 21, 21, 14.2f),
     COBALT(520, 570, 535, 510, 1, 7, 5, 1, 13, 0f, 0f, 15, 15, 13.25f),
-    OSMIRIDIUM(610, 600, 590, 545, 1,  6, 7, 1, 15, 0f, 0f, 17, 17, 17f),
-    OSMIUM(610, 600, 590, 545, 1,  6, 7, 1, 15, 0f, 0f, 13, 13, 13f),
+    OSMIRIDIUM(610, 600, 590, 545, 1, 6, 7, 1, 15, 0f, 0f, 17, 17, 17f),
+    OSMIUM(610, 600, 590, 545, 1, 6, 7, 1, 15, 0f, 0f, 13, 13, 13f),
     URANIUM(520, 510, 490, 475, 1, 6, 8, 1, 12, 0.5f, 0.5f, 10, 17, 10f),
     BERYLLIUM_COPPER(620, 610, 600, 555, 2, 6, 5, 3, 19, 0.5f, 0f, 13, 13, 13f),
     PEWTER(500, 490, 480, 435, 1, 7, 6, 1, 20, 0.5f, 0f, 17, 10, 8.25f),
@@ -54,8 +55,7 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     private final float piercingModifier;
     private final float slashingModifier;
 
-    MetallumArmorMaterials(int feetDamage, int legDamage, int chestDamage, int headDamage, int feetReduction, int legReduction, int chestReduction, int headReduction, int enchantability, float toughness, float knockbackResistance, float crushingModifier, float piercingModifier, float slashingModifier)
-    {
+    MetallumArmorMaterials(int feetDamage, int legDamage, int chestDamage, int headDamage, int feetReduction, int legReduction, int chestReduction, int headReduction, int enchantability, float toughness, float knockbackResistance, float crushingModifier, float piercingModifier, float slashingModifier) {
         this.serializedName = new ResourceLocation(TFCMetallum.mod_id, name().toLowerCase(Locale.ROOT));
         this.feetDamage = feetDamage;
         this.legDamage = legDamage;
@@ -76,59 +76,49 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     }
 
     @Override
-    public float crushing()
-    {
+    public float crushing() {
         return crushingModifier;
     }
 
     @Override
-    public float piercing()
-    {
+    public float piercing() {
         return piercingModifier;
     }
 
     @Override
-    public float slashing()
-    {
+    public float slashing() {
         return slashingModifier;
     }
 
+
     @Override
-    public int getDurabilityForSlot(EquipmentSlot slot)
-    {
-        return switch (slot)
-                {
-                    case FEET -> feetDamage;
-                    case LEGS -> legDamage;
-                    case CHEST -> chestDamage;
-                    case HEAD -> headDamage;
-                    default -> 0;
-                };
+    public int getDurabilityForType(ArmorItem.Type type) {
+        return switch (type) {
+            case BOOTS -> feetDamage;
+            case LEGGINGS -> legDamage;
+            case CHESTPLATE -> chestDamage;
+            case HELMET -> headDamage;
+        };
     }
 
     @Override
-    public int getDefenseForSlot(EquipmentSlot slot)
-    {
-        return switch (slot)
-                {
-                    case FEET -> feetReduction;
-                    case LEGS -> legReduction;
-                    case CHEST -> chestReduction;
-                    case HEAD -> headReduction;
-                    default -> 0;
-                };
+    public int getDefenseForType(ArmorItem.Type type) {
+        return switch (type) {
+            case BOOTS -> feetReduction;
+            case LEGGINGS -> legReduction;
+            case CHESTPLATE -> chestReduction;
+            case HELMET -> headReduction;
+        };
     }
 
     @Override
-    public int getEnchantmentValue()
-    {
+    public int getEnchantmentValue() {
         return enchantability;
     }
 
     @Nonnull
     @Override
-    public SoundEvent getEquipSound()
-    {
+    public SoundEvent getEquipSound() {
         return TFCSounds.ARMOR_EQUIP.get(this).get();
     }
 
@@ -138,34 +128,29 @@ public enum MetallumArmorMaterials implements ArmorMaterial, PhysicalDamageType.
     @Nonnull
     @Override
     @Deprecated
-    public String getName()
-    {
+    public String getName() {
         // Note that in HumanoidArmorLayer, the result of getName() is used directly in order to infer the armor texture location
         // So, this needs to be properly namespaced despite being a string.
         return serializedName.toString();
     }
 
-    public ResourceLocation getId()
-    {
+    public ResourceLocation getId() {
         return serializedName;
     }
 
     @Override
-    public float getToughness()
-    {
+    public float getToughness() {
         return toughness;
     }
 
     @Override
-    public float getKnockbackResistance()
-    {
+    public float getKnockbackResistance() {
         return knockbackResistance;
     }
 
     @Nonnull
     @Override
-    public Ingredient getRepairIngredient()
-    {
+    public Ingredient getRepairIngredient() {
         return Ingredient.EMPTY;
     }
 }

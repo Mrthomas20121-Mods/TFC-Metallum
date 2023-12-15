@@ -2,12 +2,8 @@
   "type": "tfc:cluster_vein",
   "config": {
     "rarity": 17,
-    "min_y": {
-      "absolute": -50
-    },
-    "max_y": {
-      "absolute": 40
-    },
+    "min_y": -50,
+    "max_y": 40,
     "size": 13,
     "density": 0.4,
     "blocks": [
@@ -128,6 +124,9 @@
     ],
     "indicator": {
       "rarity": 12,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "depth": 35,
       "blocks": [
         {
           "block": "tfc_metallum:ore/small_native_platinum"

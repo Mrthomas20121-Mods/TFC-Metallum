@@ -15,8 +15,9 @@ import net.minecraft.world.item.*;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.TrapDoorBlock;
-import net.minecraft.world.level.material.Material;
-import net.minecraft.world.level.material.MaterialColor;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.block.state.properties.BlockSetType;
+import net.minecraft.world.level.material.MapColor;
 import tfc_metallum.common.MetallumItemGroup;
 import tfc_metallum.common.MetallumTiers;
 import tfc_metallum.common.MetallumArmorMaterials;
@@ -157,6 +158,16 @@ public enum MetallumMetal implements RegistryMetal {
         return metalTier;
     }
 
+    @Override
+    public Supplier<Block> getFullBlock() {
+        return null;
+    }
+
+    @Override
+    public MapColor mapColor() {
+        return null;
+    }
+
     private enum Type {
         DEFAULT((metal) -> true),
         PART(MetallumMetal::hasParts),
@@ -221,7 +232,7 @@ public enum MetallumMetal implements RegistryMetal {
         }),
         SAW_BLADE(Type.TOOL, true),
         JAVELIN(Type.TOOL, (metal) -> {
-            return new JavelinItem(metal.toolTier(), ToolItem.calculateVanillaAttackDamage(1.0F, metal.toolTier()), -2.2F, properties(), metal.getSerializedName());
+            return new JavelinItem(metal.toolTier(), ToolItem.calculateVanillaAttackDamage(1.0F, metal.toolTier()), -2.2F, 2f, properties(), metal.getSerializedName()); //todo attackspeed is new
         }),
         JAVELIN_HEAD(Type.TOOL, true),
         SWORD(Type.TOOL, (metal) -> {
@@ -245,19 +256,19 @@ public enum MetallumMetal implements RegistryMetal {
         }),
         UNFINISHED_HELMET(Type.ARMOR, false),
         HELMET(Type.ARMOR, (metal) -> {
-            return new ArmorItem(metal.armorTier(), EquipmentSlot.HEAD, properties());
+            return new ArmorItem(metal.armorTier(), ArmorItem.Type.HELMET, properties());
         }),
         UNFINISHED_CHESTPLATE(Type.ARMOR, false),
         CHESTPLATE(Type.ARMOR, (metal) -> {
-            return new ArmorItem(metal.armorTier(), EquipmentSlot.CHEST, properties());
+            return new ArmorItem(metal.armorTier(), ArmorItem.Type.CHESTPLATE, properties());
         }),
         UNFINISHED_GREAVES(Type.ARMOR, false),
         GREAVES(Type.ARMOR, (metal) -> {
-            return new ArmorItem(metal.armorTier(), EquipmentSlot.LEGS, properties());
+            return new ArmorItem(metal.armorTier(), ArmorItem.Type.LEGGINGS, properties());
         }),
         UNFINISHED_BOOTS(Type.ARMOR, false),
         BOOTS(Type.ARMOR, (metal) -> {
-            return new ArmorItem(metal.armorTier(), EquipmentSlot.FEET, properties());
+            return new ArmorItem(metal.armorTier(), ArmorItem.Type.BOOTS, properties());
         }),
         SHIELD(Type.TOOL, (metal) -> {
             return new TFCShieldItem(metal.toolTier(), properties());
@@ -268,7 +279,7 @@ public enum MetallumMetal implements RegistryMetal {
         private final boolean mold;
 
         public static Item.Properties properties() {
-            return (new Item.Properties()).tab(MetallumItemGroup.METAL);
+            return (new Item.Properties());//todo .tab(MetallumItemGroup.METAL);
         }
 
         ItemType(Type type, boolean mold) {
@@ -302,20 +313,20 @@ public enum MetallumMetal implements RegistryMetal {
 
     public enum BlockType {
         ANVIL(Type.UTILITY, (metal) -> {
-            return new AnvilBlock(ExtendedProperties.of(Material.METAL).noOcclusion().sound(SoundType.METAL).strength(10.0F, 10.0F).requiresCorrectToolForDrops().blockEntity(TFCBlockEntities.ANVIL), metal.metalTier());
+            return new AnvilBlock(ExtendedProperties.of().mapColor(MapColor.METAL).noOcclusion().sound(SoundType.METAL).strength(10.0F, 10.0F).requiresCorrectToolForDrops().blockEntity(TFCBlockEntities.ANVIL), metal.metalTier());
         }),
         CHAIN(Type.UTILITY, (metal) -> {
-            return new TFCChainBlock(net.minecraft.world.level.block.state.BlockBehaviour.Properties.of(Material.METAL, MaterialColor.NONE).requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.CHAIN));
+            return new TFCChainBlock(BlockBehaviour.Properties.of().mapColor(MapColor.METAL).requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.CHAIN));
         }),
         LAMP(Type.UTILITY, (metal) -> {
-            return new LampBlock(ExtendedProperties.of(Material.METAL).noOcclusion().sound(SoundType.LANTERN).strength(4.0F, 10.0F).randomTicks().lightLevel((state) -> {
+            return new LampBlock(ExtendedProperties.of(MapColor.METAL).noOcclusion().sound(SoundType.LANTERN).strength(4.0F, 10.0F).randomTicks().lightLevel((state) -> {
                 return (Boolean)state.getValue(LampBlock.LIT) ? 15 : 0;
             }).blockEntity(TFCBlockEntities.LAMP));
         }, (block, properties) -> {
             return new LampBlockItem(block, properties);
         }),
         TRAPDOOR(Type.UTILITY, (metal) -> {
-            return new TrapDoorBlock(net.minecraft.world.level.block.state.BlockBehaviour.Properties.of(Material.METAL).requiresCorrectToolForDrops().strength(5.0F).sound(SoundType.METAL).noOcclusion().isValidSpawn(TFCBlocks::never));
+            return new TrapDoorBlock(BlockBehaviour.Properties.of().mapColor(MapColor.METAL).requiresCorrectToolForDrops().strength(5.0F).sound(SoundType.METAL).noOcclusion().isValidSpawn(TFCBlocks::never), BlockSetType.IRON);
         });
 
         private final Function<RegistryMetal, Block> blockFactory;

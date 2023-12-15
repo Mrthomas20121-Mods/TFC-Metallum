@@ -27,12 +27,12 @@ public class ClientEvents {
     public static void init() {
         final IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
         bus.addListener(ClientEvents::clientSetup);
-        bus.addListener(ClientEvents::onTextureStitch);
+//        bus.addListener(ClientEvents::onTextureStitch);
         bus.addListener(ClientEvents::registerEntitiesRenderer);
         bus.addListener(ClientEvents::registerLayerDefinitions);
     }
 
-    public static void onTextureStitch(TextureStitchEvent.Pre event) {
+/*    public static void onTextureStitch(TextureStitchEvent.Pre event) {
         final ResourceLocation sheet = event.getAtlas().location();
         if (sheet.equals(RenderHelpers.BLOCKS_ATLAS)) {
             for (MetallumMetal metal : MetallumMetal.values())
@@ -42,7 +42,7 @@ public class ClientEvents {
             event.addSprite(Helpers.identifier("entity/bell/beryllium_copper"));
             event.addSprite(Helpers.identifier("entity/bell/florentine_bronze"));
         }
-    }
+    }*/
 
     public static void clientSetup(FMLClientSetupEvent event) {
 
