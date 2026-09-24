@@ -1,35 +1,16 @@
-buildscript {
-    repositories {
-        maven { url = 'https://maven.minecraftforge.net' }
-        mavenCentral()
-        maven {
-            name = "sonatype"
-            url = "https://oss.sonatype.org/content/repositories/snapshots/"
-        }
-        maven {
-            url "https://plugins.gradle.org/m2/"
-        }
-        maven {
-            url "https://repo.spongepowered.org/repository/maven-public/"
-            content { includeGroup "org.spongepowered" }
-        }
-    }
-    dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
-    }
+plugins {
+    id 'net.neoforged.gradle' version '[6.0.18,6.2)'
+    id 'org.parchmentmc.librarian.forgegradle' version '1.+'
 }
-apply plugin: 'net.minecraftforge.gradle'
-apply plugin: 'eclipse'
-apply from: 'https://raw.githubusercontent.com/SizableShrimp/Forge-Class-Remapper/main/classremapper.gradle'
 
 version = mod_version
-group = 'tfc_metallum'
-archivesBaseName = 'TFC Metallum 1.18.2'
+group = 'mrthomas20121.tfc_metallum_modern'
+archivesBaseName = "TFC Metallum: Modern ${mc_version}"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 minecraft {
-    mappings channel: 'official', version: '1.18.2'
+    mappings channel: 'official', version: mc_version
 
     runs {
         client {
@@ -37,13 +18,13 @@ minecraft {
 
             property 'forge.logging.markers', 'REGISTRIES'
 
-            property 'forge.logging.console.level', 'debug'
-
             property 'mixin.env.remapRefMap', 'true'
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
+            property 'forge.logging.console.level', 'debug'
+
             mods {
-                tfc_metallum {
+                tfc_metallum_modern {
                     source sourceSets.main
                 }
             }
@@ -54,13 +35,13 @@ minecraft {
 
             property 'forge.logging.markers', 'REGISTRIES'
 
-            property 'forge.logging.console.level', 'debug'
-
             property 'mixin.env.remapRefMap', 'true'
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
+            property 'forge.logging.console.level', 'debug'
+
             mods {
-                tfc_metallum {
+                tfc_metallum_modern {
                     source sourceSets.main
                 }
             }
@@ -76,10 +57,10 @@ minecraft {
             property 'mixin.env.remapRefMap', 'true'
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
-            args '--mod', 'tfc_metallum', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'tfc_metallum_modern', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                tfc_metallum {
+                tfc_metallum_modern {
                     source sourceSets.main
                 }
             }
@@ -91,21 +72,34 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 repositories {
+    maven { url = 'https://maven.minecraftforge.net/' }
     maven {
-        name "Curio"
-        url "https://maven.theillusivec4.top/"
+        name = "Modmaven"
+        url = uri("https://modmaven.dev/")
+
+        content {
+            includeGroup("appeng")
+        }
     }
     maven {
-        name 'crafttweaker'
-        url 'https://maven.blamejared.com'
+        name 'Thermal Maven'
+        url 'https://maven.covers1624.net/'
     }
-    maven { // JEI
-        name 'Prog Maven'
-        url 'https://dvs1.progwml6.com/files/maven'
+    maven { // TOP
+        url 'https://maven.tterrag.com/'
+    }
+    maven { // JEI and Tinkers
+        url 'https://dvs1.progwml6.com/files/maven/'
+    }
+    maven { // Patchouli
+        url 'https://maven.blamejared.com/'
+    }
+    maven { // Curios
+        url 'https://maven.theillusivec4.top/'
     }
     maven {
-        name 'cursemaven'
-        url "https://cfa2.cursemaven.com"
+        name "cf"
+        url "https://cursemaven.com/"
         content {
             includeGroup "curse.maven"
         }
@@ -113,26 +107,31 @@ repositories {
 }
 
 dependencies {
-    minecraft "net.minecraftforge:forge:${forge_version}"
+    minecraft "net.neoforged:forge:${mc_version}-${neoforge_version}"
 
-    implementation fg.deobf("curse.maven:terrafirmacraft-302973:${tfc_version}")
+	implementation fg.deobf("curse.maven:terrafirmacraft-302973:8762332")
 
-    compileOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.1.232:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-1.18.2:9.7.1.232")
+    // compile against the JEI API but do not include it at runtime
+    compileOnly fg.deobf("mezz.jei:jei-${mc_version}-common-api:${jei_version}")
+    compileOnly fg.deobf("mezz.jei:jei-${mc_version}-forge-api:${jei_version}")
 
-    compileOnly fg.deobf("vazkii.patchouli:Patchouli:${patchouli_version}")
+    // at runtime, use the full JEI
+    runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}-common:${jei_version}")
+    runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}")
+
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:${patchouli_version}:api")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:${patchouli_version}")
 }
 
 jar {
     manifest {
         attributes([
-            "Specification-Title": "TFC Metallum",
+            "Specification-Title": "TFC Metallum: Modern",
             "Specification-Vendor": "Mrthomas20121",
-            "Specification-Version": "1",
+            "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,
             "Implementation-Version": project.version,
-            "Implementation-Vendor" :"tfc_metallum",
+            "Implementation-Vendor" : "tfc_metallum_modern",
             "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
