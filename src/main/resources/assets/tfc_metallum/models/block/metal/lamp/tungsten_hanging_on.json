@@ -1,8 +1,0 @@
-{
-  "parent": "tfc:block/lamp_hanging",
-  "textures": {
-    "metal": "tfc_metallum:block/metal/full/tungsten",
-    "chain": "tfc_metallum:block/metal/chain/tungsten",
-    "lamp": "tfc:block/lamp"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "tfc:block/ore",
-  "textures": {
-    "all": "tfc:block/rock/raw/dolomite",
-    "particle": "tfc:block/rock/raw/dolomite",
-    "overlay": "tfc_metallum:block/ore/poor_monazite"
-  }
-}
