@@ -1,4 +1,4 @@
-package tfc_metallum;
+package tfc_metallum_modern;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
@@ -16,7 +16,7 @@ import tfc_metallum.common.items.MetallumItems;
 @Mod(TFCMetallum.mod_id)
 public class TFCMetallum {
 
-	public static final String mod_id = "tfc_metallum";
+	public static final String mod_id = "tfc_metallum_modern";
 
 	public static final Logger LOGGER = LogUtils.getLogger();
 
