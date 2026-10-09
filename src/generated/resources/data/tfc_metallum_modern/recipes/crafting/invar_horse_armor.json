@@ -1,0 +1,22 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "ZZZ"
+  ],
+  "key": {
+    "Z": {
+      "tag": "forge:double_sheets/invar"
+    },
+    "Y": {
+      "item": "tfc:jute_fiber"
+    },
+    "X": {
+      "item": "minecraft:leather_horse_armor"
+    }
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/horse_armor/invar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:alloy",
+  "result": "tfc:invar",
+  "contents": [
+    {
+      "metal": "tfc:nickel",
+      "min": 0.2,
+      "max": 0.4
+    },
+    {
+      "metal": "tfc:iron",
+      "min": 0.6,
+      "max": 0.8
+    }
+  ]
+}

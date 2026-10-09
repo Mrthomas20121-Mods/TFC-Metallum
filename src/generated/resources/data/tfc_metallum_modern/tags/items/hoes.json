@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/hoe/aluminum",
+    "tfc_metallum_modern:metal/hoe/florentine_bronze",
+    "tfc_metallum_modern:metal/hoe/ferroboron",
+    "tfc_metallum_modern:metal/hoe/cobalt",
+    "tfc_metallum_modern:metal/hoe/invar",
+    "tfc_metallum_modern:metal/hoe/britannium",
+    "tfc_metallum_modern:metal/hoe/pewter",
+    "tfc_metallum_modern:metal/hoe/osmium",
+    "tfc_metallum_modern:metal/hoe/osmiridium",
+    "tfc_metallum_modern:metal/hoe/platine_steel",
+    "tfc_metallum_modern:metal/hoe/titanium",
+    "tfc_metallum_modern:metal/hoe/titan_steel",
+    "tfc_metallum_modern:metal/hoe/tungsten_steel"
+  ]
+}

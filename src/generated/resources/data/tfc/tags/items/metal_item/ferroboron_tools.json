@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/ferroboron",
+    "tfc_metallum_modern:metal/hammer/ferroboron",
+    "tfc_metallum_modern:metal/hoe/ferroboron",
+    "tfc_metallum_modern:metal/javelin/ferroboron",
+    "tfc_metallum_modern:metal/knife/ferroboron",
+    "tfc_metallum_modern:metal/mace/ferroboron",
+    "tfc_metallum_modern:metal/pickaxe/ferroboron",
+    "tfc_metallum_modern:metal/propick/ferroboron",
+    "tfc_metallum_modern:metal/saw/ferroboron",
+    "tfc_metallum_modern:metal/scythe/ferroboron",
+    "tfc_metallum_modern:metal/shovel/ferroboron",
+    "tfc_metallum_modern:metal/sword/ferroboron",
+    "tfc_metallum_modern:metal/axe/ferroboron"
+  ]
+}

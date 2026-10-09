@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:lamp_glass"
+    },
+    {
+      "item": "tfc_metallum_modern:metal/unfinished_lamp/titan_steel"
+    }
+  ],
+  "result": {
+    "item": "tfc_metallum_modern:metal/lamp/titan_steel"
+  }
+}

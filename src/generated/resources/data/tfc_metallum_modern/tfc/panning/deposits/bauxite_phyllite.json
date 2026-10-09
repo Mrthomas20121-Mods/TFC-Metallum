@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": "tfc_metallum_modern:deposit/bauxite/phyllite",
+  "model_stages": [
+    "tfc_metallum_modern:item/pan/bauxite/phyllite_full",
+    "tfc_metallum_modern:item/pan/bauxite/phyllite_half",
+    "tfc_metallum_modern:item/pan/bauxite/result"
+  ],
+  "loot_table": "tfc_metallum_modern:panning/deposits/bauxite_phyllite"
+}

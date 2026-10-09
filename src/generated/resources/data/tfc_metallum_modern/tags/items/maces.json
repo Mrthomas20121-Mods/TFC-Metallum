@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/mace/aluminum",
+    "tfc_metallum_modern:metal/mace/florentine_bronze",
+    "tfc_metallum_modern:metal/mace/ferroboron",
+    "tfc_metallum_modern:metal/mace/cobalt",
+    "tfc_metallum_modern:metal/mace/invar",
+    "tfc_metallum_modern:metal/mace/britannium",
+    "tfc_metallum_modern:metal/mace/pewter",
+    "tfc_metallum_modern:metal/mace/osmium",
+    "tfc_metallum_modern:metal/mace/osmiridium",
+    "tfc_metallum_modern:metal/mace/platine_steel",
+    "tfc_metallum_modern:metal/mace/titanium",
+    "tfc_metallum_modern:metal/mace/titan_steel",
+    "tfc_metallum_modern:metal/mace/tungsten_steel"
+  ]
+}

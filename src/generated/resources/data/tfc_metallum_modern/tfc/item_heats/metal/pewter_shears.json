@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/shears/pewter"
+  },
+  "heat_capacity": 14.286,
+  "forging_temperature": 162,
+  "welding_temperature": 216
+}

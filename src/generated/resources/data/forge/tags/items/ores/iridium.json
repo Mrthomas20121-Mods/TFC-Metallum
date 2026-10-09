@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#tfc_metallum_modern:ores/iridium/poor",
+    "#tfc_metallum_modern:ores/iridium/normal",
+    "#tfc_metallum_modern:ores/iridium/rich"
+  ]
+}

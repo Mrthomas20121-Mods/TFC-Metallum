@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/trapdoor/aluminum",
+    "tfc_metallum_modern:metal/trapdoor/florentine_bronze",
+    "tfc_metallum_modern:metal/trapdoor/ferroboron",
+    "tfc_metallum_modern:metal/trapdoor/cobalt",
+    "tfc_metallum_modern:metal/trapdoor/invar",
+    "tfc_metallum_modern:metal/trapdoor/britannium",
+    "tfc_metallum_modern:metal/trapdoor/pewter",
+    "tfc_metallum_modern:metal/trapdoor/osmium",
+    "tfc_metallum_modern:metal/trapdoor/osmiridium",
+    "tfc_metallum_modern:metal/trapdoor/platine_steel",
+    "tfc_metallum_modern:metal/trapdoor/titanium",
+    "tfc_metallum_modern:metal/trapdoor/titan_steel",
+    "tfc_metallum_modern:metal/trapdoor/tungsten_steel"
+  ]
+}

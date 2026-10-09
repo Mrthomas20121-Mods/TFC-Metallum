@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/platinum",
+    "tfc_metallum_modern:metal/double_ingot/platinum",
+    "tfc_metallum_modern:metal/sheet/platinum",
+    "tfc_metallum_modern:metal/double_sheet/platinum",
+    "tfc_metallum_modern:metal/rod/platinum",
+    "tfc_metallum_modern:metal/block/platinum",
+    "tfc_metallum_modern:metal/block/platinum_slab",
+    "tfc_metallum_modern:metal/block/platinum_stairs"
+  ]
+}

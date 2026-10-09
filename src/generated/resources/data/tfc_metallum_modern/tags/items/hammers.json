@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/hammer/aluminum",
+    "tfc_metallum_modern:metal/hammer/florentine_bronze",
+    "tfc_metallum_modern:metal/hammer/ferroboron",
+    "tfc_metallum_modern:metal/hammer/cobalt",
+    "tfc_metallum_modern:metal/hammer/invar",
+    "tfc_metallum_modern:metal/hammer/britannium",
+    "tfc_metallum_modern:metal/hammer/pewter",
+    "tfc_metallum_modern:metal/hammer/osmium",
+    "tfc_metallum_modern:metal/hammer/osmiridium",
+    "tfc_metallum_modern:metal/hammer/platine_steel",
+    "tfc_metallum_modern:metal/hammer/titanium",
+    "tfc_metallum_modern:metal/hammer/titan_steel",
+    "tfc_metallum_modern:metal/hammer/tungsten_steel"
+  ]
+}

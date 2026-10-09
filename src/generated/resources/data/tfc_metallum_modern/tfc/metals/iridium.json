@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 3,
+  "fluid": "tfc_metallum_modern:metal/iridium",
+  "melt_temperature": 1535,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/iridium"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/iridium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/iridium"
+  }
+}

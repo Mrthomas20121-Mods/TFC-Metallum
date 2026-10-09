@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "tag": "forge:sheets/electrum"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 636,
+  "welding_temperature": 848
+}

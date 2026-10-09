@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:powder/stibnite",
+    "tfc_metallum_modern:powder/bauxite",
+    "tfc_metallum_modern:powder/boracite",
+    "tfc_metallum_modern:powder/cobaltite",
+    "tfc_metallum_modern:powder/galena",
+    "tfc_metallum_modern:powder/native_iridium",
+    "tfc_metallum_modern:powder/native_osmium",
+    "tfc_metallum_modern:powder/native_platinum",
+    "tfc_metallum_modern:powder/rutile",
+    "tfc_metallum_modern:powder/wolframite",
+    "tfc_metallum_modern:powder/uraninite"
+  ]
+}

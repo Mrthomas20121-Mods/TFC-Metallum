@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:double_sheets/antimony",
+    "#forge:double_sheets/aluminum",
+    "#forge:double_sheets/florentine_bronze",
+    "#forge:double_sheets/boron",
+    "#forge:double_sheets/ferroboron",
+    "#forge:double_sheets/cobalt",
+    "#forge:double_sheets/constantan",
+    "#forge:double_sheets/electrum",
+    "#forge:double_sheets/invar",
+    "#forge:double_sheets/lead",
+    "#forge:double_sheets/britannium",
+    "#forge:double_sheets/purple_gold",
+    "#forge:double_sheets/uranium",
+    "#forge:double_sheets/pewter",
+    "#forge:double_sheets/iridium",
+    "#forge:double_sheets/osmium",
+    "#forge:double_sheets/osmiridium",
+    "#forge:double_sheets/platinum",
+    "#forge:double_sheets/platine_steel",
+    "#forge:double_sheets/titanium",
+    "#forge:double_sheets/titan_steel",
+    "#forge:double_sheets/tungsten",
+    "#forge:double_sheets/tungsten_steel"
+  ]
+}

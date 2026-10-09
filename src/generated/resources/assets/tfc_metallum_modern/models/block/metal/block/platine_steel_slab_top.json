@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "tfc_metallum_modern:block/metal/block/platine_steel",
+    "top": "tfc_metallum_modern:block/metal/block/platine_steel",
+    "side": "tfc_metallum_modern:block/metal/block/platine_steel"
+  }
+}

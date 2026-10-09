@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/osmium",
+    "tfc_metallum_modern:metal/hammer/osmium",
+    "tfc_metallum_modern:metal/hoe/osmium",
+    "tfc_metallum_modern:metal/javelin/osmium",
+    "tfc_metallum_modern:metal/knife/osmium",
+    "tfc_metallum_modern:metal/mace/osmium",
+    "tfc_metallum_modern:metal/pickaxe/osmium",
+    "tfc_metallum_modern:metal/propick/osmium",
+    "tfc_metallum_modern:metal/saw/osmium",
+    "tfc_metallum_modern:metal/scythe/osmium",
+    "tfc_metallum_modern:metal/shovel/osmium",
+    "tfc_metallum_modern:metal/sword/osmium",
+    "tfc_metallum_modern:metal/axe/osmium"
+  ]
+}

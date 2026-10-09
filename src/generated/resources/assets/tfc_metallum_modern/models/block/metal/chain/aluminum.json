@@ -1,0 +1,8 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "minecraft:block/chain",
+  "textures": {
+    "all": "tfc_metallum_modern:block/metal/chain/aluminum",
+    "particle": "tfc_metallum_modern:block/metal/chain/aluminum"
+  }
+}

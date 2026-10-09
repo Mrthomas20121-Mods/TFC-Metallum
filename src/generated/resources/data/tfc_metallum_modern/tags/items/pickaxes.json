@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/pickaxe/aluminum",
+    "tfc_metallum_modern:metal/pickaxe/florentine_bronze",
+    "tfc_metallum_modern:metal/pickaxe/ferroboron",
+    "tfc_metallum_modern:metal/pickaxe/cobalt",
+    "tfc_metallum_modern:metal/pickaxe/invar",
+    "tfc_metallum_modern:metal/pickaxe/britannium",
+    "tfc_metallum_modern:metal/pickaxe/pewter",
+    "tfc_metallum_modern:metal/pickaxe/osmium",
+    "tfc_metallum_modern:metal/pickaxe/osmiridium",
+    "tfc_metallum_modern:metal/pickaxe/platine_steel",
+    "tfc_metallum_modern:metal/pickaxe/titanium",
+    "tfc_metallum_modern:metal/pickaxe/titan_steel",
+    "tfc_metallum_modern:metal/pickaxe/tungsten_steel"
+  ]
+}

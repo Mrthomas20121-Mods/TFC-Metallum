@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "minecraft:block/iron_bars_side_alt",
+  "textures": {
+    "particle": "tfc_metallum_modern:block/metal/bars/osmiridium",
+    "bars": "tfc_metallum_modern:block/metal/bars/osmiridium",
+    "edge": "tfc_metallum_modern:block/metal/smooth/osmiridium"
+  }
+}

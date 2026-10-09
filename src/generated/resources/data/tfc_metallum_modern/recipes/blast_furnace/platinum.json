@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:blast_furnace",
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/unrefined_platinum",
+    "amount": 1
+  },
+  "result": {
+    "fluid": "tfc_metallum_modern:metal/platinum",
+    "amount": 1
+  },
+  "catalyst": {
+    "tag": "tfc:flux"
+  }
+}

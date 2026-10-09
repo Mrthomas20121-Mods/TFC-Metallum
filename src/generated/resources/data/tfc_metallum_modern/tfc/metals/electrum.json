@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 3,
+  "fluid": "tfc_metallum_modern:metal/electrum",
+  "melt_temperature": 1060,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/electrum"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/electrum"
+  },
+  "sheets": {
+    "tag": "forge:sheets/electrum"
+  }
+}

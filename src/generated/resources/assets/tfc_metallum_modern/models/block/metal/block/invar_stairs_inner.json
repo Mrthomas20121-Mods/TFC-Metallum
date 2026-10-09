@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metallum_modern:block/metal/block/invar",
+    "top": "tfc_metallum_modern:block/metal/block/invar",
+    "side": "tfc_metallum_modern:block/metal/block/invar"
+  }
+}

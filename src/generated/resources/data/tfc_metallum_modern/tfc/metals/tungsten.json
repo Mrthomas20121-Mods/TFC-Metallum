@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 5,
+  "fluid": "tfc_metallum_modern:metal/tungsten",
+  "melt_temperature": 1535,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/tungsten"
+  },
+  "sheets": {
+    "tag": "forge:sheets/tungsten"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/double_sheet/boron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/boron",
+    "amount": 400
+  },
+  "temperature": 575
+}

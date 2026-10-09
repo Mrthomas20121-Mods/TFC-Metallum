@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/platine_steel",
+    "tfc_metallum_modern:metal/hammer/platine_steel",
+    "tfc_metallum_modern:metal/hoe/platine_steel",
+    "tfc_metallum_modern:metal/javelin/platine_steel",
+    "tfc_metallum_modern:metal/knife/platine_steel",
+    "tfc_metallum_modern:metal/mace/platine_steel",
+    "tfc_metallum_modern:metal/pickaxe/platine_steel",
+    "tfc_metallum_modern:metal/propick/platine_steel",
+    "tfc_metallum_modern:metal/saw/platine_steel",
+    "tfc_metallum_modern:metal/scythe/platine_steel",
+    "tfc_metallum_modern:metal/shovel/platine_steel",
+    "tfc_metallum_modern:metal/sword/platine_steel",
+    "tfc_metallum_modern:metal/axe/platine_steel"
+  ]
+}

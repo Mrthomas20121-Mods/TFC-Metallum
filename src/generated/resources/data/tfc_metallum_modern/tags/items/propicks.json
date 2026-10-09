@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/propick/aluminum",
+    "tfc_metallum_modern:metal/propick/florentine_bronze",
+    "tfc_metallum_modern:metal/propick/ferroboron",
+    "tfc_metallum_modern:metal/propick/cobalt",
+    "tfc_metallum_modern:metal/propick/invar",
+    "tfc_metallum_modern:metal/propick/britannium",
+    "tfc_metallum_modern:metal/propick/pewter",
+    "tfc_metallum_modern:metal/propick/osmium",
+    "tfc_metallum_modern:metal/propick/osmiridium",
+    "tfc_metallum_modern:metal/propick/platine_steel",
+    "tfc_metallum_modern:metal/propick/titanium",
+    "tfc_metallum_modern:metal/propick/titan_steel",
+    "tfc_metallum_modern:metal/propick/tungsten_steel"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/aluminum",
+    "tfc_metallum_modern:metal/britannium",
+    "tfc_metallum_modern:metal/florentine_bronze",
+    "tfc_metallum_modern:metal/pewter"
+  ]
+}

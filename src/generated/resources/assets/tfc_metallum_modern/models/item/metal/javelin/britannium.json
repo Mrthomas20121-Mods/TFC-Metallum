@@ -1,0 +1,33 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "loader": "forge:separate_transforms",
+  "textures": {
+    "particle": "tfc_metallum_modern:item/metal/javelin/britannium"
+  },
+  "gui_light": "front",
+  "overrides": [
+    {
+      "predicate": {
+        "tfc:throwing": 1
+      },
+      "model": "tfc_metallum_modern:item/metal/javelin/britannium_throwing"
+    }
+  ],
+  "base": {
+    "parent": "tfc_metallum_modern:item/metal/javelin/britannium_in_hand"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/britannium_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/britannium_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/britannium_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/britannium_gui"
+    }
+  }
+}

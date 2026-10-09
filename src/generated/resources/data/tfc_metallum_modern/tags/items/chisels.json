@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/aluminum",
+    "tfc_metallum_modern:metal/chisel/florentine_bronze",
+    "tfc_metallum_modern:metal/chisel/ferroboron",
+    "tfc_metallum_modern:metal/chisel/cobalt",
+    "tfc_metallum_modern:metal/chisel/invar",
+    "tfc_metallum_modern:metal/chisel/britannium",
+    "tfc_metallum_modern:metal/chisel/pewter",
+    "tfc_metallum_modern:metal/chisel/osmium",
+    "tfc_metallum_modern:metal/chisel/osmiridium",
+    "tfc_metallum_modern:metal/chisel/platine_steel",
+    "tfc_metallum_modern:metal/chisel/titanium",
+    "tfc_metallum_modern:metal/chisel/titan_steel",
+    "tfc_metallum_modern:metal/chisel/tungsten_steel"
+  ]
+}

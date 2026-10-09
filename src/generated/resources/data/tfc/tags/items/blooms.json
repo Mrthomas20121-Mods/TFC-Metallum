@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:raw_cobalt_bloom",
+    "tfc_metallum_modern:refined_cobalt_bloom",
+    "tfc_metallum_modern:raw_iridium_bloom",
+    "tfc_metallum_modern:refined_iridium_bloom",
+    "tfc_metallum_modern:raw_osmium_bloom",
+    "tfc_metallum_modern:refined_osmium_bloom",
+    "tfc_metallum_modern:raw_platinum_bloom",
+    "tfc_metallum_modern:refined_platinum_bloom",
+    "tfc_metallum_modern:raw_titanium_bloom",
+    "tfc_metallum_modern:refined_titanium_bloom",
+    "tfc_metallum_modern:raw_tungsten_bloom",
+    "tfc_metallum_modern:refined_tungsten_bloom",
+    "tfc_metallum_modern:raw_uranium_bloom",
+    "tfc_metallum_modern:refined_uranium_bloom"
+  ]
+}

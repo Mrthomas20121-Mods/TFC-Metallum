@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 2,
+  "fluid": "tfc_metallum_modern:metal/florentine_bronze",
+  "melt_temperature": 1000,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/florentine_bronze"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/florentine_bronze"
+  },
+  "sheets": {
+    "tag": "forge:sheets/florentine_bronze"
+  }
+}

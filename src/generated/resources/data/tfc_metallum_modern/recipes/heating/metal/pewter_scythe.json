@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/scythe/pewter"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/pewter",
+    "amount": 100
+  },
+  "temperature": 270,
+  "use_durability": true
+}

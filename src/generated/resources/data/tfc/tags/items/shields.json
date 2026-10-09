@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/shield/aluminum",
+    "tfc_metallum_modern:metal/shield/florentine_bronze",
+    "tfc_metallum_modern:metal/shield/ferroboron",
+    "tfc_metallum_modern:metal/shield/cobalt",
+    "tfc_metallum_modern:metal/shield/invar",
+    "tfc_metallum_modern:metal/shield/britannium",
+    "tfc_metallum_modern:metal/shield/pewter",
+    "tfc_metallum_modern:metal/shield/osmium",
+    "tfc_metallum_modern:metal/shield/osmiridium",
+    "tfc_metallum_modern:metal/shield/platine_steel",
+    "tfc_metallum_modern:metal/shield/titanium",
+    "tfc_metallum_modern:metal/shield/titan_steel",
+    "tfc_metallum_modern:metal/shield/tungsten_steel"
+  ]
+}

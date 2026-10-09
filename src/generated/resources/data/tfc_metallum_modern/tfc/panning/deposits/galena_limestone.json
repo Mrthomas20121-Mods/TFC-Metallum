@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": "tfc_metallum_modern:deposit/galena/limestone",
+  "model_stages": [
+    "tfc_metallum_modern:item/pan/galena/limestone_full",
+    "tfc_metallum_modern:item/pan/galena/limestone_half",
+    "tfc_metallum_modern:item/pan/galena/result"
+  ],
+  "loot_table": "tfc_metallum_modern:panning/deposits/galena_limestone"
+}

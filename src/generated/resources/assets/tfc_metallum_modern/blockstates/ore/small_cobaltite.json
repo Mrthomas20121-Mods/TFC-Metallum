@@ -1,0 +1,22 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum_modern:block/groundcover/cobaltite",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/cobaltite"
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/cobaltite",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/cobaltite",
+        "y": 270
+      }
+    ]
+  }
+}

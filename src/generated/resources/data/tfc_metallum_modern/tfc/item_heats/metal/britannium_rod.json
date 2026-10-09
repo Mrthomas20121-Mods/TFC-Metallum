@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "tag": "forge:rods/britannium"
+  },
+  "heat_capacity": 2.273,
+  "forging_temperature": 510,
+  "welding_temperature": 680
+}

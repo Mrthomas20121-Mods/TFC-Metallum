@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/greaves/tungsten"
-  },
-  "heat_capacity": 30,
-  "forging_temperature": 921,
-  "welding_temperature": 1228
-}

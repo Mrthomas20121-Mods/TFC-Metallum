@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "tfc_metallum_modern:ore/small_galena"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/normal_galena"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/poor_galena"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/rich_galena"
+    }
+  ],
+  "heat_capacity": 2.857,
+  "forging_temperature": 197,
+  "welding_temperature": 262
+}

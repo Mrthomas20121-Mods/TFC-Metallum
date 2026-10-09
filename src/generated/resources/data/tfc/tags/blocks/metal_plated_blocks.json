@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/block/antimony",
+    "tfc_metallum_modern:metal/block/aluminum",
+    "tfc_metallum_modern:metal/block/florentine_bronze",
+    "tfc_metallum_modern:metal/block/boron",
+    "tfc_metallum_modern:metal/block/ferroboron",
+    "tfc_metallum_modern:metal/block/cobalt",
+    "tfc_metallum_modern:metal/block/constantan",
+    "tfc_metallum_modern:metal/block/electrum",
+    "tfc_metallum_modern:metal/block/invar",
+    "tfc_metallum_modern:metal/block/lead",
+    "tfc_metallum_modern:metal/block/britannium",
+    "tfc_metallum_modern:metal/block/purple_gold",
+    "tfc_metallum_modern:metal/block/uranium",
+    "tfc_metallum_modern:metal/block/pewter",
+    "tfc_metallum_modern:metal/block/iridium",
+    "tfc_metallum_modern:metal/block/osmium",
+    "tfc_metallum_modern:metal/block/osmiridium",
+    "tfc_metallum_modern:metal/block/platinum",
+    "tfc_metallum_modern:metal/block/platine_steel",
+    "tfc_metallum_modern:metal/block/titanium",
+    "tfc_metallum_modern:metal/block/titan_steel",
+    "tfc_metallum_modern:metal/block/tungsten",
+    "tfc_metallum_modern:metal/block/tungsten_steel"
+  ]
+}

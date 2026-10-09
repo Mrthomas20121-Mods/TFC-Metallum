@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": "tfc_metallum_modern:deposit/stibnite/quartzite",
+  "model_stages": [
+    "tfc_metallum_modern:item/pan/stibnite/quartzite_full",
+    "tfc_metallum_modern:item/pan/stibnite/quartzite_half",
+    "tfc_metallum_modern:item/pan/stibnite/result"
+  ],
+  "loot_table": "tfc_metallum_modern:panning/deposits/stibnite_quartzite"
+}

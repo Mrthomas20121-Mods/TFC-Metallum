@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": "tfc_metallum_modern:deposit/stibnite/conglomerate",
+  "model_stages": [
+    "tfc_metallum_modern:item/pan/stibnite/conglomerate_full",
+    "tfc_metallum_modern:item/pan/stibnite/conglomerate_half",
+    "tfc_metallum_modern:item/pan/stibnite/result"
+  ],
+  "loot_table": "tfc_metallum_modern:panning/deposits/stibnite_conglomerate"
+}

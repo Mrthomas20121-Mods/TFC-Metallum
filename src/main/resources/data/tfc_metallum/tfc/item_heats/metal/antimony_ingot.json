@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "tag": "forge:ingots/antimony"
-  },
-  "heat_capacity": 4,
-  "forging_temperature": 378,
-  "welding_temperature": 504
-}

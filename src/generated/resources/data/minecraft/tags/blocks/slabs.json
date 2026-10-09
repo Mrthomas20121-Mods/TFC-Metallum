@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/block/antimony_slab",
+    "tfc_metallum_modern:metal/block/aluminum_slab",
+    "tfc_metallum_modern:metal/block/florentine_bronze_slab",
+    "tfc_metallum_modern:metal/block/boron_slab",
+    "tfc_metallum_modern:metal/block/ferroboron_slab",
+    "tfc_metallum_modern:metal/block/cobalt_slab",
+    "tfc_metallum_modern:metal/block/constantan_slab",
+    "tfc_metallum_modern:metal/block/electrum_slab",
+    "tfc_metallum_modern:metal/block/invar_slab",
+    "tfc_metallum_modern:metal/block/lead_slab",
+    "tfc_metallum_modern:metal/block/britannium_slab",
+    "tfc_metallum_modern:metal/block/purple_gold_slab",
+    "tfc_metallum_modern:metal/block/uranium_slab",
+    "tfc_metallum_modern:metal/block/pewter_slab",
+    "tfc_metallum_modern:metal/block/iridium_slab",
+    "tfc_metallum_modern:metal/block/osmium_slab",
+    "tfc_metallum_modern:metal/block/osmiridium_slab",
+    "tfc_metallum_modern:metal/block/platinum_slab",
+    "tfc_metallum_modern:metal/block/platine_steel_slab",
+    "tfc_metallum_modern:metal/block/titanium_slab",
+    "tfc_metallum_modern:metal/block/titan_steel_slab",
+    "tfc_metallum_modern:metal/block/tungsten_slab",
+    "tfc_metallum_modern:metal/block/tungsten_steel_slab"
+  ]
+}

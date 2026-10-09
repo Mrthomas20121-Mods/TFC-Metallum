@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/purple_gold"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/rod/purple_gold",
+    "count": 2
+  },
+  "tier": 2,
+  "rules": [
+    "bend_last",
+    "draw_second_last",
+    "draw_third_last"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/mace_head/tungsten"
-  },
-  "heat_capacity": 10,
-  "forging_temperature": 921,
-  "welding_temperature": 1228
-}

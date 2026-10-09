@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/shears/aluminum",
+    "tfc_metallum_modern:metal/shears/florentine_bronze",
+    "tfc_metallum_modern:metal/shears/ferroboron",
+    "tfc_metallum_modern:metal/shears/cobalt",
+    "tfc_metallum_modern:metal/shears/invar",
+    "tfc_metallum_modern:metal/shears/britannium",
+    "tfc_metallum_modern:metal/shears/pewter",
+    "tfc_metallum_modern:metal/shears/osmium",
+    "tfc_metallum_modern:metal/shears/osmiridium",
+    "tfc_metallum_modern:metal/shears/platine_steel",
+    "tfc_metallum_modern:metal/shears/titanium",
+    "tfc_metallum_modern:metal/shears/titan_steel",
+    "tfc_metallum_modern:metal/shears/tungsten_steel"
+  ]
+}

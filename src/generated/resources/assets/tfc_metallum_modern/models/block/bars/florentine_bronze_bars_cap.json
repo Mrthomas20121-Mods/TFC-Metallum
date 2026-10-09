@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "minecraft:block/iron_bars_cap",
+  "textures": {
+    "particle": "tfc_metallum_modern:block/metal/bars/florentine_bronze",
+    "bars": "tfc_metallum_modern:block/metal/bars/florentine_bronze",
+    "edge": "tfc_metallum_modern:block/metal/smooth/florentine_bronze"
+  }
+}

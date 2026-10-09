@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/tungsten_steel",
+    "tfc_metallum_modern:metal/hammer/tungsten_steel",
+    "tfc_metallum_modern:metal/hoe/tungsten_steel",
+    "tfc_metallum_modern:metal/javelin/tungsten_steel",
+    "tfc_metallum_modern:metal/knife/tungsten_steel",
+    "tfc_metallum_modern:metal/mace/tungsten_steel",
+    "tfc_metallum_modern:metal/pickaxe/tungsten_steel",
+    "tfc_metallum_modern:metal/propick/tungsten_steel",
+    "tfc_metallum_modern:metal/saw/tungsten_steel",
+    "tfc_metallum_modern:metal/scythe/tungsten_steel",
+    "tfc_metallum_modern:metal/shovel/tungsten_steel",
+    "tfc_metallum_modern:metal/sword/tungsten_steel",
+    "tfc_metallum_modern:metal/axe/tungsten_steel"
+  ]
+}

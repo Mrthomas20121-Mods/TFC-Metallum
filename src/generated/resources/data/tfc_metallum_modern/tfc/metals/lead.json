@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 2,
+  "fluid": "tfc_metallum_modern:metal/lead",
+  "melt_temperature": 328,
+  "specific_heat_capacity": 0.02143,
+  "ingots": {
+    "tag": "forge:ingots/lead"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/lead"
+  },
+  "sheets": {
+    "tag": "forge:sheets/lead"
+  }
+}

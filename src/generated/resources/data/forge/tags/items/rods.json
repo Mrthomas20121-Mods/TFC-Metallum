@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:rods/antimony",
+    "#forge:rods/aluminum",
+    "#forge:rods/florentine_bronze",
+    "#forge:rods/boron",
+    "#forge:rods/ferroboron",
+    "#forge:rods/cobalt",
+    "#forge:rods/constantan",
+    "#forge:rods/electrum",
+    "#forge:rods/invar",
+    "#forge:rods/lead",
+    "#forge:rods/britannium",
+    "#forge:rods/purple_gold",
+    "#forge:rods/uranium",
+    "#forge:rods/pewter",
+    "#forge:rods/iridium",
+    "#forge:rods/osmium",
+    "#forge:rods/osmiridium",
+    "#forge:rods/platinum",
+    "#forge:rods/platine_steel",
+    "#forge:rods/titanium",
+    "#forge:rods/titan_steel",
+    "#forge:rods/tungsten",
+    "#forge:rods/tungsten_steel"
+  ]
+}

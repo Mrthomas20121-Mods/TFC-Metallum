@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/scythe/aluminum",
+    "tfc_metallum_modern:metal/scythe/florentine_bronze",
+    "tfc_metallum_modern:metal/scythe/ferroboron",
+    "tfc_metallum_modern:metal/scythe/cobalt",
+    "tfc_metallum_modern:metal/scythe/invar",
+    "tfc_metallum_modern:metal/scythe/britannium",
+    "tfc_metallum_modern:metal/scythe/pewter",
+    "tfc_metallum_modern:metal/scythe/osmium",
+    "tfc_metallum_modern:metal/scythe/osmiridium",
+    "tfc_metallum_modern:metal/scythe/platine_steel",
+    "tfc_metallum_modern:metal/scythe/titanium",
+    "tfc_metallum_modern:metal/scythe/titan_steel",
+    "tfc_metallum_modern:metal/scythe/tungsten_steel"
+  ]
+}

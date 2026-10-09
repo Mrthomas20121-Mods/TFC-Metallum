@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/titan_steel",
+    "tfc_metallum_modern:metal/hammer/titan_steel",
+    "tfc_metallum_modern:metal/hoe/titan_steel",
+    "tfc_metallum_modern:metal/javelin/titan_steel",
+    "tfc_metallum_modern:metal/knife/titan_steel",
+    "tfc_metallum_modern:metal/mace/titan_steel",
+    "tfc_metallum_modern:metal/pickaxe/titan_steel",
+    "tfc_metallum_modern:metal/propick/titan_steel",
+    "tfc_metallum_modern:metal/saw/titan_steel",
+    "tfc_metallum_modern:metal/scythe/titan_steel",
+    "tfc_metallum_modern:metal/shovel/titan_steel",
+    "tfc_metallum_modern:metal/sword/titan_steel",
+    "tfc_metallum_modern:metal/axe/titan_steel"
+  ]
+}

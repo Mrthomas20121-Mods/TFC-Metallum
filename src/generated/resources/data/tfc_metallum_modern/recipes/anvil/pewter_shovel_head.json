@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/pewter"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/shovel_head/pewter"
+  },
+  "tier": 2,
+  "rules": [
+    "punch_last",
+    "hit_not_last"
+  ],
+  "apply_forging_bonus": true
+}

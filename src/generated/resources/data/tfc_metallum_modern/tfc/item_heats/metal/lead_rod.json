@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "tag": "forge:rods/lead"
+  },
+  "heat_capacity": 3.571,
+  "forging_temperature": 197,
+  "welding_temperature": 262
+}

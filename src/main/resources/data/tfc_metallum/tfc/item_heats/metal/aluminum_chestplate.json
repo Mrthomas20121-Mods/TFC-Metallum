@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/chestplate/aluminum"
-  },
-  "heat_capacity": 26.667,
-  "forging_temperature": 396,
-  "welding_temperature": 528
-}

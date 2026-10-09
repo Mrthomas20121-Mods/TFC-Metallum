@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/trapdoor/pewter"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/pewter",
+    "amount": 200
+  },
+  "temperature": 270
+}

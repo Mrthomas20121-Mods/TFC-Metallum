@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "variants": {
+    "facing=north": {
+      "model": "tfc_metallum_modern:block/metal/anvil/aluminum",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "tfc_metallum_modern:block/metal/anvil/aluminum",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "tfc_metallum_modern:block/metal/anvil/aluminum",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "tfc_metallum_modern:block/metal/anvil/aluminum"
+    }
+  }
+}

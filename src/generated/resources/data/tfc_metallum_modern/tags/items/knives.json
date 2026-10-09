@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/knife/aluminum",
+    "tfc_metallum_modern:metal/knife/florentine_bronze",
+    "tfc_metallum_modern:metal/knife/ferroboron",
+    "tfc_metallum_modern:metal/knife/cobalt",
+    "tfc_metallum_modern:metal/knife/invar",
+    "tfc_metallum_modern:metal/knife/britannium",
+    "tfc_metallum_modern:metal/knife/pewter",
+    "tfc_metallum_modern:metal/knife/osmium",
+    "tfc_metallum_modern:metal/knife/osmiridium",
+    "tfc_metallum_modern:metal/knife/platine_steel",
+    "tfc_metallum_modern:metal/knife/titanium",
+    "tfc_metallum_modern:metal/knife/titan_steel",
+    "tfc_metallum_modern:metal/knife/tungsten_steel"
+  ]
+}

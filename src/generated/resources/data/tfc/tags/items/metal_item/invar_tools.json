@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/invar",
+    "tfc_metallum_modern:metal/hammer/invar",
+    "tfc_metallum_modern:metal/hoe/invar",
+    "tfc_metallum_modern:metal/javelin/invar",
+    "tfc_metallum_modern:metal/knife/invar",
+    "tfc_metallum_modern:metal/mace/invar",
+    "tfc_metallum_modern:metal/pickaxe/invar",
+    "tfc_metallum_modern:metal/propick/invar",
+    "tfc_metallum_modern:metal/saw/invar",
+    "tfc_metallum_modern:metal/scythe/invar",
+    "tfc_metallum_modern:metal/shovel/invar",
+    "tfc_metallum_modern:metal/sword/invar",
+    "tfc_metallum_modern:metal/axe/invar"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/florentine_bronze",
+    "tfc_metallum_modern:metal/hammer/florentine_bronze",
+    "tfc_metallum_modern:metal/hoe/florentine_bronze",
+    "tfc_metallum_modern:metal/javelin/florentine_bronze",
+    "tfc_metallum_modern:metal/knife/florentine_bronze",
+    "tfc_metallum_modern:metal/mace/florentine_bronze",
+    "tfc_metallum_modern:metal/pickaxe/florentine_bronze",
+    "tfc_metallum_modern:metal/propick/florentine_bronze",
+    "tfc_metallum_modern:metal/saw/florentine_bronze",
+    "tfc_metallum_modern:metal/scythe/florentine_bronze",
+    "tfc_metallum_modern:metal/shovel/florentine_bronze",
+    "tfc_metallum_modern:metal/sword/florentine_bronze",
+    "tfc_metallum_modern:metal/axe/florentine_bronze"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "tfc_metallum:metal/constantan",
-    "tfc_metallum:metal/flowing_constantan"
-  ]
-}

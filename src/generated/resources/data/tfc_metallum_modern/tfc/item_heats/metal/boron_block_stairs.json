@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/block/boron_stairs"
+  },
+  "heat_capacity": 3.409,
+  "forging_temperature": 345,
+  "welding_temperature": 460
+}

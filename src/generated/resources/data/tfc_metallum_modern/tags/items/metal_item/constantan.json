@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/constantan",
+    "tfc_metallum_modern:metal/double_ingot/constantan",
+    "tfc_metallum_modern:metal/sheet/constantan",
+    "tfc_metallum_modern:metal/double_sheet/constantan",
+    "tfc_metallum_modern:metal/rod/constantan",
+    "tfc_metallum_modern:metal/block/constantan",
+    "tfc_metallum_modern:metal/block/constantan_slab",
+    "tfc_metallum_modern:metal/block/constantan_stairs"
+  ]
+}

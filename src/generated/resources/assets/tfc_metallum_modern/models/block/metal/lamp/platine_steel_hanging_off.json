@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "tfc:block/lamp_hanging",
+  "textures": {
+    "metal": "tfc_metallum_modern:block/metal/smooth/platine_steel",
+    "chain": "tfc_metallum_modern:block/metal/chain/platine_steel",
+    "lamp": "tfc:block/lamp_off"
+  }
+}

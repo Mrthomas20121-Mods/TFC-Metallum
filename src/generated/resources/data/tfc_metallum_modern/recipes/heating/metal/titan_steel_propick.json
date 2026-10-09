@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/propick/titan_steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/titan_steel",
+    "amount": 100
+  },
+  "temperature": 1540,
+  "use_durability": true
+}

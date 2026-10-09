@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/shovel/aluminum",
+    "tfc_metallum_modern:metal/shovel/florentine_bronze",
+    "tfc_metallum_modern:metal/shovel/ferroboron",
+    "tfc_metallum_modern:metal/shovel/cobalt",
+    "tfc_metallum_modern:metal/shovel/invar",
+    "tfc_metallum_modern:metal/shovel/britannium",
+    "tfc_metallum_modern:metal/shovel/pewter",
+    "tfc_metallum_modern:metal/shovel/osmium",
+    "tfc_metallum_modern:metal/shovel/osmiridium",
+    "tfc_metallum_modern:metal/shovel/platine_steel",
+    "tfc_metallum_modern:metal/shovel/titanium",
+    "tfc_metallum_modern:metal/shovel/titan_steel",
+    "tfc_metallum_modern:metal/shovel/tungsten_steel"
+  ]
+}

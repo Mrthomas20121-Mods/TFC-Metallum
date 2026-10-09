@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/pewter",
+    "tfc_metallum_modern:metal/hammer/pewter",
+    "tfc_metallum_modern:metal/hoe/pewter",
+    "tfc_metallum_modern:metal/javelin/pewter",
+    "tfc_metallum_modern:metal/knife/pewter",
+    "tfc_metallum_modern:metal/mace/pewter",
+    "tfc_metallum_modern:metal/pickaxe/pewter",
+    "tfc_metallum_modern:metal/propick/pewter",
+    "tfc_metallum_modern:metal/saw/pewter",
+    "tfc_metallum_modern:metal/scythe/pewter",
+    "tfc_metallum_modern:metal/shovel/pewter",
+    "tfc_metallum_modern:metal/sword/pewter",
+    "tfc_metallum_modern:metal/axe/pewter"
+  ]
+}

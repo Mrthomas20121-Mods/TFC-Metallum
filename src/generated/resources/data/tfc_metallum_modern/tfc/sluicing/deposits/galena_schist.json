@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:deposit/galena/schist"
+  },
+  "loot_table": "tfc_metallum_modern:panning/deposits/galena_schist"
+}

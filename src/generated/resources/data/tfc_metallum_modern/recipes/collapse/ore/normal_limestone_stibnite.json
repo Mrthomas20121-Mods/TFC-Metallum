@@ -1,0 +1,6 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:collapse",
+  "ingredient": "tfc_metallum_modern:ore/rich_stibnite/limestone",
+  "result": "tfc_metallum_modern:ore/normal_stibnite/limestone"
+}

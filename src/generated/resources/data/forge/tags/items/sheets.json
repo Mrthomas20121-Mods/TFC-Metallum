@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:sheets/antimony",
+    "#forge:sheets/aluminum",
+    "#forge:sheets/florentine_bronze",
+    "#forge:sheets/boron",
+    "#forge:sheets/ferroboron",
+    "#forge:sheets/cobalt",
+    "#forge:sheets/constantan",
+    "#forge:sheets/electrum",
+    "#forge:sheets/invar",
+    "#forge:sheets/lead",
+    "#forge:sheets/britannium",
+    "#forge:sheets/purple_gold",
+    "#forge:sheets/uranium",
+    "#forge:sheets/pewter",
+    "#forge:sheets/iridium",
+    "#forge:sheets/osmium",
+    "#forge:sheets/osmiridium",
+    "#forge:sheets/platinum",
+    "#forge:sheets/platine_steel",
+    "#forge:sheets/titanium",
+    "#forge:sheets/titan_steel",
+    "#forge:sheets/tungsten",
+    "#forge:sheets/tungsten_steel"
+  ]
+}

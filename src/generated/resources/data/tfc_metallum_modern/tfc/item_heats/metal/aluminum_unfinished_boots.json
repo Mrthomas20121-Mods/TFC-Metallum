@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/unfinished_boots/aluminum"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 708,
+  "welding_temperature": 944
+}

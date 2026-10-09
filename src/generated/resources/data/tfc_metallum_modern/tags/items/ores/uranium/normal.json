@@ -1,0 +1,26 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:ore/normal_uraninite/granite",
+    "tfc_metallum_modern:ore/normal_uraninite/diorite",
+    "tfc_metallum_modern:ore/normal_uraninite/gabbro",
+    "tfc_metallum_modern:ore/normal_uraninite/shale",
+    "tfc_metallum_modern:ore/normal_uraninite/claystone",
+    "tfc_metallum_modern:ore/normal_uraninite/limestone",
+    "tfc_metallum_modern:ore/normal_uraninite/conglomerate",
+    "tfc_metallum_modern:ore/normal_uraninite/dolomite",
+    "tfc_metallum_modern:ore/normal_uraninite/chert",
+    "tfc_metallum_modern:ore/normal_uraninite/chalk",
+    "tfc_metallum_modern:ore/normal_uraninite/rhyolite",
+    "tfc_metallum_modern:ore/normal_uraninite/basalt",
+    "tfc_metallum_modern:ore/normal_uraninite/andesite",
+    "tfc_metallum_modern:ore/normal_uraninite/dacite",
+    "tfc_metallum_modern:ore/normal_uraninite/quartzite",
+    "tfc_metallum_modern:ore/normal_uraninite/slate",
+    "tfc_metallum_modern:ore/normal_uraninite/phyllite",
+    "tfc_metallum_modern:ore/normal_uraninite/schist",
+    "tfc_metallum_modern:ore/normal_uraninite/gneiss",
+    "tfc_metallum_modern:ore/normal_uraninite/marble"
+  ]
+}

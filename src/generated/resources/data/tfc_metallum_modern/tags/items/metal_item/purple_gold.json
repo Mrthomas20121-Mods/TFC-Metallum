@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/purple_gold",
+    "tfc_metallum_modern:metal/double_ingot/purple_gold",
+    "tfc_metallum_modern:metal/sheet/purple_gold",
+    "tfc_metallum_modern:metal/double_sheet/purple_gold",
+    "tfc_metallum_modern:metal/rod/purple_gold",
+    "tfc_metallum_modern:metal/block/purple_gold",
+    "tfc_metallum_modern:metal/block/purple_gold_slab",
+    "tfc_metallum_modern:metal/block/purple_gold_stairs"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:ores/antimony",
+    "#forge:ores/aluminum",
+    "#forge:ores/boron",
+    "#forge:ores/cobalt",
+    "#forge:ores/lead",
+    "#forge:ores/iridium",
+    "#forge:ores/osmium",
+    "#forge:ores/platinum",
+    "#forge:ores/titanium",
+    "#forge:ores/tungsten",
+    "#forge:ores/uranium"
+  ]
+}

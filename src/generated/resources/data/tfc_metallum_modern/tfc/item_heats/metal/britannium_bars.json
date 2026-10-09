@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/bars/britannium"
+  },
+  "heat_capacity": 1.136,
+  "forging_temperature": 510,
+  "welding_temperature": 680
+}

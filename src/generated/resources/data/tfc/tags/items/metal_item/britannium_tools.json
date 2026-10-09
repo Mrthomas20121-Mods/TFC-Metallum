@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/britannium",
+    "tfc_metallum_modern:metal/hammer/britannium",
+    "tfc_metallum_modern:metal/hoe/britannium",
+    "tfc_metallum_modern:metal/javelin/britannium",
+    "tfc_metallum_modern:metal/knife/britannium",
+    "tfc_metallum_modern:metal/mace/britannium",
+    "tfc_metallum_modern:metal/pickaxe/britannium",
+    "tfc_metallum_modern:metal/propick/britannium",
+    "tfc_metallum_modern:metal/saw/britannium",
+    "tfc_metallum_modern:metal/scythe/britannium",
+    "tfc_metallum_modern:metal/shovel/britannium",
+    "tfc_metallum_modern:metal/sword/britannium",
+    "tfc_metallum_modern:metal/axe/britannium"
+  ]
+}

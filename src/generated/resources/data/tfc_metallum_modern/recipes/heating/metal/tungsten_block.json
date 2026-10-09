@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/block/tungsten"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/unrefined_tungsten",
+    "amount": 100
+  },
+  "temperature": 1535
+}

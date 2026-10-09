@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "item": "tfc_metallum:metal/mace_head/titanium"
-  },
-  "heat_capacity": 6.667,
-  "forging_temperature": 921,
-  "welding_temperature": 1228
-}

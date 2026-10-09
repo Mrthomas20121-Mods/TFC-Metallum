@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc_metallum_modern:metal/unfinished_helmet/invar"
+  },
+  "second_input": {
+    "item": "tfc_metallum_modern:metal/sheet/invar"
+  },
+  "tier": 2,
+  "result": {
+    "item": "tfc_metallum_modern:metal/helmet/invar"
+  }
+}

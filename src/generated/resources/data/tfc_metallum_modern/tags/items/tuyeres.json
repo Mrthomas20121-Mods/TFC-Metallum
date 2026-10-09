@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/tuyere/aluminum",
+    "tfc_metallum_modern:metal/tuyere/florentine_bronze",
+    "tfc_metallum_modern:metal/tuyere/ferroboron",
+    "tfc_metallum_modern:metal/tuyere/cobalt",
+    "tfc_metallum_modern:metal/tuyere/invar",
+    "tfc_metallum_modern:metal/tuyere/britannium",
+    "tfc_metallum_modern:metal/tuyere/pewter",
+    "tfc_metallum_modern:metal/tuyere/osmium",
+    "tfc_metallum_modern:metal/tuyere/osmiridium",
+    "tfc_metallum_modern:metal/tuyere/platine_steel",
+    "tfc_metallum_modern:metal/tuyere/titanium",
+    "tfc_metallum_modern:metal/tuyere/titan_steel",
+    "tfc_metallum_modern:metal/tuyere/tungsten_steel"
+  ]
+}

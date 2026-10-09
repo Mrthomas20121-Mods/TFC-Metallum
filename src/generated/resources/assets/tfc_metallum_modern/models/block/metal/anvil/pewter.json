@@ -1,0 +1,8 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "tfc:block/anvil",
+  "textures": {
+    "all": "tfc_metallum_modern:block/metal/smooth/pewter",
+    "particle": "tfc_metallum_modern:block/metal/smooth/pewter"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:alloy",
+  "result": "tfc:electrum",
+  "contents": [
+    {
+      "metal": "tfc:silver",
+      "min": 0.5,
+      "max": 0.55
+    },
+    {
+      "metal": "tfc:gold",
+      "min": 0.45,
+      "max": 0.5
+    }
+  ]
+}

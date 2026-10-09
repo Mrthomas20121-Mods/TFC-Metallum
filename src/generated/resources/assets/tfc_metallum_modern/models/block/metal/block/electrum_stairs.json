@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metallum_modern:block/metal/block/electrum",
+    "top": "tfc_metallum_modern:block/metal/block/electrum",
+    "side": "tfc_metallum_modern:block/metal/block/electrum"
+  }
+}

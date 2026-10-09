@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/block/antimony_stairs",
+    "tfc_metallum_modern:metal/block/aluminum_stairs",
+    "tfc_metallum_modern:metal/block/florentine_bronze_stairs",
+    "tfc_metallum_modern:metal/block/boron_stairs",
+    "tfc_metallum_modern:metal/block/ferroboron_stairs",
+    "tfc_metallum_modern:metal/block/cobalt_stairs",
+    "tfc_metallum_modern:metal/block/constantan_stairs",
+    "tfc_metallum_modern:metal/block/electrum_stairs",
+    "tfc_metallum_modern:metal/block/invar_stairs",
+    "tfc_metallum_modern:metal/block/lead_stairs",
+    "tfc_metallum_modern:metal/block/britannium_stairs",
+    "tfc_metallum_modern:metal/block/purple_gold_stairs",
+    "tfc_metallum_modern:metal/block/uranium_stairs",
+    "tfc_metallum_modern:metal/block/pewter_stairs",
+    "tfc_metallum_modern:metal/block/iridium_stairs",
+    "tfc_metallum_modern:metal/block/osmium_stairs",
+    "tfc_metallum_modern:metal/block/osmiridium_stairs",
+    "tfc_metallum_modern:metal/block/platinum_stairs",
+    "tfc_metallum_modern:metal/block/platine_steel_stairs",
+    "tfc_metallum_modern:metal/block/titanium_stairs",
+    "tfc_metallum_modern:metal/block/titan_steel_stairs",
+    "tfc_metallum_modern:metal/block/tungsten_stairs",
+    "tfc_metallum_modern:metal/block/tungsten_steel_stairs"
+  ]
+}

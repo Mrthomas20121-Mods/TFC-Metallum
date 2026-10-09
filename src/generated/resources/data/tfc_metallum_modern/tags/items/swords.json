@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/sword/aluminum",
+    "tfc_metallum_modern:metal/sword/florentine_bronze",
+    "tfc_metallum_modern:metal/sword/ferroboron",
+    "tfc_metallum_modern:metal/sword/cobalt",
+    "tfc_metallum_modern:metal/sword/invar",
+    "tfc_metallum_modern:metal/sword/britannium",
+    "tfc_metallum_modern:metal/sword/pewter",
+    "tfc_metallum_modern:metal/sword/osmium",
+    "tfc_metallum_modern:metal/sword/osmiridium",
+    "tfc_metallum_modern:metal/sword/platine_steel",
+    "tfc_metallum_modern:metal/sword/titanium",
+    "tfc_metallum_modern:metal/sword/titan_steel",
+    "tfc_metallum_modern:metal/sword/tungsten_steel"
+  ]
+}

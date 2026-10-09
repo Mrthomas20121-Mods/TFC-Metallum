@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/cobalt",
+    "tfc_metallum_modern:metal/hammer/cobalt",
+    "tfc_metallum_modern:metal/hoe/cobalt",
+    "tfc_metallum_modern:metal/javelin/cobalt",
+    "tfc_metallum_modern:metal/knife/cobalt",
+    "tfc_metallum_modern:metal/mace/cobalt",
+    "tfc_metallum_modern:metal/pickaxe/cobalt",
+    "tfc_metallum_modern:metal/propick/cobalt",
+    "tfc_metallum_modern:metal/saw/cobalt",
+    "tfc_metallum_modern:metal/scythe/cobalt",
+    "tfc_metallum_modern:metal/shovel/cobalt",
+    "tfc_metallum_modern:metal/sword/cobalt",
+    "tfc_metallum_modern:metal/axe/cobalt"
+  ]
+}

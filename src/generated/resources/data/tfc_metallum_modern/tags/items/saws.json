@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/saw/aluminum",
+    "tfc_metallum_modern:metal/saw/florentine_bronze",
+    "tfc_metallum_modern:metal/saw/ferroboron",
+    "tfc_metallum_modern:metal/saw/cobalt",
+    "tfc_metallum_modern:metal/saw/invar",
+    "tfc_metallum_modern:metal/saw/britannium",
+    "tfc_metallum_modern:metal/saw/pewter",
+    "tfc_metallum_modern:metal/saw/osmium",
+    "tfc_metallum_modern:metal/saw/osmiridium",
+    "tfc_metallum_modern:metal/saw/platine_steel",
+    "tfc_metallum_modern:metal/saw/titanium",
+    "tfc_metallum_modern:metal/saw/titan_steel",
+    "tfc_metallum_modern:metal/saw/tungsten_steel"
+  ]
+}

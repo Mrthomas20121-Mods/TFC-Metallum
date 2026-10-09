@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/lamp/aluminum",
+    "tfc_metallum_modern:metal/lamp/florentine_bronze",
+    "tfc_metallum_modern:metal/lamp/ferroboron",
+    "tfc_metallum_modern:metal/lamp/cobalt",
+    "tfc_metallum_modern:metal/lamp/invar",
+    "tfc_metallum_modern:metal/lamp/britannium",
+    "tfc_metallum_modern:metal/lamp/pewter",
+    "tfc_metallum_modern:metal/lamp/osmium",
+    "tfc_metallum_modern:metal/lamp/osmiridium",
+    "tfc_metallum_modern:metal/lamp/platine_steel",
+    "tfc_metallum_modern:metal/lamp/titanium",
+    "tfc_metallum_modern:metal/lamp/titan_steel",
+    "tfc_metallum_modern:metal/lamp/tungsten_steel"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/greaves/pewter"
+  },
+  "heat_capacity": 42.857,
+  "forging_temperature": 162,
+  "welding_temperature": 216
+}

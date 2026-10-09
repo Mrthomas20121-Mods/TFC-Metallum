@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 2,
+  "fluid": "tfc_metallum_modern:metal/constantan",
+  "melt_temperature": 1453,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/constantan"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/constantan"
+  },
+  "sheets": {
+    "tag": "forge:sheets/constantan"
+  }
+}

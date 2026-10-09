@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/javelin/aluminum",
+    "tfc_metallum_modern:metal/javelin/florentine_bronze",
+    "tfc_metallum_modern:metal/javelin/ferroboron",
+    "tfc_metallum_modern:metal/javelin/cobalt",
+    "tfc_metallum_modern:metal/javelin/invar",
+    "tfc_metallum_modern:metal/javelin/britannium",
+    "tfc_metallum_modern:metal/javelin/pewter",
+    "tfc_metallum_modern:metal/javelin/osmium",
+    "tfc_metallum_modern:metal/javelin/osmiridium",
+    "tfc_metallum_modern:metal/javelin/platine_steel",
+    "tfc_metallum_modern:metal/javelin/titanium",
+    "tfc_metallum_modern:metal/javelin/titan_steel",
+    "tfc_metallum_modern:metal/javelin/tungsten_steel"
+  ]
+}

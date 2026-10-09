@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:fishing_rods/aluminum",
+    "#forge:fishing_rods/florentine_bronze",
+    "#forge:fishing_rods/ferroboron",
+    "#forge:fishing_rods/cobalt",
+    "#forge:fishing_rods/invar",
+    "#forge:fishing_rods/britannium",
+    "#forge:fishing_rods/pewter",
+    "#forge:fishing_rods/osmium",
+    "#forge:fishing_rods/osmiridium",
+    "#forge:fishing_rods/platine_steel",
+    "#forge:fishing_rods/titanium",
+    "#forge:fishing_rods/titan_steel",
+    "#forge:fishing_rods/tungsten_steel"
+  ]
+}

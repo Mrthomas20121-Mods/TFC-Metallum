@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/sword_blade/invar"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 798,
+  "welding_temperature": 1064
+}

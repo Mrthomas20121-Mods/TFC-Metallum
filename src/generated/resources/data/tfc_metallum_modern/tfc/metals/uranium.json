@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 3,
+  "fluid": "tfc_metallum_modern:metal/uranium",
+  "melt_temperature": 1500,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/uranium"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/uranium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/uranium"
+  }
+}

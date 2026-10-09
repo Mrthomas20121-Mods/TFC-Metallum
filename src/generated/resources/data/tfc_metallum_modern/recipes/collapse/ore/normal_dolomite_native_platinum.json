@@ -1,0 +1,6 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:collapse",
+  "ingredient": "tfc_metallum_modern:ore/rich_native_platinum/dolomite",
+  "result": "tfc_metallum_modern:ore/normal_native_platinum/dolomite"
+}

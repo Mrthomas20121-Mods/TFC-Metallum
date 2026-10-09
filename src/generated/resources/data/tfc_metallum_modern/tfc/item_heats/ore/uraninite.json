@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "tfc_metallum_modern:ore/small_uraninite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/normal_uraninite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/poor_uraninite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/rich_uraninite"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

@@ -1,0 +1,29 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "#forge:double_ingots/antimony",
+    "#forge:double_ingots/aluminum",
+    "#forge:double_ingots/florentine_bronze",
+    "#forge:double_ingots/boron",
+    "#forge:double_ingots/ferroboron",
+    "#forge:double_ingots/cobalt",
+    "#forge:double_ingots/constantan",
+    "#forge:double_ingots/electrum",
+    "#forge:double_ingots/invar",
+    "#forge:double_ingots/lead",
+    "#forge:double_ingots/britannium",
+    "#forge:double_ingots/purple_gold",
+    "#forge:double_ingots/uranium",
+    "#forge:double_ingots/pewter",
+    "#forge:double_ingots/iridium",
+    "#forge:double_ingots/osmium",
+    "#forge:double_ingots/osmiridium",
+    "#forge:double_ingots/platinum",
+    "#forge:double_ingots/platine_steel",
+    "#forge:double_ingots/titanium",
+    "#forge:double_ingots/titan_steel",
+    "#forge:double_ingots/tungsten",
+    "#forge:double_ingots/tungsten_steel"
+  ]
+}

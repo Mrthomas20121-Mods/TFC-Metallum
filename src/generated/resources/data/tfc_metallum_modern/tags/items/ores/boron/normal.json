@@ -1,0 +1,26 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:ore/normal_boracite/granite",
+    "tfc_metallum_modern:ore/normal_boracite/diorite",
+    "tfc_metallum_modern:ore/normal_boracite/gabbro",
+    "tfc_metallum_modern:ore/normal_boracite/shale",
+    "tfc_metallum_modern:ore/normal_boracite/claystone",
+    "tfc_metallum_modern:ore/normal_boracite/limestone",
+    "tfc_metallum_modern:ore/normal_boracite/conglomerate",
+    "tfc_metallum_modern:ore/normal_boracite/dolomite",
+    "tfc_metallum_modern:ore/normal_boracite/chert",
+    "tfc_metallum_modern:ore/normal_boracite/chalk",
+    "tfc_metallum_modern:ore/normal_boracite/rhyolite",
+    "tfc_metallum_modern:ore/normal_boracite/basalt",
+    "tfc_metallum_modern:ore/normal_boracite/andesite",
+    "tfc_metallum_modern:ore/normal_boracite/dacite",
+    "tfc_metallum_modern:ore/normal_boracite/quartzite",
+    "tfc_metallum_modern:ore/normal_boracite/slate",
+    "tfc_metallum_modern:ore/normal_boracite/phyllite",
+    "tfc_metallum_modern:ore/normal_boracite/schist",
+    "tfc_metallum_modern:ore/normal_boracite/gneiss",
+    "tfc_metallum_modern:ore/normal_boracite/marble"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:ore/normal_native_iridium/granite",
+    "tfc_metallum_modern:ore/normal_native_iridium/diorite",
+    "tfc_metallum_modern:ore/normal_native_iridium/gabbro",
+    "tfc_metallum_modern:ore/normal_native_iridium/shale",
+    "tfc_metallum_modern:ore/normal_native_iridium/claystone",
+    "tfc_metallum_modern:ore/normal_native_iridium/limestone",
+    "tfc_metallum_modern:ore/normal_native_iridium/conglomerate",
+    "tfc_metallum_modern:ore/normal_native_iridium/dolomite",
+    "tfc_metallum_modern:ore/normal_native_iridium/chert",
+    "tfc_metallum_modern:ore/normal_native_iridium/chalk",
+    "tfc_metallum_modern:ore/normal_native_iridium/rhyolite",
+    "tfc_metallum_modern:ore/normal_native_iridium/basalt",
+    "tfc_metallum_modern:ore/normal_native_iridium/andesite",
+    "tfc_metallum_modern:ore/normal_native_iridium/dacite",
+    "tfc_metallum_modern:ore/normal_native_iridium/quartzite",
+    "tfc_metallum_modern:ore/normal_native_iridium/slate",
+    "tfc_metallum_modern:ore/normal_native_iridium/phyllite",
+    "tfc_metallum_modern:ore/normal_native_iridium/schist",
+    "tfc_metallum_modern:ore/normal_native_iridium/gneiss",
+    "tfc_metallum_modern:ore/normal_native_iridium/marble"
+  ]
+}

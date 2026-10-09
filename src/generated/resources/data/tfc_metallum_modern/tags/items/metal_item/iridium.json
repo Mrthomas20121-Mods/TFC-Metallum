@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/iridium",
+    "tfc_metallum_modern:metal/double_ingot/iridium",
+    "tfc_metallum_modern:metal/sheet/iridium",
+    "tfc_metallum_modern:metal/double_sheet/iridium",
+    "tfc_metallum_modern:metal/rod/iridium",
+    "tfc_metallum_modern:metal/block/iridium",
+    "tfc_metallum_modern:metal/block/iridium_slab",
+    "tfc_metallum_modern:metal/block/iridium_stairs"
+  ]
+}

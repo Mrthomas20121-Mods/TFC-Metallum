@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "tfc_metallum_modern:ore/small_stibnite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/normal_stibnite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/poor_stibnite"
+    },
+    {
+      "item": "tfc_metallum_modern:ore/rich_stibnite"
+    }
+  ],
+  "heat_capacity": 2.857,
+  "forging_temperature": 150,
+  "welding_temperature": 200
+}

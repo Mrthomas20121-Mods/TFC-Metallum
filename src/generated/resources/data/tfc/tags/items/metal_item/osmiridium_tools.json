@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/osmiridium",
+    "tfc_metallum_modern:metal/hammer/osmiridium",
+    "tfc_metallum_modern:metal/hoe/osmiridium",
+    "tfc_metallum_modern:metal/javelin/osmiridium",
+    "tfc_metallum_modern:metal/knife/osmiridium",
+    "tfc_metallum_modern:metal/mace/osmiridium",
+    "tfc_metallum_modern:metal/pickaxe/osmiridium",
+    "tfc_metallum_modern:metal/propick/osmiridium",
+    "tfc_metallum_modern:metal/saw/osmiridium",
+    "tfc_metallum_modern:metal/scythe/osmiridium",
+    "tfc_metallum_modern:metal/shovel/osmiridium",
+    "tfc_metallum_modern:metal/sword/osmiridium",
+    "tfc_metallum_modern:metal/axe/osmiridium"
+  ]
+}

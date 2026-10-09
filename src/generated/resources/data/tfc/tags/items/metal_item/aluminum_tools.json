@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/chisel/aluminum",
+    "tfc_metallum_modern:metal/hammer/aluminum",
+    "tfc_metallum_modern:metal/hoe/aluminum",
+    "tfc_metallum_modern:metal/javelin/aluminum",
+    "tfc_metallum_modern:metal/knife/aluminum",
+    "tfc_metallum_modern:metal/mace/aluminum",
+    "tfc_metallum_modern:metal/pickaxe/aluminum",
+    "tfc_metallum_modern:metal/propick/aluminum",
+    "tfc_metallum_modern:metal/saw/aluminum",
+    "tfc_metallum_modern:metal/scythe/aluminum",
+    "tfc_metallum_modern:metal/shovel/aluminum",
+    "tfc_metallum_modern:metal/sword/aluminum",
+    "tfc_metallum_modern:metal/axe/aluminum"
+  ]
+}

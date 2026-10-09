@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:ore/small_galena"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/lead",
+    "amount": 10
+  },
+  "temperature": 328
+}

@@ -1,8 +1,0 @@
-{
-  "ingredient": {
-    "tag": "forge:double_ingots/andesite_alloy"
-  },
-  "heat_capacity": 8,
-  "forging_temperature": 312,
-  "welding_temperature": 416
-}

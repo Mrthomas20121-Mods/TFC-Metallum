@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 2,
+  "fluid": "tfc_metallum_modern:metal/pewter",
+  "melt_temperature": 270,
+  "specific_heat_capacity": 0.02143,
+  "ingots": {
+    "tag": "forge:ingots/pewter"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/pewter"
+  },
+  "sheets": {
+    "tag": "forge:sheets/pewter"
+  }
+}

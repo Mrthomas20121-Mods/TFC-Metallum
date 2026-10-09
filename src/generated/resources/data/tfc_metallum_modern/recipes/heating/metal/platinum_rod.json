@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metallum_modern:metal/rod/platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum_modern:metal/unrefined_titanium",
+    "amount": 50
+  },
+  "temperature": 1535
+}

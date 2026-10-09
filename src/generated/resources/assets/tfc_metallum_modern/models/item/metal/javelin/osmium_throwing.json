@@ -1,0 +1,22 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc_metallum_modern:item/metal/javelin/osmium_throwing_base"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/osmium_gui"
+    },
+    "fixed": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/osmium_gui"
+    },
+    "ground": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/osmium_gui"
+    },
+    "gui": {
+      "parent": "tfc_metallum_modern:item/metal/javelin/osmium_gui"
+    }
+  }
+}

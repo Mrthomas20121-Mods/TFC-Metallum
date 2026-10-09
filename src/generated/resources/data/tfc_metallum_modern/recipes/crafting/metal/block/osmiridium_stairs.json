@@ -1,0 +1,18 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "tfc_metallum_modern:metal/block/osmiridium"
+    }
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/block/osmiridium_stairs",
+    "count": 8
+  }
+}

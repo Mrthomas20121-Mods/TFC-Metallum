@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "tier": 1,
+  "fluid": "tfc_metallum_modern:metal/antimony",
+  "melt_temperature": 250,
+  "specific_heat_capacity": 0.02143,
+  "ingots": {
+    "tag": "forge:ingots/antimony"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/antimony"
+  },
+  "sheets": {
+    "tag": "forge:sheets/antimony"
+  }
+}

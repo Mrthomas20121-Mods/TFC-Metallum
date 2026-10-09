@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "tfc_metallum_modern:deposit/stibnite/shale"
+  },
+  "loot_table": "tfc_metallum_modern:panning/deposits/stibnite_shale"
+}

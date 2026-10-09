@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "variants": {
+    "axis=x": {
+      "model": "tfc_metallum_modern:block/metal/chain/invar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "tfc_metallum_modern:block/metal/chain/invar"
+    },
+    "axis=z": {
+      "model": "tfc_metallum_modern:block/metal/chain/invar",
+      "x": 90
+    }
+  }
+}

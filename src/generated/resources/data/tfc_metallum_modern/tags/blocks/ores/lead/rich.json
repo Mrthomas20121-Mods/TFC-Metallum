@@ -1,0 +1,26 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:ore/rich_galena/granite",
+    "tfc_metallum_modern:ore/rich_galena/diorite",
+    "tfc_metallum_modern:ore/rich_galena/gabbro",
+    "tfc_metallum_modern:ore/rich_galena/shale",
+    "tfc_metallum_modern:ore/rich_galena/claystone",
+    "tfc_metallum_modern:ore/rich_galena/limestone",
+    "tfc_metallum_modern:ore/rich_galena/conglomerate",
+    "tfc_metallum_modern:ore/rich_galena/dolomite",
+    "tfc_metallum_modern:ore/rich_galena/chert",
+    "tfc_metallum_modern:ore/rich_galena/chalk",
+    "tfc_metallum_modern:ore/rich_galena/rhyolite",
+    "tfc_metallum_modern:ore/rich_galena/basalt",
+    "tfc_metallum_modern:ore/rich_galena/andesite",
+    "tfc_metallum_modern:ore/rich_galena/dacite",
+    "tfc_metallum_modern:ore/rich_galena/quartzite",
+    "tfc_metallum_modern:ore/rich_galena/slate",
+    "tfc_metallum_modern:ore/rich_galena/phyllite",
+    "tfc_metallum_modern:ore/rich_galena/schist",
+    "tfc_metallum_modern:ore/rich_galena/gneiss",
+    "tfc_metallum_modern:ore/rich_galena/marble"
+  ]
+}

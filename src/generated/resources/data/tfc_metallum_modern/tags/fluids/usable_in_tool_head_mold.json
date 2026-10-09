@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/antimony",
+    "tfc_metallum_modern:metal/aluminum",
+    "tfc_metallum_modern:metal/florentine_bronze",
+    "tfc_metallum_modern:metal/boron",
+    "tfc_metallum_modern:metal/constantan",
+    "tfc_metallum_modern:metal/lead",
+    "tfc_metallum_modern:metal/britannium",
+    "tfc_metallum_modern:metal/purple_gold",
+    "tfc_metallum_modern:metal/pewter"
+  ]
+}

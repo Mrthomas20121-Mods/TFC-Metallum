@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/uranium",
+    "tfc_metallum_modern:metal/double_ingot/uranium",
+    "tfc_metallum_modern:metal/sheet/uranium",
+    "tfc_metallum_modern:metal/double_sheet/uranium",
+    "tfc_metallum_modern:metal/rod/uranium",
+    "tfc_metallum_modern:metal/block/uranium",
+    "tfc_metallum_modern:metal/block/uranium_slab",
+    "tfc_metallum_modern:metal/block/uranium_stairs"
+  ]
+}

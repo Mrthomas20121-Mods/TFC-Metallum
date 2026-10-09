@@ -1,0 +1,22 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "variants": {
+    "": [
+      {
+        "model": "tfc_metallum_modern:block/groundcover/native_platinum",
+        "y": 90
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/native_platinum"
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/native_platinum",
+        "y": 180
+      },
+      {
+        "model": "tfc_metallum_modern:block/groundcover/native_platinum",
+        "y": 270
+      }
+    ]
+  }
+}

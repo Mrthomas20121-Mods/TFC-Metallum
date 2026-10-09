@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "minecraft:block/iron_bars_cap",
+  "textures": {
+    "particle": "tfc_metallum_modern:block/metal/bars/invar",
+    "bars": "tfc_metallum_modern:block/metal/bars/invar",
+    "edge": "tfc_metallum_modern:block/metal/smooth/invar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "minecraft:block/iron_bars_post",
+  "textures": {
+    "particle": "tfc_metallum_modern:block/metal/bars/aluminum",
+    "bars": "tfc_metallum_modern:block/metal/bars/aluminum",
+    "edge": "tfc_metallum_modern:block/metal/smooth/aluminum"
+  }
+}

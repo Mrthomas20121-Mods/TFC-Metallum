@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:metal/ingot/antimony",
+    "tfc_metallum_modern:metal/double_ingot/antimony",
+    "tfc_metallum_modern:metal/sheet/antimony",
+    "tfc_metallum_modern:metal/double_sheet/antimony",
+    "tfc_metallum_modern:metal/rod/antimony",
+    "tfc_metallum_modern:metal/block/antimony",
+    "tfc_metallum_modern:metal/block/antimony_slab",
+    "tfc_metallum_modern:metal/block/antimony_stairs"
+  ]
+}
