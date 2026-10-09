@@ -5,7 +5,7 @@ plugins {
 
 version = mod_version
 group = 'mrthomas20121.tfc_metallum_modern'
-archivesBaseName = "TFC Metallum: Modern ${mc_version}"
+archivesBaseName = "TFC Metallum Modern ${mc_version}"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
@@ -126,7 +126,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "TFC Metallum: Modern",
+            "Specification-Title": "TFC Metallum Modern",
             "Specification-Vendor": "Mrthomas20121",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,
