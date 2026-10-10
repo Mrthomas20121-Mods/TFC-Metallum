@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/scythe_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/pewter",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/scythe_blade/pewter"
+  },
+  "break_chance": 1
+}

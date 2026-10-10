@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/sword_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/britannium",
+    "amount": 200
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/sword_blade/britannium"
+  },
+  "break_chance": 1
+}

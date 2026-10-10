@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:weak_platine_steel",
+  "result": "tfc_metallum_modern:weak_platine_steel",
   "contents": [
     {
       "metal": "tfc:black_steel",
@@ -14,12 +14,12 @@
       "max": 0.25
     },
     {
-      "metal": "tfc:platinum",
+      "metal": "tfc_metallum_modern:platinum",
       "min": 0.1,
       "max": 0.15
     },
     {
-      "metal": "tfc:pewter",
+      "metal": "tfc_metallum_modern:pewter",
       "min": 0.1,
       "max": 0.15
     }

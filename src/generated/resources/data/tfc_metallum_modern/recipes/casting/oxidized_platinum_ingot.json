@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/ingot_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/oxidized_platinum",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/ingot/oxidized_platinum"
+  },
+  "break_chance": 0.1
+}

@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:weak_titan_steel",
+  "result": "tfc_metallum_modern:weak_titan_steel",
   "contents": [
     {
       "metal": "tfc:black_steel",
@@ -14,12 +14,12 @@
       "max": 0.25
     },
     {
-      "metal": "tfc:titanium",
+      "metal": "tfc_metallum_modern:titanium",
       "min": 0.1,
       "max": 0.15
     },
     {
-      "metal": "tfc:constantan",
+      "metal": "tfc_metallum_modern:constantan",
       "min": 0.1,
       "max": 0.15
     }

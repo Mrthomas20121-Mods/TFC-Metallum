@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:ferroboron",
+  "result": "tfc_metallum_modern:ferroboron",
   "contents": [
     {
       "metal": "tfc:iron",
@@ -9,7 +9,7 @@
       "max": 0.55
     },
     {
-      "metal": "tfc:boron",
+      "metal": "tfc_metallum_modern:boron",
       "min": 0.45,
       "max": 0.5
     }

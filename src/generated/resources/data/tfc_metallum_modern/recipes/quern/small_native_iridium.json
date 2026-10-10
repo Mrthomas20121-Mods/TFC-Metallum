@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum_modern:ore/small_native_iridium"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:powder/native_iridium",
+    "count": 2
+  }
+}

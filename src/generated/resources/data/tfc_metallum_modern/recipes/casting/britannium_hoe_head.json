@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/hoe_head_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/britannium",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/hoe_head/britannium"
+  },
+  "break_chance": 1
+}

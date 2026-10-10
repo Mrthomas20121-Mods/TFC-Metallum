@@ -5,7 +5,7 @@
     "item": "tfc_metallum_modern:metal/chisel/titanium"
   },
   "result_fluid": {
-    "fluid": "tfc_metallum_modern:metal/unrefined_titanium",
+    "fluid": "tfc_metallum_modern:metal/oxidized_titanium",
     "amount": 100
   },
   "temperature": 1535,

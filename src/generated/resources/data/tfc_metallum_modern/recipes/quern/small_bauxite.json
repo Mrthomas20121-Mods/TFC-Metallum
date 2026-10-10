@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum_modern:ore/small_bauxite"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:powder/bauxite",
+    "count": 2
+  }
+}

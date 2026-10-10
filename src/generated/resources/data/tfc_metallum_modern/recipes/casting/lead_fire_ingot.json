@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/fire_ingot_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/lead",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/ingot/lead"
+  },
+  "break_chance": 0.01
+}

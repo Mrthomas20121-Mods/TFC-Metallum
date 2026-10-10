@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:constantan",
+  "result": "tfc_metallum_modern:constantan",
   "contents": [
     {
       "metal": "tfc:copper",

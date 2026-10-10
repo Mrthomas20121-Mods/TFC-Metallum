@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:britannium",
+  "result": "tfc_metallum_modern:britannium",
   "contents": [
     {
       "metal": "tfc:copper",
@@ -9,7 +9,7 @@
       "max": 0.92
     },
     {
-      "metal": "tfc:antimony",
+      "metal": "tfc_metallum_modern:antimony",
       "min": 0.08,
       "max": 0.12
     }

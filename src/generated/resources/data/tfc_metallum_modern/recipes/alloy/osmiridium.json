@@ -1,15 +1,15 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:osmiridium",
+  "result": "tfc_metallum_modern:osmiridium",
   "contents": [
     {
-      "metal": "tfc:iridium",
+      "metal": "tfc_metallum_modern:iridium",
       "min": 0.5,
       "max": 0.55
     },
     {
-      "metal": "tfc:osmium",
+      "metal": "tfc_metallum_modern:osmium",
       "min": 0.45,
       "max": 0.5
     }

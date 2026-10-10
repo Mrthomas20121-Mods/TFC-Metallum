@@ -5,7 +5,7 @@
     "item": "tfc_metallum_modern:ore/normal_wolframite"
   },
   "result_fluid": {
-    "fluid": "tfc_metallum_modern:metal/unrefined_tungsten",
+    "fluid": "tfc_metallum_modern:metal/oxidized_tungsten",
     "amount": 25
   },
   "temperature": 1535

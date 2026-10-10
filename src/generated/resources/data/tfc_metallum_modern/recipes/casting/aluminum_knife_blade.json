@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/knife_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/aluminum",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/knife_blade/aluminum"
+  },
+  "break_chance": 1
+}

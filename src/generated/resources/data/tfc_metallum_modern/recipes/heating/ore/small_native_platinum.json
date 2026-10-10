@@ -5,7 +5,7 @@
     "item": "tfc_metallum_modern:ore/small_native_platinum"
   },
   "result_fluid": {
-    "fluid": "tfc_metallum_modern:metal/unrefined_platinum",
+    "fluid": "tfc_metallum_modern:metal/oxidized_platinum",
     "amount": 10
   },
   "temperature": 1535

@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/ingot_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/weak_titan_steel",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/ingot/weak_titan_steel"
+  },
+  "break_chance": 0.1
+}

@@ -1,7 +1,7 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:purple_gold",
+  "result": "tfc_metallum_modern:purple_gold",
   "contents": [
     {
       "metal": "tfc:gold",
@@ -9,7 +9,7 @@
       "max": 0.92
     },
     {
-      "metal": "tfc:aluminum",
+      "metal": "tfc_metallum_modern:aluminum",
       "min": 0.08,
       "max": 0.12
     }

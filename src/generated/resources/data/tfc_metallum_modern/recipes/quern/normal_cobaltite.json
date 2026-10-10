@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum_modern:ore/normal_cobaltite"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:powder/cobaltite",
+    "count": 5
+  }
+}

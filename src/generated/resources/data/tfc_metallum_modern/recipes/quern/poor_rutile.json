@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum_modern:ore/poor_rutile"
+  },
+  "result": {
+    "item": "tfc_metallum_modern:powder/rutile",
+    "count": 3
+  }
+}

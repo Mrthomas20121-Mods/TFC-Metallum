@@ -5,7 +5,7 @@
     "item": "tfc_metallum_modern:metal/block/tungsten_slab"
   },
   "result_fluid": {
-    "fluid": "tfc_metallum_modern:metal/unrefined_tungsten",
+    "fluid": "tfc_metallum_modern:metal/oxidized_tungsten",
     "amount": 50
   },
   "temperature": 1535

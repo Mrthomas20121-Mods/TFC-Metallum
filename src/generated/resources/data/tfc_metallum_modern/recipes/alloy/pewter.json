@@ -1,17 +1,22 @@
 {
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:alloy",
-  "result": "tfc:pewter",
+  "result": "tfc_metallum_modern:pewter",
   "contents": [
     {
-      "metal": "tfc:antimony",
-      "min": 0.88,
-      "max": 0.92
+      "metal": "tfc:tin",
+      "min": 0.6,
+      "max": 0.8
     },
     {
-      "metal": "tfc:bismuth",
-      "min": 0.08,
-      "max": 0.12
+      "metal": "tfc_metallum_modern:antimony",
+      "min": 0.1,
+      "max": 0.2
+    },
+    {
+      "metal": "tfc_metallum_modern:lead",
+      "min": 0.1,
+      "max": 0.2
     }
   ]
 }

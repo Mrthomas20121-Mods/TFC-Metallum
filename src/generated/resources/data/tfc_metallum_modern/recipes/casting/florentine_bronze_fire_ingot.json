@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/fire_ingot_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc_metallum_modern:metal/florentine_bronze",
+    "amount": 100
+  },
+  "result": {
+    "item": "tfc_metallum_modern:metal/ingot/florentine_bronze"
+  },
+  "break_chance": 0.01
+}
