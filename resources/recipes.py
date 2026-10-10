@@ -67,7 +67,7 @@ def generate(rm: ResourceManager):
                 collapse_recipe(rm, 'ore/normal_%s_%s' % (rock, ore), 'tfc_metallum_modern:ore/rich_%s/%s' % (ore, rock), 'tfc_metallum_modern:ore/normal_%s/%s' % (ore, rock))
 
         for deposit in ORE_DEPOSITS:
-            rm.block_tag('can_landslide', 'tfc_metallum_modern:deposit/%s/%s' % (deposit, rock))
+            rm.block_tag('tfc:can_landslide', 'tfc_metallum_modern:deposit/%s/%s' % (deposit, rock))
             landslide_recipe(rm, '%s_%s_deposit' % (deposit, rock), 'tfc_metallum_modern:deposit/%s/%s' % (deposit, rock), 'tfc_metallum_modern:deposit/%s/%s' % (deposit, rock))
 
     for ore, ore_data in ORES.items():
@@ -180,7 +180,20 @@ def generate(rm: ResourceManager):
         ('weak_titan_steel', 'black_steel', 'high_carbon_titan_steel'),
         ('weak_tungsten_steel', 'black_steel', 'high_carbon_tungsten_steel')
     ):
-        welding_recipe(rm, '%s_ingot' % metal_out, '#forge:ingots/%s' % metal_in_1, '#forge:ingots/%s' % metal_in_2, 'tfc_metallum_modernfc:metal/ingot/%s' % metal_out, METALS[metal_out].tier - 1)
+        welding_recipe(rm, '%s_ingot' % metal_out, '#forge:ingots/%s' % metal_in_1, '#forge:ingots/%s' % metal_in_2, 'tfc_metallum_modern:metal/ingot/%s' % metal_out, METALS[metal_out].tier - 1)
+
+    for metal, metal_data in METALS.items():
+        for tool, tool_data in METAL_ITEMS.items():
+            if tool == 'ingot' or (tool_data.mold and 'tool' in metal_data.types and metal_data.tier <= 2):
+                casting_recipe(rm, '%s_%s' % (metal, tool), tool, metal, tool_data.smelt_amount, 0.1 if tool == 'ingot' else 1)
+            if tool == 'ingot':
+                casting_recipe(rm, '%s_fire_%s' % (metal, tool), 'fire_ingot', metal, tool_data.smelt_amount, 0.01, result_item='tfc_metallum_modern:metal/ingot/%s' % metal)
+
+    for ore, ore_data in ORES.items():
+        if ore_data.graded:
+            for grade, data in ORE_GRADES.items():
+                quern_recipe(rm, '%s_%s' % (grade, ore), 'tfc_metallum_modern:ore/%s_%s' % (grade, ore), 'tfc_metallum_modern:powder/%s' % ore, count=data.grind_amount)
+            quern_recipe(rm, 'small_%s' % ore, 'tfc_metallum_modern:ore/small_%s' % ore, 'tfc_metallum_modern:powder/%s' % ore, count=2)
 
 
 def craft_decorations(rm: ResourceManager, recipe_name: str, base_block: str, has_wall: bool = True):
@@ -188,10 +201,6 @@ def craft_decorations(rm: ResourceManager, recipe_name: str, base_block: str, ha
         rm.crafting_shaped(recipe_name + '_stairs', ['X  ', 'XX ', 'XXX'], base_block, (8, base_block + '_stairs')).with_advancement(base_block)
         if has_wall:
             rm.crafting_shaped(recipe_name + '_wall', ['XXX', 'XXX'], base_block, (6, base_block + '_wall')).with_advancement(base_block)
-
-def generate_test(rm: ResourceManager):
-    simple_pot_recipe(rm, 'test_boiling_ore', [utils.ingredient('#tfc:small_ore_pieces')] * 5, '1000 minecraft:water', None, [item_stack_provider(copy_input=True, add_heat=300)] * 5, 100)
-
 
 def simple_pot_recipe(rm: ResourceManager, name_parts: utils.ResourceIdentifier, ingredients: Json, fluid: str, output_fluid: str = None, output_items: Json = None, duration: int = 2000, temp: int = 300):
     rm.recipe(('pot', name_parts), 'tfc:pot', {
@@ -421,9 +430,9 @@ def casting_recipe(rm: ResourceManager, name_parts: utils.ResourceIdentifier, mo
 
 def alloy_recipe(rm: ResourceManager, name_parts: utils.ResourceIdentifier, metal: str, *parts: Tuple[str, float, float]):
     rm.recipe(('alloy', name_parts), 'tfc:alloy', {
-        'result': 'tfc:%s' % metal,
+        'result': 'tfc_metallum_modern:%s' % metal,
         'contents': [{
-            'metal': 'tfc:%s' % p[0],
+            'metal': p[0],
             'min': p[1],
             'max': p[2]
         } for p in parts]
