@@ -4,7 +4,7 @@
   "result": "tfc_metallum_modern:ferroboron",
   "contents": [
     {
-      "metal": "tfc:iron",
+      "metal": "tfc:wrought_iron",
       "min": 0.5,
       "max": 0.55
     },

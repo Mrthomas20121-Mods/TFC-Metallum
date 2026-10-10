@@ -93,7 +93,7 @@
       "underground_count": 0,
       "blocks": [
         {
-          "block": "tfc:ore/small_native_osmium"
+          "block": "tfc_metallum_modern:ore/small_native_osmium"
         }
       ]
     }

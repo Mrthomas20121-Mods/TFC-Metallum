@@ -25,10 +25,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/granite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/granite"
           }
         ]
       },
@@ -48,10 +44,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/diorite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/diorite"
           }
         ]
       },
@@ -71,10 +63,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/gabbro"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/gabbro"
           }
         ]
       },
@@ -94,10 +82,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/rhyolite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/rhyolite"
           }
         ]
       },
@@ -117,10 +101,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/basalt"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/basalt"
           }
         ]
       },
@@ -140,10 +120,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/andesite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/andesite"
           }
         ]
       },
@@ -163,10 +139,6 @@
           {
             "weight": 5,
             "block": "tfc_metallum_modern:ore/rich_native_iridium/dacite"
-          },
-          {
-            "weight": 10,
-            "block": "tfc_metallum_modern:deposit/native_iridium/dacite"
           }
         ]
       }
@@ -178,7 +150,7 @@
       "underground_count": 0,
       "blocks": [
         {
-          "block": "tfc:ore/small_native_iridium"
+          "block": "tfc_metallum_modern:ore/small_native_iridium"
         }
       ]
     }

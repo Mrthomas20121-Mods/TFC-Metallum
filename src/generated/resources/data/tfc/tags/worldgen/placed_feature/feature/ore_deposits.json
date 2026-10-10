@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:stibnite_deposit",
+    "tfc_metallum_modern:stibnite_deep_deposit",
+    "tfc_metallum_modern:bauxite_deposit",
+    "tfc_metallum_modern:bauxite_deep_deposit",
+    "tfc_metallum_modern:galena_deposit",
+    "tfc_metallum_modern:galena_deep_deposit"
+  ]
+}

@@ -150,7 +150,7 @@
       "underground_count": 0,
       "blocks": [
         {
-          "block": "tfc:ore/small_uraninite"
+          "block": "tfc_metallum_modern:ore/small_uraninite"
         }
       ]
     }

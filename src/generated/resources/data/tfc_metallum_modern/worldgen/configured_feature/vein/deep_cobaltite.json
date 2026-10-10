@@ -131,7 +131,7 @@
       "underground_count": 4,
       "blocks": [
         {
-          "block": "tfc:ore/small_cobaltite"
+          "block": "tfc_metallum_modern:ore/small_cobaltite"
         }
       ]
     }
