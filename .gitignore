@@ -28,3 +28,5 @@ forge*changelog.txt
 lombok.config
 
 src/generated/resources/.cache/
+resources/__pycache__
+*.pyc
