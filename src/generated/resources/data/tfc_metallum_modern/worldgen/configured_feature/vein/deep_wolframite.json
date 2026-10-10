@@ -1,0 +1,120 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 45,
+    "density": 0.11,
+    "min_y": -70,
+    "max_y": 10,
+    "size": 40,
+    "random_name": "deep_wolframite",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/marble"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/gneiss"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/gneiss"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/schist"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/schist"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/granite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/granite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/diorite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/diorite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/diorite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 0,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 4,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_wolframite"
+        }
+      ]
+    }
+  }
+}

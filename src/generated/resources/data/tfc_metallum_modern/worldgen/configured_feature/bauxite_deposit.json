@@ -1,0 +1,92 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:soil_disc",
+  "config": {
+    "min_radius": 1,
+    "max_radius": 3,
+    "height": 2,
+    "integrity": 0.9,
+    "states": [
+      {
+        "replace": "tfc:rock/gravel/granite",
+        "with": "tfc_metallum_modern:deposit/bauxite/granite"
+      },
+      {
+        "replace": "tfc:rock/gravel/diorite",
+        "with": "tfc_metallum_modern:deposit/bauxite/diorite"
+      },
+      {
+        "replace": "tfc:rock/gravel/gabbro",
+        "with": "tfc_metallum_modern:deposit/bauxite/gabbro"
+      },
+      {
+        "replace": "tfc:rock/gravel/shale",
+        "with": "tfc_metallum_modern:deposit/bauxite/shale"
+      },
+      {
+        "replace": "tfc:rock/gravel/claystone",
+        "with": "tfc_metallum_modern:deposit/bauxite/claystone"
+      },
+      {
+        "replace": "tfc:rock/gravel/limestone",
+        "with": "tfc_metallum_modern:deposit/bauxite/limestone"
+      },
+      {
+        "replace": "tfc:rock/gravel/conglomerate",
+        "with": "tfc_metallum_modern:deposit/bauxite/conglomerate"
+      },
+      {
+        "replace": "tfc:rock/gravel/dolomite",
+        "with": "tfc_metallum_modern:deposit/bauxite/dolomite"
+      },
+      {
+        "replace": "tfc:rock/gravel/chert",
+        "with": "tfc_metallum_modern:deposit/bauxite/chert"
+      },
+      {
+        "replace": "tfc:rock/gravel/chalk",
+        "with": "tfc_metallum_modern:deposit/bauxite/chalk"
+      },
+      {
+        "replace": "tfc:rock/gravel/rhyolite",
+        "with": "tfc_metallum_modern:deposit/bauxite/rhyolite"
+      },
+      {
+        "replace": "tfc:rock/gravel/basalt",
+        "with": "tfc_metallum_modern:deposit/bauxite/basalt"
+      },
+      {
+        "replace": "tfc:rock/gravel/andesite",
+        "with": "tfc_metallum_modern:deposit/bauxite/andesite"
+      },
+      {
+        "replace": "tfc:rock/gravel/dacite",
+        "with": "tfc_metallum_modern:deposit/bauxite/dacite"
+      },
+      {
+        "replace": "tfc:rock/gravel/quartzite",
+        "with": "tfc_metallum_modern:deposit/bauxite/quartzite"
+      },
+      {
+        "replace": "tfc:rock/gravel/slate",
+        "with": "tfc_metallum_modern:deposit/bauxite/slate"
+      },
+      {
+        "replace": "tfc:rock/gravel/phyllite",
+        "with": "tfc_metallum_modern:deposit/bauxite/phyllite"
+      },
+      {
+        "replace": "tfc:rock/gravel/schist",
+        "with": "tfc_metallum_modern:deposit/bauxite/schist"
+      },
+      {
+        "replace": "tfc:rock/gravel/gneiss",
+        "with": "tfc_metallum_modern:deposit/bauxite/gneiss"
+      },
+      {
+        "replace": "tfc:rock/gravel/marble",
+        "with": "tfc_metallum_modern:deposit/bauxite/marble"
+      }
+    ]
+  }
+}

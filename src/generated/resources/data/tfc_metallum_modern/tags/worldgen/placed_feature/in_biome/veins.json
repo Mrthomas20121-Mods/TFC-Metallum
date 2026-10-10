@@ -1,0 +1,27 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc_metallum_modern:vein/surface_stibnite",
+    "tfc_metallum_modern:vein/normal_stibnite",
+    "tfc_metallum_modern:vein/deep_stibnite",
+    "tfc_metallum_modern:vein/surface_bauxite",
+    "tfc_metallum_modern:vein/normal_bauxite",
+    "tfc_metallum_modern:vein/deep_bauxite",
+    "tfc_metallum_modern:vein/surface_galena",
+    "tfc_metallum_modern:vein/normal_galena",
+    "tfc_metallum_modern:vein/deep_galena",
+    "tfc_metallum_modern:vein/normal_cobaltite",
+    "tfc_metallum_modern:vein/deep_cobaltite",
+    "tfc_metallum_modern:vein/surface_native_iridium",
+    "tfc_metallum_modern:vein/normal_native_iridium",
+    "tfc_metallum_modern:vein/surface_native_osmium",
+    "tfc_metallum_modern:vein/normal_native_osmium",
+    "tfc_metallum_modern:vein/normal_native_platinum",
+    "tfc_metallum_modern:vein/deep_native_platinum",
+    "tfc_metallum_modern:vein/normal_wolframite",
+    "tfc_metallum_modern:vein/deep_wolframite",
+    "tfc_metallum_modern:vein/normal_uraninite",
+    "tfc_metallum_modern:vein/deep_uraninitee"
+  ]
+}

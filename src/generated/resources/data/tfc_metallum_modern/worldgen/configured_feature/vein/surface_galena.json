@@ -1,0 +1,209 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 22,
+    "density": 0.25,
+    "min_y": 50,
+    "max_y": 145,
+    "size": 18,
+    "random_name": "surface_galena",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/limestone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/limestone"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/limestone"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/limestone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/marble"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/marble"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/quartzite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/quartzite"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/quartzite"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/slate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/slate"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/slate"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/phyllite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/phyllite"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/phyllite"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/schist"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/schist"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/schist"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/gneiss"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/gneiss"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/gneiss"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_galena/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/marble"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_galena/marble"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/galena/marble"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 14,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_galena"
+        }
+      ]
+    }
+  }
+}

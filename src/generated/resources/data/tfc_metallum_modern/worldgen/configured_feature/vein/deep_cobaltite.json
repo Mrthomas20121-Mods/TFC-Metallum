@@ -1,0 +1,139 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 50,
+    "density": 0.11,
+    "min_y": -70,
+    "max_y": 10,
+    "size": 40,
+    "random_name": "deep_cobaltite",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/quartzite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/quartzite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/slate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/slate"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/phyllite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/phyllite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/schist"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/schist"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/gneiss"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/gneiss"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_cobaltite/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_cobaltite/marble"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_cobaltite/marble"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 0,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 4,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_cobaltite"
+        }
+      ]
+    }
+  }
+}

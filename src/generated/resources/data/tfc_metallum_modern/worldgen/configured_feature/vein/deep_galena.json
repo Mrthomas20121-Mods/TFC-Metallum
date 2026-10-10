@@ -1,0 +1,177 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 50,
+    "density": 0.11,
+    "min_y": -70,
+    "max_y": 10,
+    "size": 40,
+    "random_name": "deep_galena",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/limestone"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/limestone"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/limestone"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/limestone"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/marble"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/quartzite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/quartzite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/slate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/slate"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/phyllite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/phyllite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/schist"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/schist"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/gneiss"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/gneiss"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_galena/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_galena/marble"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_galena/marble"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 0,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 4,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_galena"
+        }
+      ]
+    }
+  }
+}

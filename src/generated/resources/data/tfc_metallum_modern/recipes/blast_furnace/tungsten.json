@@ -2,7 +2,7 @@
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:blast_furnace",
   "fluid": {
-    "ingredient": "tfc_metallum_modern:metal/unrefined_tungsten",
+    "ingredient": "tfc_metallum_modern:metal/oxidized_tungsten",
     "amount": 1
   },
   "result": {

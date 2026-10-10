@@ -1,0 +1,101 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 80,
+    "density": 0.25,
+    "min_y": -40,
+    "max_y": 70,
+    "size": 20,
+    "random_name": "normal_native_osmium",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_native_osmium/rhyolite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_native_osmium/rhyolite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_native_osmium/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_native_osmium/basalt"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_native_osmium/basalt"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_native_osmium/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_native_osmium/andesite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_native_osmium/andesite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_native_osmium/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_native_osmium/dacite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_native_osmium/dacite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_native_osmium/dacite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 40,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_native_osmium"
+        }
+      ]
+    }
+  }
+}

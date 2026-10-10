@@ -1,0 +1,158 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 80,
+    "density": 0.25,
+    "min_y": 0,
+    "max_y": 70,
+    "size": 20,
+    "random_name": "normal_uraninite",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/granite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/granite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/diorite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/diorite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/diorite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gabbro"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/gabbro"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/gabbro"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/gabbro"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/rhyolite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/rhyolite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/rhyolite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/rhyolite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/basalt"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/basalt"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/basalt"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/basalt"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/andesite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/andesite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/dacite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/dacite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/dacite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 40,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_uraninite"
+        }
+      ]
+    }
+  }
+}

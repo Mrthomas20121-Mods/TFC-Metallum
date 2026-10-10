@@ -1,0 +1,120 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 45,
+    "density": 0.11,
+    "min_y": -70,
+    "max_y": 10,
+    "size": 40,
+    "random_name": "deep_uraninitee",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/andesite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/andesite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/andesite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/andesite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dacite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/dacite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/dacite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/dacite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/marble"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/marble"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/granite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/granite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "tfc_metallum_modern:ore/poor_uraninite/diorite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_uraninite/diorite"
+          },
+          {
+            "weight": 60,
+            "block": "tfc_metallum_modern:ore/rich_uraninite/diorite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 0,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 4,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_uraninite"
+        }
+      ]
+    }
+  }
+}

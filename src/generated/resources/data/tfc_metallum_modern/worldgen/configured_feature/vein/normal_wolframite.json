@@ -1,0 +1,139 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 80,
+    "density": 0.25,
+    "min_y": 0,
+    "max_y": 70,
+    "size": 20,
+    "random_name": "normal_wolframite",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/quartzite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/quartzite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/quartzite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/quartzite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/slate"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/slate"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/slate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/slate"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/phyllite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/phyllite"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/phyllite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/phyllite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/schist"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/schist"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/schist"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/schist"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gneiss"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/gneiss"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/gneiss"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/gneiss"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/marble"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "tfc_metallum_modern:ore/poor_wolframite/marble"
+          },
+          {
+            "weight": 40,
+            "block": "tfc_metallum_modern:ore/normal_wolframite/marble"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/rich_wolframite/marble"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 40,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_wolframite"
+        }
+      ]
+    }
+  }
+}

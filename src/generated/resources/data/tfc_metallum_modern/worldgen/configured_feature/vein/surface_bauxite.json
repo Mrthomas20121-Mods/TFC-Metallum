@@ -1,0 +1,117 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 24,
+    "density": 0.25,
+    "min_y": 40,
+    "max_y": 145,
+    "size": 20,
+    "random_name": "surface_bauxite",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/shale"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_bauxite/shale"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_bauxite/shale"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_bauxite/shale"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/bauxite/shale"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/chert"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_bauxite/chert"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_bauxite/chert"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_bauxite/chert"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/bauxite/chert"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/dolomite"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_bauxite/dolomite"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_bauxite/dolomite"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_bauxite/dolomite"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/bauxite/dolomite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/conglomerate"
+        ],
+        "with": [
+          {
+            "weight": 70,
+            "block": "tfc_metallum_modern:ore/poor_bauxite/conglomerate"
+          },
+          {
+            "weight": 25,
+            "block": "tfc_metallum_modern:ore/normal_bauxite/conglomerate"
+          },
+          {
+            "weight": 5,
+            "block": "tfc_metallum_modern:ore/rich_bauxite/conglomerate"
+          },
+          {
+            "weight": 10,
+            "block": "tfc_metallum_modern:deposit/bauxite/conglomerate"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 14,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_bauxite"
+        }
+      ]
+    }
+  }
+}

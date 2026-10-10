@@ -9,7 +9,7 @@
       "max": 0.4
     },
     {
-      "metal": "tfc:iron",
+      "metal": "tfc:wrought_iron",
       "min": 0.6,
       "max": 0.8
     }
