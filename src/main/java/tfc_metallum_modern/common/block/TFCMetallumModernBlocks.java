@@ -1,10 +1,12 @@
 package tfc_metallum_modern.common.block;
 
+import net.dries007.tfc.common.blocks.FluidCauldronBlock;
 import net.dries007.tfc.common.blocks.GroundcoverBlock;
 import net.dries007.tfc.common.blocks.MoltenFluidBlock;
 import net.dries007.tfc.common.blocks.OreDeposit;
 import net.dries007.tfc.common.blocks.rock.Ore;
 import net.dries007.tfc.common.blocks.rock.Rock;
+import net.dries007.tfc.common.fluids.FluidId;
 import net.dries007.tfc.util.Helpers;
 import net.dries007.tfc.util.registry.RegistrationHelpers;
 import net.minecraft.core.registries.Registries;
@@ -60,6 +62,10 @@ public class TFCMetallumModernBlocks {
             Helpers.mapOfKeys(TFCMetallumModernOreDeposit.class, ore ->
                     register("deposit/" + ore.name() + "/" + rock.name(), () -> new Block(Block.Properties.of().mapColor(MapColor.STONE).sound(SoundType.GRAVEL).strength(rock.category().hardness(2.0f)))) // Same hardness as gravel
             )
+    );
+
+    public static final Map<TFCMetallumModernMetal, RegistryObject<FluidCauldronBlock>> CAULDRONS = Helpers.mapOfKeys(TFCMetallumModernMetal.class, metal ->
+            registerNoItem("cauldron/metal/" + metal.getSerializedName(), () -> new FluidCauldronBlock(BlockBehaviour.Properties.copy(Blocks.CAULDRON)))
     );
 
     private static <T extends Block> RegistryObject<T> registerNoItem(String name, Supplier<T> blockSupplier)
