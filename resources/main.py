@@ -4,6 +4,7 @@ from assets import generate as generateAssets;
 from recipes import generate as generateRecipes;
 from data import generate as generateData;
 from tags import generate as generateTags;
+from worldgen import generate as generateWorldgen;
 from argparse import ArgumentParser
 
 RESOURCE_DIR = 'src/generated/resources'
@@ -22,10 +23,11 @@ def main():
     for action in args.actions:
         if(action == 'all'):
             rm.lang(DEFAULT_LANG)
-            generateAssets(rm);
-            generateData(rm);
-            generateRecipes(rm);
-            generateTags(rm);
+            generateAssets(rm)
+            generateData(rm)
+            generateRecipes(rm)
+            generateTags(rm)
+            generateWorldgen(rm)
 
             rm.flush()
 

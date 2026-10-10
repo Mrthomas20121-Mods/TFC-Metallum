@@ -42,9 +42,9 @@ class Rules(Enum):
 
 def generate(rm: ResourceManager):
 
-    blast_furnace_recipe(rm, 'platinum', '1 tfc_metallum_modern:metal/unrefined_platinum', '1 tfc_metallum_modern:metal/platinum', '#tfc:flux')
-    blast_furnace_recipe(rm, 'titanium', '1 tfc_metallum_modern:metal/unrefined_titanium', '1 tfc_metallum_modern:metal/titanium', '#tfc:flux')
-    blast_furnace_recipe(rm, 'tungsten', '1 tfc_metallum_modern:metal/unrefined_tungsten', '1 tfc_metallum_modern:metal/tungsten', '#tfc:flux')
+    blast_furnace_recipe(rm, 'platinum', '1 tfc_metallum_modern:metal/oxidized_platinum', '1 tfc_metallum_modern:metal/platinum', '#tfc:flux')
+    blast_furnace_recipe(rm, 'titanium', '1 tfc_metallum_modern:metal/oxidized_titanium', '1 tfc_metallum_modern:metal/titanium', '#tfc:flux')
+    blast_furnace_recipe(rm, 'tungsten', '1 tfc_metallum_modern:metal/oxidized_tungsten', '1 tfc_metallum_modern:metal/tungsten', '#tfc:flux')
 
     for metal, metal_data in METALS.items():
             if 'part' in metal_data.types:

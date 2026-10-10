@@ -261,7 +261,7 @@ ALLOYS: Dict[str, Tuple[Tuple[str, float, float], ...]] = {
     'ferroboron': (('tfc:iron', 0.5, 0.55), ('tfc_metallum_modern:boron', 0.45, 0.5)),
     'constantan': (('tfc:copper', 0.5, 0.55), ('tfc:nickel', 0.45, 0.5)),
     'electrum': (('tfc:silver', 0.5, 0.55), ('tfc:gold', 0.45, 0.5)),
-    'invar': (('tfc:nickel', 0.2, 0.4), ('tfc:iron', 0.6, 0.8)),
+    'invar': (('tfc:nickel', 0.2, 0.4), ('tfc:wrought_iron', 0.6, 0.8)),
     'britannium': (('tfc:copper', 0.88, 0.92), ('tfc_metallum_modern:antimony', 0.08, 0.12)),
     'purple_gold': (('tfc:gold', 0.88, 0.92), ('tfc_metallum_modern:aluminum', 0.08, 0.12)),
     'osmiridium': (('tfc_metallum_modern:iridium', 0.5, 0.55), ('tfc_metallum_modern:osmium', 0.45, 0.5)),
@@ -284,6 +284,8 @@ ORES: Dict[str, Ore] = {
     'wolframite': Ore('oxidized_tungsten', True, 'steel', 'tungsten'),
     'uraninite': Ore('uranium', True, 'bronze', 'uranium'),
 }
+
+ROCK_CATEGORIES = ('sedimentary', 'metamorphic', 'igneous_extrusive', 'igneous_intrusive')
 
 ORE_GRADES: Dict[str, OreGrade] = {
     'normal': OreGrade(5),
@@ -311,7 +313,7 @@ ORE_VEINS: dict[str, Vein] = {
     # lead
     'surface_galena': Vein.new('galena', 22, 18, 50, 145, 0.25, ('limestone', 'marble', 'metamorphic',), grade=POOR, deposits=True, indicator=14),
     'normal_galena': Vein.new('galena', 80, 20, 0, 70, 0.25, ('limestone', 'marble', 'metamorphic',), grade=NORMAL, indicator=40),
-    'deep_galena': Vein.new('gelana', 50, 40, -70, 10, 0.11, ('limestone', 'marble', 'metamorphic',), grade=RICH, indicator=0, deep_indicator=(1, 4)),
+    'deep_galena': Vein.new('galena', 50, 40, -70, 10, 0.11, ('limestone', 'marble', 'metamorphic',), grade=RICH, indicator=0, deep_indicator=(1, 4)),
 
     # cobalt
     'normal_cobaltite': Vein.new('cobaltite', 85, 20, 0, 70, 0.25, ('metamorphic',), grade=NORMAL, indicator=40),

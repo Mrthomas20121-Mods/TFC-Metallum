@@ -24,8 +24,39 @@ def generate(rm: ResourceManager):
 
 
     rm.placed_feature_tag('in_biome/veins', *[
-        *('tfc:vein/%s' % v for v in ORE_VEINS.keys())
+        *('tfc_metallum_modern:vein/%s' % v for v in ORE_VEINS.keys())
     ])
+
+    for vein_name, vein in ORE_VEINS.items():
+        rocks = expand_rocks(vein.rocks)
+        ore = ORES[vein.ore]  # standard ore
+        if ore.graded:  # graded ore vein
+            configured_placed_feature(rm, ('vein', vein_name), vein.vein_type, {
+                **vein.config(),
+                'random_name': vein_name,
+                'blocks': [{
+                    'replace': ['tfc:rock/raw/%s' % rock],
+                    'with': vein_ore_blocks(vein, rock)
+                } for rock in rocks],
+                'indicator': {
+                    'rarity': vein.indicator_rarity,
+                    'depth': 35,
+                    'underground_rarity': vein.underground_rarity,
+                    'underground_count': vein.underground_count,
+                    'blocks': [{
+                        'block': 'tfc:ore/small_%s' % vein.ore
+                    }]
+                },
+            })
+        else:  # non-graded ore vein (mineral)
+            configured_placed_feature(rm, ('vein', vein_name), vein.vein_type, {
+                **vein.config(),
+                'random_name': vein_name,
+                'blocks': [{
+                    'replace': ['tfc:rock/raw/%s' % rock],
+                    'with': mineral_ore_blocks(vein, rock)
+                } for rock in rocks],
+            })
 
 Heightmap = Literal['motion_blocking', 'motion_blocking_no_leaves', 'ocean_floor', 'ocean_floor_wg', 'world_surface', 'world_surface_wg']
 HeightProviderType = Literal['constant', 'uniform', 'biased_to_bottom', 'very_biased_to_bottom', 'trapezoid', 'weighted_list']
@@ -63,3 +94,34 @@ def height_provider(min_y: VerticalAnchor, max_y: VerticalAnchor, height_type: H
         'min_inclusive': utils.as_vertical_anchor(min_y),
         'max_inclusive': utils.as_vertical_anchor(max_y)
     }
+
+def vein_ore_blocks(vein: Vein, rock: str) -> List[Dict[str, Any]]:
+    poor, normal, rich = vein.grade
+    ore_blocks = [{
+        'weight': poor,
+        'block': 'tfc_metallum_modern:ore/poor_%s/%s' % (vein.ore, rock)
+    }, {
+        'weight': normal,
+        'block': 'tfc_metallum_modern:ore/normal_%s/%s' % (vein.ore, rock)
+    }, {
+        'weight': rich,
+        'block': 'tfc_metallum_modern:ore/rich_%s/%s' % (vein.ore, rock)
+    }]
+    if vein.deposits:
+        ore_blocks.append({
+            'weight': 10,
+            'block': 'tfc_metallum_modern:deposit/%s/%s' % (vein.ore, rock)
+        })
+    return ore_blocks
+
+
+def mineral_ore_blocks(vein: Vein, rock: str) -> List[Dict[str, Any]]:
+    return [{'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.ore, rock)}]
+
+def expand_rocks(rocks: list[str]) -> list[str]:
+    assert all(r in ROCKS or r in ROCK_CATEGORIES for r in rocks)
+    return [
+        rock
+        for spec in rocks
+        for rock in ([spec] if spec in ROCKS else [r for r, d in ROCKS.items() if d.category == spec])
+    ]
