@@ -258,7 +258,7 @@ BLOOM_METALS = [
 
 ALLOYS: Dict[str, Tuple[Tuple[str, float, float], ...]] = {
     'florentine_bronze': (('tfc:copper', 0.88, 0.92), ('tfc_metallum_modern:aluminum', 0.08, 0.12)),
-    'ferroboron': (('tfc:iron', 0.5, 0.55), ('tfc_metallum_modern:boron', 0.45, 0.5)),
+    'ferroboron': (('tfc:wrought_iron', 0.5, 0.55), ('tfc_metallum_modern:boron', 0.45, 0.5)),
     'constantan': (('tfc:copper', 0.5, 0.55), ('tfc:nickel', 0.45, 0.5)),
     'electrum': (('tfc:silver', 0.5, 0.55), ('tfc:gold', 0.45, 0.5)),
     'invar': (('tfc:nickel', 0.2, 0.4), ('tfc:wrought_iron', 0.6, 0.8)),
@@ -320,11 +320,11 @@ ORE_VEINS: dict[str, Vein] = {
     'deep_cobaltite': Vein.new('cobaltite', 50, 40, -70, 10, 0.11, ('metamorphic',), grade=RICH, indicator=0, deep_indicator=(1, 4)),
 
     # iridium
-    'surface_native_iridium': Vein.new('native_iridium', 22, 18, 50, 135, 0.25, ('igneous_intrusive', 'igneous_extrusive',), grade=POOR, deposits=True, indicator=14),
+    'surface_native_iridium': Vein.new('native_iridium', 22, 18, 50, 135, 0.25, ('igneous_intrusive', 'igneous_extrusive',), grade=POOR, indicator=14),
     'normal_native_iridium': Vein.new('native_iridium', 80, 20, -40, 70, 0.25, ('igneous_intrusive',), grade=NORMAL, indicator=40),
 
     # osmium
-    'surface_native_osmium': Vein.new('native_osmium', 22, 18, 50, 135, 0.25, ('igneous_intrusive', 'igneous_extrusive',), grade=POOR, deposits=True, indicator=14),
+    'surface_native_osmium': Vein.new('native_osmium', 22, 18, 50, 135, 0.25, ('igneous_intrusive', 'igneous_extrusive',), grade=POOR, indicator=14),
     'normal_native_osmium': Vein.new('native_osmium', 80, 20, -40, 70, 0.25, ('igneous_extrusive',), grade=NORMAL, indicator=40),
 
     # platinum

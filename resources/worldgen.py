@@ -22,8 +22,9 @@ def generate(rm: ResourceManager):
             'states': [{'replace': 'tfc:rock/raw/%s' % rock, 'with': 'tfc_metallum_modern:deposit/%s/%s' % (ore, rock)} for rock in ROCKS.keys()]
         }, decorate_chance(24), decorate_square(), decorate_range(40, 63), decorate_biome())
 
+        rm.placed_feature_tag('tfc:feature/ore_deposits', 'tfc_metallum_modern:%s_deposit' % ore, 'tfc_metallum_modern:%s_deep_deposit' % ore)
 
-    rm.placed_feature_tag('in_biome/veins', *[
+    rm.placed_feature_tag('tfc:in_biome/veins', *[
         *('tfc_metallum_modern:vein/%s' % v for v in ORE_VEINS.keys())
     ])
 
@@ -44,7 +45,7 @@ def generate(rm: ResourceManager):
                     'underground_rarity': vein.underground_rarity,
                     'underground_count': vein.underground_count,
                     'blocks': [{
-                        'block': 'tfc:ore/small_%s' % vein.ore
+                        'block': 'tfc_metallum_modern:ore/small_%s' % vein.ore
                     }]
                 },
             })
@@ -107,6 +108,13 @@ def vein_ore_blocks(vein: Vein, rock: str) -> List[Dict[str, Any]]:
         'weight': rich,
         'block': 'tfc_metallum_modern:ore/rich_%s/%s' % (vein.ore, rock)
     }]
+    if False:  # todo: spoiler stuff?
+        if vein.spoiler_ore is not None and rock in vein.spoiler_rocks:
+            p = vein.spoiler_rarity * 0.01  # as a percentage of the overall vein
+            ore_blocks.append({
+                'weight': int(100 * p / (1 - p)),
+                'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.spoiler_ore, rock)
+            })
     if vein.deposits:
         ore_blocks.append({
             'weight': 10,
@@ -114,9 +122,17 @@ def vein_ore_blocks(vein: Vein, rock: str) -> List[Dict[str, Any]]:
         })
     return ore_blocks
 
-
 def mineral_ore_blocks(vein: Vein, rock: str) -> List[Dict[str, Any]]:
-    return [{'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.ore, rock)}]
+    if False:
+        if vein.spoiler_ore is not None and rock in vein.spoiler_rocks:
+            ore_blocks = [{'weight': 100, 'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.ore, rock)}]
+            p = vein.spoiler_rarity * 0.01  # as a percentage of the overall vein
+            ore_blocks.append({
+                'weight': int(100 * p / (1 - p)),
+                'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.spoiler_ore, rock)
+            })
+    ore_blocks = [{'block': 'tfc_metallum_modern:ore/%s/%s' % (vein.ore, rock)}]
+    return ore_blocks
 
 def expand_rocks(rocks: list[str]) -> list[str]:
     assert all(r in ROCKS or r in ROCK_CATEGORIES for r in rocks)
