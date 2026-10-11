@@ -2146,7 +2146,7 @@
 	],
 	"gui_light": "front",
 	"overrides": [
-		{"predicate": {"blocking": 1}, "model": "tfc_metallum_modern:item/metal/shield/titan_steell_blocking"}
+		{"predicate": {"blocking": 1}, "model": "tfc_metallum_modern:item/metal/shield/titan_steel_blocking"}
 	],
 	"display": {
 		"thirdperson_righthand": {
