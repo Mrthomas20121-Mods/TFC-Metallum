@@ -106,22 +106,22 @@ class Metal(NamedTuple):
 
 TOOL_TAGS: Dict[str, str] = {
     # Rock
-    'axe': 'axes',
-    'hammer': 'hammers',
-    'hoe': 'hoes',
-    'javelin': 'javelins',
-    'knife': 'knives',
-    'shovel': 'shovels',
+    'axe': 'tfc:axes',
+    'hammer': 'tfc:hammers',
+    'hoe': 'tfc:hoes',
+    'javelin': 'tfc:javelins',
+    'knife': 'tfc:knives',
+    'shovel': 'tfc:shovels',
     # Metal Only
-    'pickaxe': 'pickaxes',
-    'chisel': 'chisels',
-    'mace': 'maces',
-    'sword': 'swords',
-    'saw': 'saws',
-    'propick': 'propicks',
-    'scythe': 'scythes',
-    'shears': 'shears',
-    'tuyere': 'tuyeres'
+    'pickaxe': 'tfc:pickaxes',
+    'chisel': 'tfc:chisels',
+    'mace': 'tfc:maces',
+    'sword': 'tfc:swords',
+    'saw': 'tfc:saws',
+    'propick': 'tfc:propicks',
+    'scythe': 'tfc:scythes',
+    'shears': 'tfc:shears',
+    'tuyere': 'tfc:tuyeres'
 }
 
 ROCKS: Dict[str, Rock] = {
